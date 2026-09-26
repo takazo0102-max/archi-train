@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="30" text-anchor="middle" font-size="20" font-weight="700" fill="#1e293b">居室の天井の高さ</text>
+
+  <!-- 部屋の断面 -->
+  <rect x="150" y="80" width="230" height="150" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <!-- 床 -->
+  <rect x="150" y="222" width="230" height="8" fill="#94a3b8"/>
+  <!-- 天井 -->
+  <rect x="150" y="80" width="230" height="8" fill="#94a3b8"/>
+
+  <!-- 人（スケール） -->
+  <g fill="#64748b">
+    <circle cx="320" cy="150" r="10"/>
+    <rect x="314" y="162" width="12" height="42" rx="4"/>
+  </g>
+
+  <!-- 高さ寸法 2.1m -->
+  <g stroke="#16a34a" stroke-width="2" fill="#16a34a">
+    <line x1="190" y1="88" x2="190" y2="222"/>
+    <polygon points="190,88 184,100 196,100"/>
+    <polygon points="190,222 184,210 196,210"/>
+  </g>
+  <text x="205" y="158" font-size="18" fill="#16a34a" font-weight="700">2.1m 以上 ◯</text>
+
+  <!-- 誤りの注記 -->
+  <text x="250" y="268" text-anchor="middle" font-size="15" fill="#334155" font-weight="700">居室の天井高さは <tspan fill="#16a34a">2.1m</tspan> 以上（<tspan fill="#dc2626">2.4mは誤り</tspan>）</text>
+</svg>

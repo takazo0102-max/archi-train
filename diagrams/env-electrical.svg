@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">電気設備の基本</text>
+  <g font-size="10" fill="#334155" text-anchor="middle">
+    <rect x="20" y="50" width="80" height="40" rx="6" fill="#fff" stroke="#0ea5e9" stroke-width="2"/><text x="60" y="68" font-weight="700">受電</text><text x="60" y="82">6.6kV（高圧）</text>
+    <rect x="130" y="50" width="80" height="40" rx="6" fill="#fff" stroke="#0ea5e9" stroke-width="2"/><text x="170" y="68" font-weight="700">変圧器</text><text x="170" y="82">受変電室</text>
+    <rect x="240" y="50" width="80" height="40" rx="6" fill="#fff" stroke="#0ea5e9" stroke-width="2"/><text x="280" y="68" font-weight="700">幹線</text><text x="280" y="82">EPS を通す</text>
+    <rect x="350" y="50" width="130" height="40" rx="6" fill="#fff" stroke="#0ea5e9" stroke-width="2"/><text x="415" y="68" font-weight="700">分電盤 → 負荷</text><text x="415" y="82">100V／200V</text>
+    <g stroke="#64748b" stroke-width="2"><line x1="100" y1="70" x2="130" y2="70"/><line x1="210" y1="70" x2="240" y2="70"/><line x1="320" y1="70" x2="350" y2="70"/></g>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="100" width="460" height="140" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="118">● 契約電力 <tspan font-weight="700">50kW以上</tspan> → 高圧受電（受変電設備）。2,000kW以上は特別高圧</text>
+    <text x="30" y="136">● 力率＝有効電力÷皮相電力。コンデンサで改善 → 電流減・損失減・基本料金割引</text>
+    <text x="30" y="154">● 単相3線 100/200V（住宅）、三相3線 200V（動力）、三相4線 240/415V（大規模）</text>
+    <text x="30" y="172">● 電圧降下：幹線の長さに比例、断面積に反比例。幹線は 2%以内程度に</text>
+    <text x="30" y="190">● 接地：A種（高圧機器）・B種（変圧器中性点）・C種（300V超）・D種（300V以下）</text>
+    <text x="30" y="208">● 非常電源：自家発電（40秒以内に電圧確立）・蓄電池（非常照明 30分）</text>
+    <text x="30" y="226">● UPS（無停電電源）：コンピュータ等の瞬断対策。避雷設備は高さ <tspan font-weight="700">20m超</tspan></text>
+  </g>
+  <text x="250" y="262" text-anchor="middle" font-size="10.5" fill="#334155">受変電室：負荷の中心近く・浸水しない・搬入路確保・キュービクルは屋外設置可</text>
+  <text x="250" y="280" text-anchor="middle" font-size="10" fill="#64748b">EPS（電気シャフト）は各階同位置に。弱電（電話・LAN）と強電は分ける</text>
+  <text x="250" y="294" text-anchor="middle" font-size="10" fill="#64748b">LED：高効率・長寿命・調光しやすい。照明電力は数 W/m² 程度に</text>
+</svg>

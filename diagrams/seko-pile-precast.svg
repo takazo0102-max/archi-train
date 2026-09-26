@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">既製杭：セメントミルク工法（プレボーリング）</text>
+  <!-- 地盤 -->
+  <rect x="30" y="60" width="200" height="200" fill="#f5f0e6"/>
+  <rect x="30" y="200" width="200" height="60" fill="#d6c7a8"/>
+  <text x="45" y="220" font-size="11" fill="#5b4636">支持層</text>
+  <!-- 掘削孔と杭 -->
+  <rect x="115" y="60" width="40" height="165" fill="#e2e8f0" stroke="#94a3b8"/>
+  <rect x="122" y="60" width="26" height="150" fill="#cbd5e1" stroke="#475569" stroke-width="2"/>
+  <rect x="115" y="200" width="40" height="25" fill="#fde68a" stroke="#b45309"/>
+  <text x="165" y="215" font-size="11" fill="#92400e" font-weight="700">根固め液</text>
+  <text x="165" y="150" font-size="11" fill="#334155">杭周固定液</text>
+  <!-- 寸法 -->
+  <line x1="95" y1="200" x2="95" y2="225" stroke="#dc2626" stroke-width="1.5"/>
+  <text x="90" y="215" text-anchor="end" font-size="10" fill="#dc2626" textLength="55" lengthAdjust="spacingAndGlyphs">掘削1.5m程度</text>
+  <line x1="240" y1="200" x2="240" y2="210" stroke="#0369a1" stroke-width="1.5"/>
+  <text x="245" y="208" font-size="10" fill="#0369a1">根入れ1m以上</text>
+  <g font-size="11" fill="#334155">
+    <text x="270" y="70" font-weight="700" fill="#1e293b">施工のポイント</text>
+    <text x="270" y="88">・支持層到達：電流値の変化＋柱状図</text>
+    <text x="270" y="104">　＋排出土の照合（N値換算は不可）</text>
+    <text x="270" y="120">・オーガーは正回転のまま引き上げ</text>
+    <text x="270" y="136">・根固め液→杭周固定液の順に注入</text>
+    <text x="270" y="152">・杭心ずれ D/4かつ100mm以下</text>
+    <text x="270" y="168">・鉛直精度 1/100以内</text>
+    <text x="270" y="184">・試験杭は最初の本杭と兼ねられる</text>
+    <text x="270" y="210" font-weight="700" fill="#1e293b">場所打ち杭（比較）</text>
+    <text x="270" y="226">・安定液は低粘性・低比重</text>
+    <text x="270" y="242" textLength="225" lengthAdjust="spacingAndGlyphs">・水中打込みの単位セメント量330kg/m³以上</text>
+    <text x="270" y="258">・トレミー管は先端2m以上コンクリート中</text>
+    <text x="270" y="274">・杭頭余盛りは14日程度後にはつる</text>
+  </g>
+</svg>

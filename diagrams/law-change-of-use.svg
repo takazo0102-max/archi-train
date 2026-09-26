@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">用途変更・増改築と既存不適格</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="40" width="225" height="118" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="58" font-weight="700" fill="#1e293b">用途変更の確認申請（法87条）</text>
+    <text x="30" y="76">● 特殊建築物（法6条1項一号）への変更で</text>
+    <text x="30" y="92" textLength="210" lengthAdjust="spacingAndGlyphs">　その用途の床面積 <tspan font-weight="700">200m²超</tspan> → 確認が必要</text>
+    <text x="30" y="110">● 類似の用途（劇場⇄映画館、ホテル⇄旅館</text>
+    <text x="30" y="126">　下宿⇄寄宿舎 など）相互は不要</text>
+    <text x="30" y="144" textLength="210" lengthAdjust="spacingAndGlyphs">● 完了は「工事完了届」（検査済証ではない）</text>
+    <rect x="255" y="40" width="230" height="118" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="265" y="58" font-weight="700" fill="#1e293b">既存不適格（法3条2項・86条の7）</text>
+    <text x="265" y="76">● 法改正前から適法に存在 → 適用除外</text>
+    <text x="265" y="94">● 増改築等をすると原則全体に現行法が適用</text>
+    <text x="265" y="112">● 緩和：増築が基準時の延べ面積の <tspan font-weight="700">1/2以内</tspan></text>
+    <text x="265" y="128" textLength="215" lengthAdjust="spacingAndGlyphs">　（構造）、1/20以下かつ50m²以内（防火）等</text>
+    <text x="265" y="146">● 確認申請には既存不適格調書を添付</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="166" width="460" height="104" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="184" font-weight="700" fill="#1e293b">用途変更で「準用される」規定・「されない」規定</text>
+    <text x="30" y="202">● 準用される：法27条（耐火）・28条（採光換気）・35条（避難）・35条の2・48条（用途）</text>
+    <text x="30" y="220">● 準用されない：法20条（構造）・56条（高さ）など → 用途変更だけなら構造計算不要</text>
+    <text x="30" y="238">● 増築の場合は全体が「新築」扱いで、原則現行法（避難・構造も）に適合させる</text>
+    <text x="30" y="256">● 改築＝従前と同規模・同用途で建て替え／移転＝同一敷地内で位置を変える</text>
+  </g>
+  <text x="250" y="290" text-anchor="middle" font-size="10" fill="#64748b">大規模の修繕・模様替：主要構造部の一種以上を過半 → 確認申請の対象（一〜三号建築物）</text>
+</svg>

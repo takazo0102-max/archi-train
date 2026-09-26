@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">荷重と外力（令83〜88条）</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="40" width="460" height="128" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="58" font-weight="700" fill="#1e293b">積載荷重（令85条）N/m²</text>
+    <text x="250" y="58" font-weight="700" fill="#1e293b">床用</text><text x="330" y="58" font-weight="700" fill="#1e293b">大梁・柱・基礎用</text><text x="440" y="58" font-weight="700" fill="#1e293b">地震用</text>
+    <line x1="20" y1="64" x2="480" y2="64" stroke="#94a3b8"/>
+    <text x="30" y="82">住宅の居室・寝室・病室</text><text x="250" y="82">1,800</text><text x="330" y="82">1,300</text><text x="440" y="82">600</text>
+    <text x="30" y="100">事務室</text><text x="250" y="100">2,900</text><text x="330" y="100">1,800</text><text x="440" y="100">800</text>
+    <text x="30" y="118">教室</text><text x="250" y="118">2,300</text><text x="330" y="118">2,100</text><text x="440" y="118">1,100</text>
+    <text x="30" y="136">百貨店・店舗の売場</text><text x="250" y="136">2,900</text><text x="330" y="136">2,400</text><text x="440" y="136">1,300</text>
+    <text x="30" y="154">劇場の固定席／倉庫</text><text x="250" y="154">2,900／3,900</text><text x="330" y="154">2,600／3,900</text><text x="430" y="154">1,600／2,000</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="176" width="460" height="96" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="194">● 床用 ＞ 大梁・柱用 ＞ 地震用（支える面積が広いほど同時に載る確率が低い）</text>
+    <text x="30" y="212">● 柱・基礎の積載荷重は支える床の数に応じて低減できる（劇場・倉庫等は不可）</text>
+    <text x="30" y="230">● 積雪：<tspan font-weight="700">20N/m²/cm</tspan>（多雪区域は条例）。勾配 60°超は 0。多雪区域は長期にも考慮</text>
+    <text x="30" y="248" textLength="445" lengthAdjust="spacingAndGlyphs">● 風圧力 ＝ 速度圧 q × 風力係数 Cf。q ＝ 0.6 E V0²（V0 30〜46m/s、粗度区分 Ⅰ〜Ⅳ）</text>
+    <text x="30" y="266">● 地震層せん断力 Qi ＝ Ci × Wi、Ci ＝ Z・Rt・Ai・C0（C0 ≧ 0.2、大地震 1.0）</text>
+  </g>
+  <text x="250" y="290" text-anchor="middle" font-size="10" fill="#64748b">Ai：上階ほど大きい（1階＝1.0）　Rt：固有周期が長いほど小さい　Z：地域係数 0.7〜1.0</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">基礎の種類と地盤の性質</text>
+  <g font-size="9" fill="#334155" text-anchor="middle">
+    <rect x="20" y="42" width="100" height="90" fill="#fff" stroke="#94a3b8"/>
+    <rect x="40" y="50" width="16" height="40" fill="#64748b"/><rect x="30" y="90" width="36" height="10" fill="#334155"/>
+    <rect x="80" y="50" width="16" height="40" fill="#64748b"/><rect x="70" y="90" width="36" height="10" fill="#334155"/>
+    <text x="70" y="118" font-weight="700">独立基礎</text>
+    <rect x="135" y="42" width="100" height="90" fill="#fff" stroke="#94a3b8"/>
+    <rect x="155" y="50" width="16" height="40" fill="#64748b"/><rect x="195" y="50" width="16" height="40" fill="#64748b"/><rect x="145" y="90" width="80" height="10" fill="#334155"/>
+    <text x="185" y="118" font-weight="700">布基礎・べた基礎</text>
+    <rect x="250" y="42" width="100" height="90" fill="#fff" stroke="#94a3b8"/>
+    <rect x="290" y="50" width="16" height="30" fill="#64748b"/><rect x="275" y="80" width="46" height="8" fill="#334155"/>
+    <g fill="#94a3b8"><rect x="280" y="88" width="8" height="36"/><rect x="308" y="88" width="8" height="36"/></g>
+    <rect x="250" y="122" width="100" height="10" fill="#cbd5e1"/>
+    <text x="300" y="142" font-weight="700">杭基礎（支持杭）</text>
+    <rect x="365" y="42" width="120" height="90" fill="#fff" stroke="#94a3b8"/>
+    <text x="425" y="60" font-weight="700" fill="#1e293b">異種基礎は避ける</text>
+    <text x="425" y="76">直接基礎＋杭基礎の併用は</text>
+    <text x="425" y="90">不同沈下の原因</text>
+    <text x="425" y="110">フーチングの底面は</text>
+    <text x="425" y="124">凍結深度より下に</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="152" width="460" height="118" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="170" font-weight="700" fill="#1e293b">地盤の数字と性質</text>
+    <text x="30" y="188">● 長期許容支持力：岩盤1,000、砂礫300、砂質50〜100、粘土20〜50 kN/m²（短期2倍）</text>
+    <text x="30" y="206">● N値：砂質土は密度、粘性土は硬さの目安。粘性土の沈下（圧密）は長期に続く</text>
+    <text x="30" y="224">● 即時沈下（砂）／圧密沈下（粘土）。負の摩擦力：圧密で杭に下向きの力</text>
+    <text x="30" y="242">● 支持力：粘着力 c・内部摩擦角 φ・根入れ深さ・基礎幅で決まる（テルツァギー）</text>
+    <text x="30" y="260">● 地盤改良：浅層（セメント混合）・深層（柱状改良）・締固め・置換　● 液状化は砂質地盤</text>
+  </g>
+  <text x="250" y="290" text-anchor="middle" font-size="10" fill="#64748b">杭：支持杭（先端支持）／摩擦杭（周面摩擦）。群杭は単杭合計より支持力減・沈下増</text>
+</svg>

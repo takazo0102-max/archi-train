@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">手すり壁・さくの高さ（令126条）と屋上広場</text>
+  <!-- バルコニー断面 -->
+  <rect x="40" y="70" width="140" height="150" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="180" y="150" width="90" height="12" fill="#cbd5e1" stroke="#64748b"/>
+  <line x1="262" y1="150" x2="262" y2="84" stroke="#ef4444" stroke-width="4"/>
+  <line x1="240" y1="84" x2="290" y2="84" stroke="#ef4444" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <text x="200" y="122" text-anchor="end" font-size="13" font-weight="700" fill="#b91c1c">1.1m以上 →</text>
+  <text x="225" y="180" text-anchor="middle" font-size="11" fill="#334155">バルコニー（2階以上）</text>
+  <text x="110" y="145" text-anchor="middle" font-size="11" fill="#334155">室内</text>
+  <text x="180" y="245" text-anchor="middle" font-size="11" fill="#334155">屋上広場・2階以上のバルコニー等の周囲：</text>
+  <text x="180" y="261" text-anchor="middle" font-size="11" fill="#334155">安全上必要な高さ 1.1m以上 の手すり壁・さく・金網</text>
+  <!-- 右：階段手すり -->
+  <g font-size="11" fill="#334155">
+    <rect x="300" y="50" width="190" height="190" fill="#fff" stroke="#94a3b8"/>
+    <text x="395" y="70" text-anchor="middle" font-weight="700" fill="#1e293b">階段の手すり（令25条）</text>
+    <text x="310" y="92">● 階段には手すりを設ける</text>
+    <text x="310" y="108">　（高さ1m以下の部分は除く）</text>
+    <text x="310" y="128">● 幅3m超 → 中間に手すり</text>
+    <text x="310" y="144">　※蹴上15cm以下かつ</text>
+    <text x="310" y="160">　　踏面30cm以上なら不要</text>
+    <text x="310" y="180">● 手すりの出 10cm以内は</text>
+    <text x="310" y="196" textLength="175" lengthAdjust="spacingAndGlyphs">　階段幅に「ないもの」として算定</text>
+    <text x="310" y="216">● 傾斜路にも同様に適用</text>
+    <text x="310" y="232">　（勾配1/8以下）</text>
+  </g>
+  <text x="250" y="284" text-anchor="middle" font-size="10.5" fill="#64748b">5階以上に売場がある物販店舗（1,500m²超）は屋上広場に通ずる2以上の直通階段が必要</text>
+</svg>

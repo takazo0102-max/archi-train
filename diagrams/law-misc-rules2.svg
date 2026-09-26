@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">法規 個別規定のポイント（換気孔・材料・仮設・都計法）</text>
+  <rect x="15" y="36" width="470" height="104" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="36" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="48" font-weight="700" fill="#1e3a8a">一般構造・材料・設備</text>
+    <text x="22" y="64">木造床下の外壁：壁の長さ 5m以下ごとに 300cm²以上 の換気孔（令22条）</text>
+    <text x="22" y="80">指定建築材料（木材・コンクリート等）：JIS/JAS適合品 または 大臣認定品（法37条）</text>
+    <text x="22" y="96">煙突：先端から水平1m以内に軒のある建築物 → 軒から 60cm以上 高く（令115条）</text>
+    <text x="22" y="112">特定区域の合併処理浄化槽（400人）：放流水は大腸菌群数3,000個/cm³以下（令32条）</text>
+    <text x="22" y="128">特定天井：脱落により重大な危害を生ずるおそれとして大臣が定める天井（令39条3項）</text>
+  </g>
+  <rect x="15" y="146" width="470" height="88" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="146" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="158" font-weight="700" fill="#92400e">仮設建築物・都市計画法</text>
+    <text x="22" y="174">仮設興行場・仮設店舗の 許可 は 特定行政庁のみ（建築主事・指定確認検査機関は不可）</text>
+    <text x="22" y="190">1年を超えて使用する仮設興行場（国際会議等）：特定行政庁の許可（法85条7項）</text>
+    <text x="22" y="206">都市計画施設の区域内の新築：原則 都道府県知事等の許可（都計法53条）</text>
+    <text x="22" y="222">市街地開発事業等予定区域：既存敷地内の木造平家の附属車庫は 軽易な行為 で許可不要</text>
+  </g>
+  <text x="250" y="292" text-anchor="middle" font-size="9.5" fill="#64748b">5m/300cm²・60cm・許可は特定行政庁</text>
+</svg>

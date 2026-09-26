@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">コンクリートの強度の関係（JASS 5）</text>
+  <!-- 積み木 -->
+  <rect x="40" y="150" width="130" height="50" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="105" y="180" text-anchor="middle" font-size="12" font-weight="700" fill="#1e3a8a">品質基準強度 Fq</text>
+  <text x="105" y="222" text-anchor="middle" font-size="11" fill="#334155" textLength="204" lengthAdjust="spacingAndGlyphs">＝max（設計基準強度Fc, 耐久設計基準強度Fd）</text>
+  <text x="185" y="180" font-size="20" fill="#1e293b">＋</text>
+  <rect x="205" y="150" width="110" height="50" fill="#fde68a" stroke="#b45309" stroke-width="2"/>
+  <text x="260" y="174" text-anchor="middle" font-size="12" font-weight="700" fill="#78350f">構造体強度補正値</text>
+  <text x="260" y="190" text-anchor="middle" font-size="12" font-weight="700" fill="#78350f">S（3 or 6）</text>
+  <text x="330" y="180" font-size="20" fill="#1e293b">＝</text>
+  <rect x="355" y="150" width="125" height="50" fill="#fecaca" stroke="#b91c1c" stroke-width="2"/>
+  <text x="417" y="180" text-anchor="middle" font-size="12" font-weight="700" fill="#7f1d1d">調合管理強度 Fm</text>
+  <g font-size="11" fill="#334155">
+    <text x="40" y="70" font-weight="700" fill="#1e293b">S の値（普通ポルトランド）</text>
+    <text x="40" y="88">打込みから28日の予想平均気温 8℃以上 → 3N/mm²</text>
+    <text x="40" y="104">8℃未満 → 6N/mm²　（高炉B種は13℃で区切り）</text>
+    <text x="40" y="128" font-weight="700" fill="#1e293b">受入れ・判定（標準養生28日）</text>
+    <text x="40" y="146" transform="translate(0,-4)">1回の試験＝3個の平均 ≧ Fm の85%、3回の平均 ≧ Fm</text>
+  </g>
+  <g font-size="11" fill="#334155">
+    <text x="40" y="250" font-weight="700" fill="#1e293b">構造体コンクリートの検査</text>
+    <text x="40" y="268">打込み日・工区ごと・150m³ごとに1回（3台の運搬車から1個ずつ）</text>
+    <text x="40" y="284">標準養生28日 ≧ Fm ／ 現場水中養生28日 ≧ Fq ／ コア91日 ≧ Fq（3N/mm²減）</text>
+  </g>
+</svg>

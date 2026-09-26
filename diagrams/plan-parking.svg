@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">駐車場の寸法</text>
+  <!-- 平面 -->
+  <rect x="20" y="42" width="220" height="130" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <g fill="#dbeafe" stroke="#64748b"><rect x="28" y="48" width="25" height="50"/><rect x="56" y="48" width="25" height="50"/><rect x="84" y="48" width="25" height="50"/><rect x="112" y="48" width="25" height="50"/></g>
+  <rect x="28" y="104" width="204" height="30" fill="#f1f5f9"/><text x="130" y="122" text-anchor="middle" font-size="10" fill="#334155">車路（直角駐車 5.5〜6.0m）</text>
+  <g fill="#dbeafe" stroke="#64748b"><rect x="28" y="140" width="25" height="26"/><rect x="56" y="140" width="25" height="26"/></g>
+  <rect x="150" y="48" width="82" height="50" fill="#fecaca"/><text x="191" y="70" text-anchor="middle" font-size="9" fill="#7f1d1d">車椅子用</text><text x="191" y="84" text-anchor="middle" font-size="9" fill="#7f1d1d">幅 3.5m</text>
+  <text x="130" y="190" text-anchor="middle" font-size="10" fill="#334155">1台：幅 2.3〜2.5m × 長さ 5.0〜6.0m</text>
+  <text x="130" y="206" text-anchor="middle" font-size="10" fill="#334155">車路を含めた 1台あたり 25〜30m²</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="255" y="42" width="230" height="175" fill="#fff" stroke="#94a3b8"/>
+    <text x="370" y="60" text-anchor="middle" font-weight="700" fill="#1e293b">覚える数字</text>
+    <text x="263" y="80">● 車路の幅：一方通行 <tspan font-weight="700">3.5m</tspan>、対面 <tspan font-weight="700">5.5m</tspan></text>
+    <text x="263" y="98">● 斜路の勾配：<tspan font-weight="700">1/6以下</tspan>（17%）</text>
+    <text x="263" y="116">　勾配の変化点に緩和区間（1/12）</text>
+    <text x="263" y="134">● 斜路の内法回転半径：<tspan font-weight="700">5m以上</tspan></text>
+    <text x="263" y="152">● 梁下の高さ：車路 <tspan font-weight="700">2.3m以上</tspan>、駐車 2.1m</text>
+    <text x="263" y="170">● 出入口は交差点・横断歩道から 5m以上</text>
+    <text x="263" y="188">● 500m²以上の路外駐車場は駐車場法の対象</text>
+    <text x="263" y="206">● 機械式（タワー）は乗降場に待機空間</text>
+  </g>
+  <text x="250" y="240" text-anchor="middle" font-size="10.5" fill="#334155">駐車方式：直角＝面積効率◎／45°斜め＝出入りしやすいが面積大／平行＝路上向き</text>
+  <text x="250" y="258" text-anchor="middle" font-size="10.5" fill="#334155">自走式は連続傾床（スキップ）やフラット式。車椅子用は出入口近く・幅3.5m</text>
+  <text x="250" y="282" text-anchor="middle" font-size="10" fill="#64748b">自転車：1台 0.6 × 1.9m 程度、ラック式は密度アップ。荷さばき車両は 3.0 × 7.7m 程度</text>
+</svg>

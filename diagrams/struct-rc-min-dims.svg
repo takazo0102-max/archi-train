@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">RC部材の最小寸法と鉄筋比（RC規準・令）</text>
+  <rect x="15" y="34" width="470" height="92" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">柱・梁</text>
+    <text x="22" y="62">柱の小径 ≧ 階高（支点間距離）の 1/15（令）／ RC規準の目安 1/10</text>
+    <text x="22" y="78">柱：主筋4本以上・主筋比 pg ≧ 0.8%・帯筋比 pw ≧ 0.2%（接合部も 0.2%以上）</text>
+    <text x="22" y="94">梁：複筋ばり・あばら筋比 ≧ 0.2%・引張鉄筋比 pt ≧ 0.4%（又は存在応力の4/3倍）</text>
+    <text x="22" y="110">最小あばら筋比は「せん断ひび割れ後の急激な耐力低下」を防ぐため（曲げではない）</text>
+  </g>
+  <rect x="15" y="134" width="470" height="92" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="134" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="146" font-weight="700" fill="#991b1b">耐力壁・スラブ</text>
+    <text x="22" y="162">耐力壁：厚さ ≧ 120mm かつ 鉛直支点間距離（階高）の 1/30 ／ 壁筋比 ≧ 0.25%</text>
+    <text x="22" y="178">換気扇程度の小開口でも 補強すれば「開口なし」とみなせる（無補強は不可）</text>
+    <text x="22" y="194">床スラブ：厚さ ≧ 80mm かつ 短辺内法の 1/40 ／ 片持ちスラブ ≧ はね出し長さの 1/10</text>
+    <text x="22" y="210">片持ちスラブは長期荷重に加え地震時の上下振動も考慮して配筋</text>
+  </g>
+  <rect x="15" y="234" width="470" height="60" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="234" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="246" font-weight="700" fill="#92400e">壁式RC・壁式ラーメン</text>
+    <text x="22" y="262">壁式RC：壁梁の幅 ≧ 接する耐力壁の厚さ（同厚でも可）・軒高 20m以下</text>
+    <text x="22" y="278">壁式ラーメンRC：壁式RCより高い建物に適用可・張り間方向は連層耐力壁を配置</text>
+  </g>
+</svg>

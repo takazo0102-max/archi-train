@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">空調設備の要点（ダクト・送風機・方式）</text>
+  <rect x="15" y="34" width="470" height="86" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="9.5" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">ダクト・送風機</text>
+    <text x="22" y="62">局部圧力損失 ΔP＝ζ・ρv²/2（風速の2乗に比例）／ 長方形ダクトのアスペクト比 ≦ 4</text>
+    <text x="22" y="77">遠心送風機＝高静圧用 ／ 軸流送風機＝低静圧・大風量 ／ 並列運転でも風量は2倍にならない</text>
+    <text x="22" y="92">外気取入れガラリ：風速を遅く（雨水対策）→ 正面面積は排気ガラリより大 ／ 高層は高圧ダクト</text>
+    <text x="22" y="107">居住域の気流 0.5m/s以下（ドラフト防止）／ 駐車場換気は誘引誘導（ジェットファン）が経済的</text>
+  </g>
+  <rect x="15" y="128" width="470" height="100" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="128" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="9.3" fill="#334155">
+    <text x="22" y="140" font-weight="700" fill="#991b1b">負荷・方式</text>
+    <text x="22" y="156">TAC温度：超過確率つきの設計用外界条件 ／ 人体潜熱は室温が高いほど大 ／ 暖房時は発熱を見込まない</text>
+    <text x="22" y="171">外気冷房：外気エンタルピーが室内より「低い」とき有効 ／ 蓄熱：ピーク平準化で熱源容量↓</text>
+    <text x="22" y="186">劇場：ピーク負荷大・予冷予熱が長い ／ クリーンルーム・手術室は正圧、感染症病室は負圧</text>
+    <text x="22" y="201">放射暖房：反射率の高い金属面には効かない ／ 放射冷房：湿度制御不可・結露注意（恒温恒湿×）</text>
+    <text x="22" y="216">デシカント：予冷で除湿↑・再生コイルは「加熱」・冬は還気の湿分回収＋加湿器 ／ 排熱投入型吸収式</text>
+  </g>
+  <rect x="15" y="236" width="470" height="56" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="236" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="9.5" fill="#334155">
+    <text x="22" y="248" font-weight="700" fill="#92400e">制御</text>
+    <text x="22" y="264">冷温水コイル流量は給気温度センサーで制御 ／ 加湿器は室内（還気）湿度センサーで制御</text>
+    <text x="22" y="279">エアフローウィンドウ：窓下部から吸込み→天井内へ排気 ／ ダブルスキン：夏は換気・冬は閉じる</text>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="30" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">エスカレーターの勾配</text>
+  <!-- 床 -->
+  <line x1="60" y1="230" x2="440" y2="230" stroke="#94a3b8" stroke-width="2"/>
+  <!-- 勾配三角 -->
+  <polygon points="100,230 380,230 380,108" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+  <!-- 階段状 -->
+  <g stroke="#60a5fa" stroke-width="2" fill="none">
+    <path d="M120,222 L150,222 L165,200 L200,200 L215,178 L250,178 L265,156 L300,156 L315,134 L350,134 L365,112"/>
+  </g>
+  <!-- 角度弧 -->
+  <path d="M150,230 A50,50 0 0 0 135,208" fill="none" stroke="#dc2626" stroke-width="2"/>
+  <text x="160" y="218" font-size="14" fill="#dc2626" font-weight="700">30°</text>
+  <text x="250" y="268" text-anchor="middle" font-size="13" fill="#334155" font-weight="700">勾配は原則 30度以下（揚程6m以下・速度30m/分以下なら35度以下も可）</text>
+</svg>

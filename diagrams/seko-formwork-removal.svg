@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">型枠の存置期間（せき板・支保工）</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="40" width="460" height="110" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="58" font-weight="700" fill="#1e293b">せき板（基礎・梁側・柱・壁）の最小存置期間</text>
+    <text x="30" y="76">● 圧縮強度が <tspan font-weight="700">5N/mm²以上</tspan> になるまで（供試体で確認）</text>
+    <text x="30" y="94">● 材齢で管理する場合（平均気温）：</text>
+    <text x="40" y="112">15℃以上 → 早強 2日／普通 <tspan font-weight="700">3日</tspan>／混合B種 5日</text>
+    <text x="40" y="130">5℃以上15℃未満 → 早強 3日／普通 <tspan font-weight="700">5日</tspan>／混合B種 8日</text>
+    <text x="300" y="112">スラブ下・梁下のせき板は</text>
+    <text x="300" y="130">支保工を外した後に</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="158" width="460" height="82" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="176" font-weight="700" fill="#1e293b">支保工（スラブ下・梁下）</text>
+    <text x="30" y="194">● 設計基準強度の <tspan font-weight="700">100%</tspan> 以上の圧縮強度（現場養生供試体）で取り外し</text>
+    <text x="30" y="212">● 12N/mm²以上かつ計算で安全確認できれば緩和あり（大梁下は特に注意）</text>
+    <text x="30" y="230">● 片持ち梁・庇は設計基準強度の 100%以上（ひび割れ・たわみのリスク大）</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="248" width="460" height="46" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="266">● パイプサポート：継ぎは <tspan font-weight="700">2本まで</tspan>。高さ3.5m超は 2m以内ごとに水平つなぎ</text>
+    <text x="30" y="284">● 側圧：打込み速さ・高さ・温度で決まる（スランプ大・低温で大）。合板の転用 3〜4回</text>
+  </g>
+</svg>

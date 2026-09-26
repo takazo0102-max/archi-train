@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">内装工事（軽量鉄骨下地・ボード・床）</text>
+  <!-- 断面：天井下地 -->
+  <rect x="20" y="42" width="215" height="110" fill="#fff" stroke="#94a3b8"/>
+  <line x1="30" y1="52" x2="225" y2="52" stroke="#1e293b" stroke-width="3"/>
+  <g stroke="#64748b" stroke-width="2"><line x1="60" y1="52" x2="60" y2="95"/><line x1="130" y1="52" x2="130" y2="95"/><line x1="200" y1="52" x2="200" y2="95"/></g>
+  <text x="95" y="70" font-size="8" fill="#334155">吊りボルト @900</text>
+  <line x1="30" y1="95" x2="225" y2="95" stroke="#0ea5e9" stroke-width="4"/>
+  <text x="140" y="108" text-anchor="middle" font-size="8" fill="#0369a1">野縁受け @900</text>
+  <g stroke="#f59e0b" stroke-width="3"><line x1="40" y1="118" x2="40" y2="126"/><line x1="70" y1="118" x2="70" y2="126"/><line x1="100" y1="118" x2="100" y2="126"/><line x1="130" y1="118" x2="130" y2="126"/><line x1="160" y1="118" x2="160" y2="126"/><line x1="190" y1="118" x2="190" y2="126"/><line x1="220" y1="118" x2="220" y2="126"/></g>
+  <line x1="30" y1="126" x2="225" y2="126" stroke="#94a3b8" stroke-width="5"/>
+  <text x="127" y="142" text-anchor="middle" font-size="9" fill="#334155">野縁 @300（ボード直張り）・@360（下地張り）</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="245" y="42" width="240" height="110" fill="#fff" stroke="#94a3b8"/>
+    <text x="365" y="60" text-anchor="middle" font-weight="700" fill="#1e293b">軽量鉄骨天井の数字</text>
+    <text x="253" y="78">● 吊りボルト <tspan font-weight="700">@900</tspan>、周辺は端から150mm以内</text>
+    <text x="253" y="96">● 野縁受けの継手は交互に、野縁は千鳥に</text>
+    <text x="253" y="114">● ふところ 1.5m超 → 振れ止め補強</text>
+    <text x="253" y="132">● 中央を 1/500〜1/1000 むくらせる</text>
+    <text x="253" y="146" font-size="10" fill="#64748b">壁スタッド：@300（1枚張り）／@450（2枚）</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="160" width="460" height="112" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="178" font-weight="700" fill="#1e293b">せっこうボード・床</text>
+    <text x="30" y="196">● ボードのねじ：周辺 <tspan font-weight="700">200mm</tspan>、中間 300mm以下。頭は少し沈める</text>
+    <text x="30" y="214">● 2枚張り：目地をずらす。継目処理はジョイントテープ＋パテ3回</text>
+    <text x="30" y="232">● GL工法：接着材 周辺150〜200mm・中間200〜300mm。断熱・遮音は不利</text>
+    <text x="30" y="250">● フローリング：根太張り／直張り。壁際に 10mm程度の隙間（伸縮）</text>
+    <text x="30" y="266" font-size="10" fill="#64748b">● ビニル床シート：熱溶接は張付け後12時間以上、余盛を削り取る</text>
+  </g>
+  <text x="250" y="290" text-anchor="middle" font-size="10" fill="#64748b">カーペット：グリッパー工法（下敷き材）／タイルカーペット（接着剤は粘着剥離形）</text>
+</svg>

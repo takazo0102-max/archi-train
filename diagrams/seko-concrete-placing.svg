@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">コンクリートの打込み・締固め・打継ぎ</text>
+  <!-- 柱・梁断面 -->
+  <rect x="30" y="60" width="60" height="150" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="90" y="60" width="140" height="40" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="90" y="100" width="140" height="18" fill="#e2e8f0" stroke="#94a3b8"/>
+  <text x="160" y="112" text-anchor="middle" font-size="9" fill="#334155">スラブ</text>
+  <line x1="30" y1="120" x2="90" y2="120" stroke="#ef4444" stroke-width="3" stroke-dasharray="6 3"/>
+  <text x="60" y="140" text-anchor="middle" font-size="9" fill="#b91c1c">打継ぎ位置</text>
+  <text x="60" y="152" text-anchor="middle" font-size="9" fill="#b91c1c">（梁下・スラブ上）</text>
+  <rect x="40" y="65" width="40" height="8" fill="#0ea5e9"/>
+  <text x="130" y="240" text-anchor="middle" font-size="10" fill="#334155">柱：一度に打ち上げず、梁下で止めて沈降後に梁へ</text>
+  <line x1="160" y1="130" x2="160" y2="200" stroke="#ef4444" stroke-width="3" stroke-dasharray="6 3"/>
+  <text x="160" y="215" text-anchor="middle" font-size="9" fill="#b91c1c">梁の打継ぎ：スパン中央付近</text>
+  <g font-size="11" fill="#334155">
+    <rect x="245" y="45" width="240" height="215" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="255" y="65" font-weight="700" fill="#1e293b">数字で覚える</text>
+    <text x="255" y="84">● 自由落下高さ：小さく（<tspan font-weight="700">縦型シュート</tspan>）</text>
+    <text x="255" y="100">● 棒形振動機：<tspan font-weight="700">60cm以下</tspan>の間隔、</text>
+    <text x="255" y="116">　1か所 <tspan font-weight="700">5〜15秒</tspan>、下層に10cm程度差し込む</text>
+    <text x="255" y="132">● 打重ね時間の間隔：25℃未満 <tspan font-weight="700">150分</tspan>、</text>
+    <text x="255" y="148" textLength="225" lengthAdjust="spacingAndGlyphs">　25℃以上 <tspan font-weight="700">120分</tspan>（コールドジョイント防止）</text>
+    <text x="255" y="164">● 打込み速度：20〜30m³/h（ポンプ）</text>
+    <text x="255" y="180">● 打継ぎ面：レイタンス除去・湿潤に</text>
+    <text x="255" y="196">● 柱・壁の打込み高さ：1層 <tspan font-weight="700">1.5m以下</tspan>程度</text>
+    <text x="255" y="212">● 壁の打継ぎ：垂直打継ぎは止め枠で</text>
+    <text x="255" y="228">● 振動機で横流しをしない</text>
+    <text x="255" y="244">● スラブ：沈みひび割れはタンピングで処理</text>
+  </g>
+  <text x="250" y="280" text-anchor="middle" font-size="11" fill="#334155">打込み順序：遠い所から手前へ。先に打った柱・壁が沈降してから梁・スラブへ</text>
+  <text x="250" y="294" text-anchor="middle" font-size="10" fill="#64748b">水平打継ぎ：床板・梁の上端／垂直打継ぎ：スパン中央（せん断力の小さい位置）</text>
+</svg>

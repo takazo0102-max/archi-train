@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">表色系と色の知覚</text>
+  <rect x="15" y="34" width="470" height="92" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">マンセル表色系（物体色のみ・光源色には使えない）</text>
+    <text x="22" y="62">表記「5B 6/4」＝色相 5B・明度（バリュー）6・彩度（クロマ）4</text>
+    <text x="22" y="77">明度 0〜10（V5 ≒ 視感反射率20%）／ 彩度は色相により最大が異なり 10超もある</text>
+    <text x="22" y="92">オストワルト表色系：白・黒・純色の混合比で表し「明度」の属性はない</text>
+    <text x="22" y="107">XYZ表色系：xy色度図で x大→赤み・y大→緑み。図上の距離は色差に比例しない</text>
+  </g>
+  <rect x="15" y="134" width="470" height="92" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="134" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="10" fill="#334155">
+    <text x="22" y="146" font-weight="700" fill="#991b1b">色の見え方</text>
+    <text x="22" y="162">誘目性：赤 ＞ 青 ／ 暖色＝長波長（赤）・寒色＝短波長（青）／ 記憶色は実際より彩度が高め</text>
+    <text x="22" y="177">同化：囲まれた色が周囲に近づく（対比は離れる）／ 恒常性：光が少し変わっても同じ色</text>
+    <text x="22" y="192">ジャッドの調和原理：秩序性（色相環の等間隔配色）・親近性・類似性・明瞭性</text>
+    <text x="22" y="207">カラーユニバーサルデザイン：色相差だけでなく「明度差」を重視</text>
+  </g>
+  <rect x="15" y="234" width="470" height="46" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="234" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10" fill="#334155">
+    <text x="22" y="246" font-weight="700" fill="#92400e">JIS 安全色</text>
+    <text x="22" y="262">赤＝防火・禁止・停止 ／ 黄赤＝危険 ／ 黄＝注意警告 ／ 緑＝安全・進行 ／ 青＝指示</text>
+  </g>
+</svg>

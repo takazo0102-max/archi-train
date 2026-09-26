@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 320" font-family="system-ui, sans-serif">
+  <rect width="500" height="320" fill="#f1f5f9"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">主な申請・届出の提出先</text>
+  <!-- header -->
+  <rect x="20" y="40" width="290" height="30" fill="#334155"/>
+  <rect x="310" y="40" width="170" height="30" fill="#334155"/>
+  <text x="35" y="60" font-size="13" fill="#fff" font-weight="700">届出・許可</text>
+  <text x="325" y="60" font-size="13" fill="#fff" font-weight="700">提出先</text>
+  <g font-size="12.5" fill="#1e293b">
+    <rect x="20" y="70" width="460" height="30" fill="#fff" stroke="#cbd5e1"/><text x="35" y="89">建築工事届・建築物除却届</text><text x="325" y="89" fill="#2563eb" font-weight="700">都道府県知事</text>
+    <rect x="20" y="100" width="460" height="30" fill="#f8fafc" stroke="#cbd5e1"/><text x="35" y="119">中間・完了検査の申請</text><text x="325" y="119" fill="#2563eb" font-weight="700">建築主事等</text>
+    <rect x="20" y="130" width="460" height="30" fill="#fff" stroke="#cbd5e1"/><text x="35" y="149">特定建設作業実施届（7日前）</text><text x="325" y="149" fill="#2563eb" font-weight="700">市町村長</text>
+    <rect x="20" y="160" width="460" height="30" fill="#f8fafc" stroke="#cbd5e1"/><text x="35" y="179">道路使用許可</text><text x="325" y="179" fill="#dc2626" font-weight="700">警察署長</text>
+    <rect x="20" y="190" width="460" height="30" fill="#fff" stroke="#cbd5e1"/><text x="35" y="209">道路占用許可</text><text x="325" y="209" fill="#dc2626" font-weight="700">道路管理者</text>
+    <rect x="20" y="220" width="460" height="30" fill="#f8fafc" stroke="#cbd5e1"/><text x="35" y="239">ボイラー設置届・足場設置届</text><text x="325" y="239" fill="#2563eb" font-weight="700">労働基準監督署長</text>
+    <rect x="20" y="250" width="460" height="30" fill="#fff" stroke="#cbd5e1"/><text x="35" y="269">危険物施設の設置（許可）</text><text x="325" y="269" fill="#2563eb" font-weight="700">市町村長等</text>
+    <rect x="20" y="280" width="460" height="30" fill="#f8fafc" stroke="#cbd5e1"/><text x="35" y="299">水質汚濁防止法の特定施設</text><text x="325" y="299" fill="#2563eb" font-weight="700">都道府県知事</text>
+  </g>
+</svg>

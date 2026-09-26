@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">病院の病棟計画</text>
+  <rect x="20" y="42" width="230" height="110" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <g fill="#dbeafe" stroke="#94a3b8"><rect x="28" y="48" width="30" height="30"/><rect x="62" y="48" width="30" height="30"/><rect x="96" y="48" width="30" height="30"/><rect x="130" y="48" width="30" height="30"/><rect x="164" y="48" width="30" height="30"/></g>
+  <rect x="28" y="82" width="214" height="16" fill="#f1f5f9"/><text x="135" y="93" text-anchor="middle" font-size="9" fill="#334155">廊下（片側 1.8m／両側 2.7m以上）</text>
+  <rect x="200" y="48" width="42" height="30" fill="#fee2e2"/><text x="221" y="66" text-anchor="middle" font-size="8" fill="#7f1d1d">NS</text>
+  <g fill="#dbeafe" stroke="#94a3b8"><rect x="28" y="102" width="30" height="30"/><rect x="62" y="102" width="30" height="30"/><rect x="96" y="102" width="30" height="30"/></g>
+  <rect x="130" y="102" width="112" height="30" fill="#dcfce7"/><text x="186" y="120" text-anchor="middle" font-size="8" fill="#166534" textLength="106" lengthAdjust="spacingAndGlyphs">デイルーム・処置・汚物・浴室</text>
+  <text x="135" y="146" text-anchor="middle" font-size="9" fill="#334155">NS（ナースステーション）は病棟の中央・出入口近く</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="265" y="42" width="220" height="150" fill="#fff" stroke="#94a3b8"/>
+    <text x="375" y="60" text-anchor="middle" font-weight="700" fill="#1e293b">数字</text>
+    <text x="273" y="78">● 1看護単位：<tspan font-weight="700">40〜50床</tspan>（ICU 8〜10）</text>
+    <text x="273" y="96">● 病床 1床あたり：<tspan font-weight="700">6.4m²以上</tspan>（内法）</text>
+    <text x="273" y="114">● 4床室が標準、個室率を高める傾向</text>
+    <text x="273" y="132">● 病棟の延べ面積比：全体の 35〜45%</text>
+    <text x="273" y="150">● 1床あたり延べ面積：40〜60m²程度</text>
+    <text x="273" y="168">● 手術室：1室 40〜60m²、無菌の空気清浄</text>
+    <text x="273" y="186">● 病室の窓：床面積の 1/7以上（採光）</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="162" width="230" height="30" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="181" textLength="215" lengthAdjust="spacingAndGlyphs">PPC方式：段階看護（重症→回復期で病棟を分ける）</text>
+  </g>
+  <text x="250" y="214" text-anchor="middle" font-size="10.5" fill="#334155">外来・中央診療（検査・手術・放射線）・病棟・供給・管理の5部門を明確に分離</text>
+  <text x="250" y="232" text-anchor="middle" font-size="10.5" fill="#334155">中央診療部は外来と病棟の両方から近く。供給部（給食・滅菌）は搬送動線を短く</text>
+  <text x="250" y="250" text-anchor="middle" font-size="10.5" fill="#334155">手術部：非常時にも独立して運用できる位置。ICUは手術部に隣接</text>
+  <text x="250" y="270" text-anchor="middle" font-size="10" fill="#64748b">診療所＝19床以下、病院＝20床以上。回復期リハ・療養病床は1床 8m²程度</text>
+  <text x="250" y="288" text-anchor="middle" font-size="10" fill="#64748b">クリーンルーム（手術室）は周囲より正圧、感染症病室は負圧</text>
+</svg>

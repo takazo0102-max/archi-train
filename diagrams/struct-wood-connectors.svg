@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">木造の接合金物と継手・仕口</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="40" width="465" height="125" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="58" font-weight="700" fill="#1e293b">金物</text><text x="170" y="58" font-weight="700" fill="#1e293b">使う場所</text><text x="340" y="58" font-weight="700" fill="#1e293b">役割</text>
+    <line x1="20" y1="64" x2="485" y2="64" stroke="#94a3b8"/>
+    <text x="30" y="80">ホールダウン金物</text><text x="170" y="80">柱脚・柱頭（耐力壁の端部）</text><text x="340" y="80">柱の引抜き（10〜25kN）</text>
+    <text x="30" y="96">山形プレート・かど金物</text><text x="170" y="96">柱と土台・横架材</text><text x="340" y="96">柱の引抜き（小〜中）</text>
+    <text x="30" y="112">羽子板ボルト</text><text x="170" y="112">梁と桁・胴差の交差部</text><text x="340" y="112">横架材の抜け止め</text>
+    <text x="30" y="128">短ざく金物</text><text x="170" y="128">胴差の継手・上下階の柱</text><text x="340" y="128">引張の連続</text>
+    <text x="30" y="144">ひねり金物・くら金物</text><text x="170" y="144">垂木と軒桁</text><text x="340" y="144">屋根の吹上げ防止</text>
+    <text x="30" y="160">筋かいプレート</text><text x="170" y="160">筋かい端部と柱・横架材</text><text x="340" y="160">筋かいの軸力伝達</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="173" width="225" height="98" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="191" font-weight="700" fill="#1e293b">継手（同方向）・仕口（直交）</text>
+    <text x="30" y="209">● 継手：腰掛けあり継ぎ・腰掛け鎌継ぎ</text>
+    <text x="30" y="225">　（土台・桁）、追掛け大栓継ぎ（梁）</text>
+    <text x="30" y="241">● 仕口：ほぞ差し（柱と土台）、蟻掛け</text>
+    <text x="30" y="257">　（梁と桁）、大入れ蟻掛け</text>
+    <rect x="255" y="173" width="230" height="98" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="265" y="191" font-weight="700" fill="#1e293b">N値計算（告示 1460 号）</text>
+    <text x="265" y="209">柱の引抜き力 N＝A1×B1−L で金物を選ぶ</text>
+    <text x="265" y="225">A1：壁倍率の差　B1：周辺部材の押え効果</text>
+    <text x="265" y="241" textLength="215" lengthAdjust="spacingAndGlyphs">L：鉛直荷重による押え（出隅 0.4、その他 0.6）</text>
+    <text x="265" y="257">N が大きい → ホールダウン（HD）金物</text>
+  </g>
+  <text x="250" y="290" text-anchor="middle" font-size="10" fill="#64748b">継手は応力の小さい位置（柱から 1m 程度）。筋かい端部は柱と横架材の両方に金物で留める</text>
+</svg>

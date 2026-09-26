@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">音圧レベル（dB）の合成と距離減衰</text>
+  <g font-size="12" fill="#334155">
+    <rect x="20" y="45" width="220" height="115" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="130" y="65" text-anchor="middle" font-weight="700" fill="#1e293b">同じ大きさの音を足すと</text>
+    <text x="30" y="88" textLength="205" lengthAdjust="spacingAndGlyphs">60dB ＋ 60dB ＝ <tspan font-weight="700" fill="#b91c1c">63dB</tspan>（2倍 → +3dB）</text>
+    <text x="30" y="108" textLength="205" lengthAdjust="spacingAndGlyphs">60dB × 4個 ＝ 66dB（4倍 → +6dB）</text>
+    <text x="30" y="128" textLength="205" lengthAdjust="spacingAndGlyphs">60dB × 10個 ＝ 70dB（10倍 → +10dB）</text>
+    <text x="30" y="150" font-size="10" fill="#64748b">差が10dB以上なら大きい方≒合成値</text>
+  </g>
+  <g font-size="12" fill="#334155">
+    <rect x="255" y="45" width="230" height="115" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="370" y="65" text-anchor="middle" font-weight="700" fill="#1e293b">距離が2倍になると</text>
+    <text x="265" y="88">点音源：<tspan font-weight="700" fill="#b91c1c">−6dB</tspan>（球面状に広がる）</text>
+    <text x="265" y="108">線音源：<tspan font-weight="700" fill="#b91c1c">−3dB</tspan>（道路・鉄道）</text>
+    <text x="265" y="128">面音源：近くではほぼ減衰しない</text>
+    <text x="265" y="150" font-size="10" fill="#64748b">点音源で距離10倍 → −20dB</text>
+  </g>
+  <!-- 波形イメージ -->
+  <g font-size="11" fill="#334155">
+    <rect x="20" y="172" width="465" height="80" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="192" font-weight="700" fill="#1e293b">よく出る数字</text>
+    <text x="30" y="210">● 音の強さが2倍 → +3dB／音圧が2倍 → +6dB（音圧レベルは 20log）</text>
+    <text x="30" y="228">● 可聴範囲 20Hz〜20kHz。1kHzで 0dB＝最小可聴値、120dB≒痛み</text>
+    <text x="30" y="246">● A特性（dB(A)）：人の聴感に合わせ低音域を小さく評価。NC値は室内騒音の評価</text>
+  </g>
+  <text x="250" y="274" text-anchor="middle" font-size="11" fill="#334155">透過損失 TL：質量則で面密度2倍 → +6dB。コインシデンス効果で高音域が落ち込む</text>
+  <text x="250" y="292" text-anchor="middle" font-size="10" fill="#64748b">遮音等級 Dr（空気音・大きいほど良い）／Lr（床衝撃音・小さいほど良い）</text>
+</svg>

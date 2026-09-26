@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">土質・地下外壁と木造の壁量・柱の規定</text>
+  <rect x="15" y="34" width="470" height="86" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="8.4" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">土の性質と試験</text>
+    <text x="22" y="62">含水比 w＝水の質量／土粒子の質量 → 粘性土（50〜100%超）＞ 砂質土 ／ 細粒分含有率が大きいほど大</text>
+    <text x="22" y="77">飽和度 Sr＝水の体積／間隙の体積（地下水位以下は100%）／ 粘土の変形特性は含水比（液性・塑性限界）と関係</text>
+    <text x="22" y="92">一軸圧縮試験：拘束圧なし → 粘性土の粘着力・変形係数（内部摩擦角は不可）／ 内部摩擦角は三軸圧縮試験</text>
+    <text x="22" y="107">孔内水平載荷試験：杭頭から約5m又は杭径5倍の深さまで ／ 杭頭固定度が大きいほど杭頭曲げモーメントは「大」</text>
+  </g>
+  <rect x="15" y="128" width="470" height="56" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="128" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="8.8" fill="#334155">
+    <text x="22" y="140" font-weight="700" fill="#991b1b">地下外壁の土圧・水圧</text>
+    <text x="22" y="156">地下水位以深：静止土圧＋水圧（水圧は水位から三角形分布 γw·h）／ 静止土圧係数は試験がなければ 0.5</text>
+    <text x="22" y="171">地表面に等分布荷重 q → 荷重度×静止土圧係数 を土圧に加える</text>
+  </g>
+  <rect x="15" y="192" width="470" height="100" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="192" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="8.4" fill="#334155">
+    <text x="22" y="204" font-weight="700" fill="#92400e">木造</text>
+    <text x="22" y="220">地震力による必要壁量＝床面積×係数 → 張り間・桁行で「同じ」／ 存在壁量は各方向の耐力壁のみ</text>
+    <text x="22" y="235">同じ面材を2枚重ねても倍率は1枚と同じ ／ 垂れ壁は両側を準耐力壁にすれば算入可</text>
+    <text x="22" y="250">3階建ての1階柱の小径 13.5cm以上 ／ 柱の1/3切欠きは金物補強 ／ 隅柱を通し柱にしない場合は金物で同等耐力</text>
+    <text x="22" y="265">構造計算で確かめれば小径・振れ止めの規定を省略可 ／ 心持ち材は背割り ／ 梁中央上端の切欠きは正味断面</text>
+    <text x="22" y="280">針葉樹：通直・加工容易 → 構造材 ／ 目視等級区分：節・丸身等を目視で区分</text>
+  </g>
+</svg>

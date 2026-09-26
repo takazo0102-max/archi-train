@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">確認申請から検査済証まで（法6条・7条〜7条の6）</text>
+  <g font-size="11" font-weight="700" fill="#1e293b">
+    <rect x="15" y="60" width="80" height="44" rx="8" fill="#fff" stroke="#0ea5e9" stroke-width="2"/><text x="55" y="78" text-anchor="middle">確認申請</text><text x="55" y="94" text-anchor="middle" font-size="10" font-weight="400" fill="#334155">建築主</text>
+    <rect x="115" y="60" width="80" height="44" rx="8" fill="#fff" stroke="#0ea5e9" stroke-width="2"/><text x="155" y="78" text-anchor="middle">確認済証</text><text x="155" y="94" text-anchor="middle" font-size="10" font-weight="400" fill="#334155">建築主事等</text>
+    <rect x="215" y="60" width="80" height="44" rx="8" fill="#fff" stroke="#f59e0b" stroke-width="2"/><text x="255" y="78" text-anchor="middle">中間検査</text><text x="255" y="94" text-anchor="middle" font-size="10" font-weight="400" fill="#334155">特定工程</text>
+    <rect x="315" y="60" width="80" height="44" rx="8" fill="#fff" stroke="#0ea5e9" stroke-width="2"/><text x="355" y="78" text-anchor="middle">完了検査</text><text x="355" y="94" text-anchor="middle" font-size="10" font-weight="400" fill="#334155">4日以内に申請</text>
+    <rect x="415" y="60" width="70" height="44" rx="8" fill="#dcfce7" stroke="#22c55e" stroke-width="2"/><text x="450" y="78" text-anchor="middle">検査済証</text><text x="450" y="94" text-anchor="middle" font-size="10" font-weight="400" fill="#334155">使用開始</text>
+  </g>
+  <g stroke="#64748b" stroke-width="2"><line x1="95" y1="82" x2="115" y2="82"/><line x1="195" y1="82" x2="215" y2="82"/><line x1="295" y1="82" x2="315" y2="82"/><line x1="395" y1="82" x2="415" y2="82"/></g>
+  <g font-size="10" fill="#334155">
+    <text x="20" y="124">審査期間：大規模 35日／その他 7日</text>
+    <text x="250" y="124">中間検査：合格証の交付前は後の工程を施工不可</text>
+    <text x="20" y="140">完了検査：申請受理から7日以内に検査 → 適合と認めたら検査済証を交付</text>
+    <text x="20" y="156">建築確認の要否：法6条1項一〜三号（用途・規模・構造）と四号（都市計画区域内等）</text>
+  </g>
+  <rect x="15" y="165" width="470" height="120" rx="8" fill="#fff" stroke="#94a3b8"/>
+  <g font-size="11" fill="#334155">
+    <text x="25" y="184" font-weight="700" fill="#1e293b">検査済証の交付前に使用できる場合（法7条の6：仮使用）</text>
+    <text x="25" y="202">● 特定行政庁／建築主事等／指定確認検査機関が「仮使用の認定」をしたとき</text>
+    <text x="25" y="218">● 完了検査の申請が受理された日から <tspan font-weight="700">7日</tspan> を経過したとき</text>
+    <text x="25" y="238" font-weight="700" fill="#1e293b">その他の数字</text>
+    <text x="25" y="256">● 工事完了 → 完了検査申請：<tspan font-weight="700">4日以内</tspan>　● 消防長等の同意：3日（一般）／7日（その他）</text>
+    <text x="25" y="272">● 工事現場には確認済の表示（建築主・設計者・工事施工者・工事監理者の氏名等）を掲示</text>
+  </g>
+  <text x="250" y="296" text-anchor="middle" font-size="10" fill="#64748b">確認不要の建築物でも法令への適合は必要</text>
+</svg>

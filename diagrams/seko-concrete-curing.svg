@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">コンクリートの養生とせき板の存置</text>
+  <!-- タイムライン -->
+  <line x1="40" y1="110" x2="460" y2="110" stroke="#475569" stroke-width="3"/>
+  <g font-size="11" text-anchor="middle" fill="#334155">
+    <line x1="40" y1="100" x2="40" y2="120" stroke="#475569" stroke-width="2"/><text x="40" y="136">打込み</text>
+    <line x1="120" y1="100" x2="120" y2="120" stroke="#475569" stroke-width="2"/><text x="120" y="136">3日</text>
+    <line x1="180" y1="100" x2="180" y2="120" stroke="#475569" stroke-width="2"/><text x="180" y="136">5日</text>
+    <line x1="240" y1="100" x2="240" y2="120" stroke="#475569" stroke-width="2"/><text x="240" y="136">7日</text>
+    <line x1="460" y1="100" x2="460" y2="120" stroke="#475569" stroke-width="2"/><text x="455" y="136">28日</text>
+  </g>
+  <rect x="40" y="70" width="140" height="22" rx="4" fill="#bfdbfe"/>
+  <text x="110" y="85" text-anchor="middle" font-size="11" fill="#1e3a8a" font-weight="700" textLength="134" lengthAdjust="spacingAndGlyphs">湿潤養生 普通ポルトランド5日以上</text>
+  <rect x="40" y="46" width="200" height="20" rx="4" fill="#fde68a"/>
+  <text x="140" y="60" text-anchor="middle" font-size="11" fill="#78350f" font-weight="700" textLength="194" lengthAdjust="spacingAndGlyphs">早強3日／高炉B種7日／2℃以上を5日間（寒中）</text>
+  <g font-size="11" fill="#334155">
+    <text x="40" y="170" font-weight="700" fill="#1e293b">せき板の存置期間（材齢・15℃以上）</text>
+    <text x="40" y="188">普通ポルトランド 3日／高炉B種・フライアッシュB種 5日／早強 2日</text>
+    <text x="40" y="204">（10〜15℃：普通6日・高炉B 8日／5〜10℃：普通8日・高炉B 12日）</text>
+    <text x="40" y="228" font-weight="700" fill="#1e293b">強度で判断する場合</text>
+    <text x="40" y="246">・せき板：5N/mm²以上（湿潤養生を続ける）／湿潤養生なしなら10N/mm²（標準・短期）</text>
+    <text x="40" y="262">・スラブ下の支保工：12N/mm²以上＋構造計算で安全確認</text>
+    <text x="40" y="278">・梁下（28日以前）：現場水中養生の供試体が設計基準強度以上（標準養生は不可）</text>
+  </g>
+</svg>

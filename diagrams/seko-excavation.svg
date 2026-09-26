@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">根切り・山留めの数字と現象</text>
+  <!-- 断面 -->
+  <rect x="20" y="42" width="220" height="150" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="30" y="60" width="200" height="120" fill="#fde68a" opacity="0.5"/>
+  <rect x="60" y="60" width="120" height="90" fill="#eaf2fb" stroke="#64748b"/>
+  <rect x="56" y="55" width="6" height="120" fill="#334155"/><rect x="178" y="55" width="6" height="120" fill="#334155"/>
+  <line x1="62" y1="80" x2="178" y2="80" stroke="#0ea5e9" stroke-width="4"/>
+  <text x="120" y="76" text-anchor="middle" font-size="8" fill="#0369a1">切梁・腹起し</text>
+  <text x="120" y="120" text-anchor="middle" font-size="10" fill="#334155">根切り底</text>
+  <text x="120" y="140" text-anchor="middle" font-size="9" fill="#334155">床付け面は乱さない</text>
+  <text x="45" y="165" font-size="8" fill="#334155">根入れ</text>
+  <line x1="150" y1="150" x2="150" y2="180" stroke="#ef4444" stroke-width="1.5" stroke-dasharray="3 2"/>
+  <text x="200" y="168" font-size="8" fill="#b91c1c">↑ ヒービング</text>
+  <text x="200" y="180" font-size="8" fill="#b91c1c">（粘性土）</text>
+  <text x="130" y="200" text-anchor="middle" font-size="9" fill="#334155">壁：親杭横矢板／鋼矢板／ソイルセメント／地中壁</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="255" y="42" width="230" height="150" fill="#fff" stroke="#94a3b8"/>
+    <text x="370" y="60" text-anchor="middle" font-weight="700" fill="#1e293b">根切り底の異常</text>
+    <text x="263" y="80">● <tspan font-weight="700">ヒービング</tspan>：軟弱粘性土。背面土の重さで</text>
+    <text x="263" y="96">　底面が膨れ上がる → 根入れを深く</text>
+    <text x="263" y="114" textLength="217" lengthAdjust="spacingAndGlyphs">● <tspan font-weight="700">ボイリング</tspan>：砂質土＋地下水。水が噴き出す</text>
+    <text x="263" y="130">　→ 止水壁の根入れ延長・地下水位低下</text>
+    <text x="263" y="148">● <tspan font-weight="700">盤ぶくれ</tspan>：不透水層の下の被圧水で浮く</text>
+    <text x="263" y="164">　→ ディープウェルで水圧低減</text>
+    <text x="263" y="182">● パイピング：水みちができて土が流出</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="208" width="460" height="66" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="226">● 床付け：機械で掘りすぎない（30〜50cm残して手掘り）。乱したら砂・砕石で置換</text>
+    <text x="30" y="244">● 計測管理：切梁の軸力・壁の変位・周辺の沈下を継続観測。プレロードで変形抑制</text>
+    <text x="30" y="262">● 排水：釜場（浅い）／ウェルポイント（砂質・浅層）／ディープウェル（深層・大量）</text>
+  </g>
+  <text x="250" y="290" text-anchor="middle" font-size="10" fill="#64748b">法面の勾配：地山の種類と高さで制限（岩盤・高さ5m未満は 90°以下 など）</text>
+</svg>

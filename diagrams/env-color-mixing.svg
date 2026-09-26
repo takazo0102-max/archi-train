@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#0f172a"/>
+  <text x="250" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#f1f5f9">加法混色と減法混色</text>
+
+  <!-- 加法混色（光 RGB）→ 重ねると明るく白。各円を screen で合成 -->
+  <circle cx="120" cy="115" r="42" fill="#ff0000" style="mix-blend-mode:screen"/>
+  <circle cx="158" cy="115" r="42" fill="#00ff00" style="mix-blend-mode:screen"/>
+  <circle cx="139" cy="150" r="42" fill="#0000ff" style="mix-blend-mode:screen"/>
+  <text x="139" y="218" text-anchor="middle" font-size="13" fill="#e2e8f0" font-weight="700">加法混色（光 RGB）</text>
+  <text x="139" y="236" text-anchor="middle" font-size="12" fill="#94a3b8">重ねるほど明るく → 白</text>
+
+  <!-- 減法混色（色料 CMY）→ 重ねると暗く。白地の上で各円を multiply 合成 -->
+  <rect x="288" y="62" width="156" height="130" rx="10" fill="#ffffff"/>
+  <circle cx="350" cy="110" r="40" fill="#00ffff" style="mix-blend-mode:multiply"/>
+  <circle cx="388" cy="110" r="40" fill="#ff00ff" style="mix-blend-mode:multiply"/>
+  <circle cx="369" cy="145" r="40" fill="#ffff00" style="mix-blend-mode:multiply"/>
+  <text x="366" y="218" text-anchor="middle" font-size="13" fill="#e2e8f0" font-weight="700">減法混色（色料 CMY）</text>
+  <text x="366" y="236" text-anchor="middle" font-size="12" fill="#94a3b8">重ねるほど暗く → 黒</text>
+
+  <text x="250" y="278" text-anchor="middle" font-size="12" fill="#cbd5e1">光は混ぜると明るく、色料は混ぜると暗くなる</text>
+</svg>

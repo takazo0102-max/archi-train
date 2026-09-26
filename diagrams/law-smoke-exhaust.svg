@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">排煙設備の基本（令126条の2・3）</text>
+  <!-- 断面 -->
+  <rect x="30" y="60" width="300" height="160" fill="#fff" stroke="#64748b" stroke-width="2"/>
+  <line x1="30" y1="60" x2="330" y2="60" stroke="#1e293b" stroke-width="3"/>
+  <!-- 防煙垂れ壁 -->
+  <rect x="178" y="60" width="6" height="55" fill="#ef4444"/>
+  <text x="196" y="80" font-size="11" fill="#b91c1c" font-weight="700">防煙壁</text>
+  <text x="196" y="94" font-size="11" fill="#b91c1c">天井から50cm以上</text>
+  <!-- 煙 -->
+  <ellipse cx="90" cy="85" rx="45" ry="14" fill="#94a3b8" opacity="0.5"/>
+  <ellipse cx="120" cy="75" rx="30" ry="10" fill="#94a3b8" opacity="0.5"/>
+  <!-- 排煙口 -->
+  <rect x="55" y="62" width="40" height="10" fill="#38bdf8" stroke="#0369a1"/>
+  <text x="75" y="55" text-anchor="middle" font-size="11" fill="#0369a1" font-weight="700">排煙口</text>
+  <!-- 80cm 寸法 -->
+  <line x1="310" y1="60" x2="310" y2="140" stroke="#0f766e" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <line x1="300" y1="140" x2="320" y2="140" stroke="#0f766e" stroke-width="1.5"/>
+  <text x="315" y="105" font-size="11" fill="#0f766e" font-weight="700" transform="rotate(90 315 105)">80cm以内</text>
+  <!-- 人 -->
+  <circle cx="250" cy="160" r="9" fill="#cbd5e1"/>
+  <rect x="243" y="170" width="14" height="30" rx="4" fill="#cbd5e1"/>
+  <!-- 右側 箇条 -->
+  <text x="342" y="80" font-size="12" fill="#1e293b" font-weight="700">排煙口の位置</text>
+  <text x="342" y="98" font-size="11" fill="#334155">・天井〜天井下80cm以内</text>
+  <text x="342" y="114" font-size="11" fill="#334155">・各部分から水平30m以内</text>
+  <text x="342" y="130" font-size="11" fill="#334155">・手動開放装置は必須</text>
+  <text x="342" y="146" font-size="11" fill="#334155">　（自動があっても）</text>
+  <text x="342" y="172" font-size="12" fill="#1e293b" font-weight="700">排煙無窓の居室</text>
+  <text x="342" y="190" font-size="11" fill="#334155">開放できる部分（天井から</text>
+  <text x="342" y="206" font-size="11" fill="#334155">80cm以内）が床面積の</text>
+  <text x="342" y="222" font-size="11" fill="#b91c1c" font-weight="700">1/50未満 → 排煙設備が必要</text>
+  <text x="250" y="250" text-anchor="middle" font-size="12" fill="#334155">不要：100m²以内区画の病院・ホテル客室、200m²以内区画の住戸、階段部分、学校等</text>
+  <text x="250" y="272" text-anchor="middle" font-size="12" fill="#334155">防煙区画：500m²以内ごとに防煙壁で区画</text>
+</svg>

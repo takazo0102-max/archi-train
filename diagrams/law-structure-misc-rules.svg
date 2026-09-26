@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">法規 構造強度規定（令36条〜）の要点</text>
+  <rect x="15" y="36" width="470" height="72" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="36" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="48" font-weight="700" fill="#1e3a8a">組積造の塀（令61条）・積雪・風圧</text>
+    <text x="22" y="64">組積造の塀：高さ1.2m以下、長さ4m以下ごとに壁厚1.5倍以上突出の控壁（木造以外）</text>
+    <text x="22" y="80">積雪荷重：勾配60°超は零にできる（雪止めがある場合を除く）</text>
+    <text x="22" y="96">風圧力：他の建築物・防風林が有効に遮る方向は速度圧を 1/2 まで減らせる</text>
+  </g>
+  <rect x="15" y="114" width="470" height="72" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="114" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="126" font-weight="700" fill="#92400e">基礎・EXP.J・材料</text>
+    <text x="22" y="142">異なる構造方法の基礎の併用：大臣基準の構造計算で安全を確かめれば 可</text>
+    <text x="22" y="158">EXP.Jのみで接する部分：それぞれ別の建築物とみなして構造計算</text>
+    <text x="22" y="174">特に摩損のおそれのある部分：摩損しにくい材料 or 摩損防止措置（令37条）</text>
+  </g>
+  <rect x="15" y="192" width="470" height="52" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="192" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="204" font-weight="700" fill="#991b1b">土砂災害特別警戒区域</text>
+    <text x="22" y="220">外壁等の構造：想定される衝撃に耐える（居室を有する建築物が対象）</text>
+    <text x="22" y="236">×「居室を有しない建築物であっても」</text>
+  </g>
+  <text x="250" y="292" text-anchor="middle" font-size="9.5" fill="#64748b">数字のすり替え（1.2m／4m／1.5倍／60°）に注意</text>
+</svg>

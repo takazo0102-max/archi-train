@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">延焼のおそれのある部分（法2条六号）</text>
+  <!-- 隣地境界線 -->
+  <line x1="60" y1="60" x2="60" y2="250" stroke="#1e293b" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="60" y="268" text-anchor="middle" font-size="11" fill="#1e293b" textLength="114" lengthAdjust="spacingAndGlyphs">隣地境界線・道路中心線</text>
+  <!-- 3m/5m 帯 -->
+  <rect x="60" y="60" width="90" height="150" fill="#fecaca" opacity="0.6"/>
+  <rect x="150" y="60" width="60" height="150" fill="#fde68a" opacity="0.6"/>
+  <text x="105" y="52" text-anchor="middle" font-size="12" font-weight="700" fill="#b91c1c">3m</text>
+  <text x="180" y="52" text-anchor="middle" font-size="12" font-weight="700" fill="#b45309">5m</text>
+  <!-- 建物断面 -->
+  <rect x="100" y="90" width="230" height="120" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <line x1="100" y1="150" x2="330" y2="150" stroke="#94a3b8" stroke-width="1.5"/>
+  <text x="215" y="125" text-anchor="middle" font-size="12" fill="#334155">2階以上 → 5m以内</text>
+  <text x="215" y="185" text-anchor="middle" font-size="12" fill="#334155">1階 → 3m以内</text>
+  <line x1="100" y1="210" x2="330" y2="210" stroke="#1e293b" stroke-width="3"/>
+  <!-- 2棟の場合 -->
+  <rect x="360" y="70" width="120" height="140" fill="#fff" stroke="#94a3b8" stroke-width="1.5"/>
+  <text x="420" y="92" text-anchor="middle" font-size="12" font-weight="700" fill="#1e293b">同一敷地に2棟</text>
+  <rect x="372" y="110" width="30" height="70" fill="#e2e8f0" stroke="#64748b"/>
+  <rect x="438" y="110" width="30" height="70" fill="#e2e8f0" stroke="#64748b"/>
+  <line x1="420" y1="100" x2="420" y2="190" stroke="#ef4444" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="420" y="200" text-anchor="middle" font-size="10" fill="#b91c1c">外壁間中心線から測る</text>
+  <text x="420" y="240" text-anchor="middle" font-size="10" fill="#334155">延べ面積の合計 500m²以内なら</text>
+  <text x="420" y="254" text-anchor="middle" font-size="10" fill="#334155">1棟とみなす（中心線なし）</text>
+  <text x="250" y="288" text-anchor="middle" font-size="12" fill="#334155">防火上有効な公園・広場・川等に面する部分や、外壁が延焼防止性能のときは除外</text>
+</svg>

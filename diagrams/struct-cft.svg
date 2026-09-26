@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">CFT造（コンクリート充填鋼管）</text>
+  <!-- 断面 -->
+  <rect x="170" y="70" width="160" height="160" fill="#94a3b8" stroke="#475569" stroke-width="3"/>
+  <rect x="186" y="86" width="128" height="128" fill="#cbd5e1"/>
+  <text x="250" y="155" text-anchor="middle" font-size="13" fill="#334155" font-weight="700">コンクリート</text>
+  <text x="250" y="60" text-anchor="middle" font-size="12" fill="#475569">鋼管</text>
+  <!-- 相互拘束の矢印 -->
+  <g stroke="#dc2626" stroke-width="2" fill="#dc2626">
+    <line x1="150" y1="150" x2="184" y2="150"/><polygon points="184,150 174,145 174,155"/>
+    <line x1="350" y1="150" x2="316" y2="150"/><polygon points="316,150 326,145 326,155"/>
+  </g>
+  <text x="120" y="135" font-size="10.5" fill="#b91c1c">鋼管が</text>
+  <text x="120" y="148" font-size="10.5" fill="#b91c1c">コンクリート</text>
+  <text x="120" y="161" font-size="10.5" fill="#b91c1c">を拘束</text>
+  <g stroke="#16a34a" stroke-width="2" fill="#16a34a">
+    <line x1="250" y1="240" x2="250" y2="216"/><polygon points="250,216 245,226 255,226"/></g>
+  <text x="360" y="200" font-size="10.5" fill="#15803d">コンクリートが</text>
+  <text x="360" y="213" font-size="10.5" fill="#15803d">鋼管の局部</text>
+  <text x="360" y="226" font-size="10.5" fill="#15803d">座屈を拘束</text>
+  <text x="250" y="262" text-anchor="middle" font-size="12.5" fill="#334155" font-weight="700">鋼管とコンクリートの相互拘束で高い耐力・変形性能</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">西洋建築史の流れ</text>
+  <line x1="25" y1="52" x2="475" y2="52" stroke="#94a3b8" stroke-width="2"/>
+  <g font-size="9" fill="#334155" text-anchor="middle">
+    <circle cx="45" cy="52" r="4" fill="#0ea5e9"/><text x="45" y="68" font-weight="700">ギリシア</text><text x="45" y="80">パルテノン</text><text x="45" y="91">柱式</text>
+    <circle cx="115" cy="52" r="4" fill="#0ea5e9"/><text x="115" y="68" font-weight="700">ローマ</text><text x="115" y="80">パンテオン</text><text x="115" y="91">アーチ・ドーム</text>
+    <circle cx="185" cy="52" r="4" fill="#0ea5e9"/><text x="185" y="68" font-weight="700">ビザンチン</text><text x="185" y="80">ハギア・ソフィア</text><text x="185" y="91">ペンデンティブ</text>
+    <circle cx="255" cy="52" r="4" fill="#0ea5e9"/><text x="255" y="68" font-weight="700">ロマネスク</text><text x="255" y="80">ピサ大聖堂</text><text x="255" y="91">半円アーチ</text>
+    <circle cx="325" cy="52" r="4" fill="#0ea5e9"/><text x="325" y="68" font-weight="700">ゴシック</text><text x="325" y="80">ノートルダム</text><text x="325" y="91">尖頭・飛梁</text>
+    <circle cx="395" cy="52" r="4" fill="#0ea5e9"/><text x="395" y="68" font-weight="700">ルネサンス</text><text x="395" y="80">フィレンツェ</text><text x="395" y="91">古典復興</text>
+    <circle cx="460" cy="52" r="4" fill="#0ea5e9"/><text x="460" y="68" font-weight="700">バロック</text><text x="460" y="80">サン・ピエトロ</text><text x="460" y="91">曲線・動的</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="15" y="102" width="470" height="130" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="25" y="120" font-weight="700" fill="#1e293b">近代〜現代</text>
+    <text x="25" y="138">● 新古典主義（大英博物館）→ 産業革命：水晶宮（1851・鉄とガラス）、エッフェル塔</text>
+    <text x="25" y="156">● アール・ヌーヴォー（オルタ、ガウディ）／ゼツェッション（ワーグナー）／シカゴ派</text>
+    <text x="25" y="174">● モダニズム：バウハウス（グロピウス）、コルビュジエ（サヴォア邸）、ミース</text>
+    <text x="25" y="192">● ライト（落水荘・有機的建築）、アアルト、ルイス・カーン（キンベル美術館）</text>
+    <text x="25" y="210">● ポストモダン（ヴェンチューリ、ジョンソン）、ハイテク（ポンピドゥー、ロイズ）</text>
+    <text x="25" y="226" font-size="10" fill="#64748b">● 脱構築（ゲーリー・ビルバオ）、コールハース、ザハ・ハディド</text>
+  </g>
+  <text x="250" y="254" text-anchor="middle" font-size="10.5" fill="#334155">柱式：ドリス（簡素）→ イオニア（渦巻）→ コリント（アカンサス）。ローマでトスカナ等を追加</text>
+  <text x="250" y="274" text-anchor="middle" font-size="10.5" fill="#334155">近代建築の5原則：ピロティ・屋上庭園・自由な平面・水平連続窓・自由な立面</text>
+  <text x="250" y="292" text-anchor="middle" font-size="10" fill="#64748b">日本の近代：コンドル → 辰野金吾（東京駅）→ 前川國男・坂倉準三 → 丹下健三</text>
+</svg>

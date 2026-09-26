@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">地震層せん断力係数とAi分布</text>
+  <!-- 建物の層 -->
+  <g stroke="#94a3b8" stroke-width="1.5" fill="#e2e8f0">
+    <rect x="120" y="60" width="90" height="34"/>
+    <rect x="120" y="94" width="90" height="34"/>
+    <rect x="120" y="128" width="90" height="34"/>
+    <rect x="120" y="162" width="90" height="34"/>
+    <rect x="120" y="196" width="90" height="34"/>
+  </g>
+  <line x1="100" y1="232" x2="240" y2="232" stroke="#64748b" stroke-width="2"/>
+  <!-- Ai 矢印（上層ほど大） -->
+  <g fill="#dc2626" stroke="#dc2626" stroke-width="2">
+    <line x1="210" y1="77" x2="290" y2="77"/><polygon points="290,77 280,72 280,82"/>
+    <line x1="210" y1="111" x2="278" y2="111"/><polygon points="278,111 268,106 268,116"/>
+    <line x1="210" y1="145" x2="266" y2="145"/><polygon points="266,145 256,140 256,150"/>
+    <line x1="210" y1="179" x2="254" y2="179"/><polygon points="254,179 244,174 244,184"/>
+    <line x1="210" y1="213" x2="242" y2="213"/><polygon points="242,213 232,208 232,218"/>
+  </g>
+  <text x="300" y="81" font-size="11" fill="#b91c1c" font-weight="700">大（上層）</text>
+  <text x="246" y="217" font-size="11" fill="#b91c1c">小（下層 Ai=1.0）</text>
+  <!-- 式 -->
+  <rect x="120" y="252" width="270" height="34" rx="6" fill="#1e293b"/>
+  <text x="255" y="274" text-anchor="middle" font-size="15" fill="#fff" font-weight="700">Ci ＝ Z・Rt・Ai・Co</text>
+  <text x="430" y="150" text-anchor="middle" font-size="11" fill="#475569" transform="rotate(90 430 150)">Z:地域係数 Rt:振動特性 Co:0.2以上</text>
+</svg>

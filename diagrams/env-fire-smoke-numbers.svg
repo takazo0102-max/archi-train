@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">火災・煙・避難の数値</text>
+  <rect x="15" y="34" width="470" height="70" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="9.8" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#991b1b">火災の性状</text>
+    <text x="22" y="62">木材：約260℃で引火・約450℃で発火 ／ FO（フラッシュオーバー）で酸素濃度が急低下</text>
+    <text x="22" y="77">開口が大きいほど燃焼が激しく火災継続時間は「短い」／ 内装不燃化はFOまでの時間を延ばす</text>
+    <text x="22" y="92">縦長窓の炎は外壁から離れやすい／横長窓は壁面に沿い上階延焼 → 層間区画・庇・バルコニー</text>
+  </g>
+  <rect x="15" y="112" width="470" height="86" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="112" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="9.8" fill="#334155">
+    <text x="22" y="124" font-weight="700" fill="#1e3a8a">煙の速さ・避難速度</text>
+    <text x="22" y="140">煙の水平流動 0.5〜1m/s（≒歩行速度）／ 竪穴（階段室）での上昇 3〜5m/s</text>
+    <text x="22" y="155">避難計算：水平歩行 1.0〜1.3m/s ／ 階段を下りる 0.6m/s（群集流動 0.5m/s）</text>
+    <text x="22" y="170">居室内の歩行距離は家具配置を考慮 ／ 階段室出入口は流動係数を考慮し階段幅より狭くできる</text>
+    <text x="22" y="185">冬期（竪穴内が屋外より高温）：煙突効果で下階の火災ほど竪穴へ煙が流入しやすい</text>
+  </g>
+  <rect x="15" y="206" width="470" height="86" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="206" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="9.5" fill="#334155">
+    <text x="22" y="218" font-weight="700" fill="#92400e">避難計画・区画・設備</text>
+    <text x="22" y="234">水平避難（病院）：同じ階の隣の防火区画へ ／ 籠城区画：手術室・ICUで鎮火まで留まる</text>
+    <text x="22" y="249">加圧防煙：階段室への煙流入と煙突効果を防ぐ ／ 売場の避難出口は避難方向へ開く（外開き）</text>
+    <text x="22" y="264">ガス警報器：プロパン（重い）は床上0.3m以内・水平4m以内／都市ガスは天井下0.3m以内・8m以内</text>
+    <text x="22" y="279">R型受信機：固有信号で信号線が少ない（P型は回線ごと）／ 区分鳴動：階ごとに鳴らしパニック防止</text>
+  </g>
+</svg>

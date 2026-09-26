@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">自動火災報知の感知器</text>
+  <!-- 天井 -->
+  <rect x="20" y="55" width="460" height="12" fill="#cbd5e1"/>
+
+  <!-- 差動式 -->
+  <circle cx="110" cy="90" r="20" fill="#fed7aa" stroke="#ea580c" stroke-width="2"/>
+  <text x="110" y="95" text-anchor="middle" font-size="13" fill="#9a3412" font-weight="700">差</text>
+  <text x="110" y="140" text-anchor="middle" font-size="13" fill="#1e293b" font-weight="700">差動式</text>
+  <text x="110" y="160" text-anchor="middle" font-size="11" fill="#475569">温度の上昇率</text>
+  <text x="110" y="176" text-anchor="middle" font-size="11" fill="#475569">で作動（一般居室）</text>
+
+  <!-- 定温式 -->
+  <circle cx="250" cy="90" r="20" fill="#fecaca" stroke="#dc2626" stroke-width="2"/>
+  <text x="250" y="95" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="700">定</text>
+  <text x="250" y="140" text-anchor="middle" font-size="13" fill="#1e293b" font-weight="700">定温式</text>
+  <text x="250" y="160" text-anchor="middle" font-size="11" fill="#475569">一定温度に到達</text>
+  <text x="250" y="176" text-anchor="middle" font-size="11" fill="#475569">で作動（厨房等）</text>
+
+  <!-- 煙感知器 -->
+  <circle cx="390" cy="90" r="20" fill="#e2e8f0" stroke="#64748b" stroke-width="2"/>
+  <text x="390" y="95" text-anchor="middle" font-size="13" fill="#334155" font-weight="700">煙</text>
+  <text x="390" y="140" text-anchor="middle" font-size="13" fill="#1e293b" font-weight="700">煙感知器</text>
+  <text x="390" y="160" text-anchor="middle" font-size="11" fill="#475569">煙を感知</text>
+  <text x="390" y="176" text-anchor="middle" font-size="11" fill="#475569">（廊下・階段・EV）</text>
+
+  <text x="250" y="232" text-anchor="middle" font-size="13" fill="#334155" font-weight="700">差動式＝温度上昇率 ／ 定温式＝一定温度到達 ／ 煙感知器＝煙</text>
+</svg>

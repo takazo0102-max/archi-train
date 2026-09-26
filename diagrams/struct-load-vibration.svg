@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">荷重・外力と振動・耐震設計の要点</text>
+  <rect x="15" y="34" width="470" height="114" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="8.4" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">固有周期・風圧力・積雪</text>
+    <text x="22" y="62">設計用一次固有周期 T＝h(0.02＋0.01α)：RC造 0.02h・S造/木造 0.03h（αは木造・S造部分の高さ割合）</text>
+    <text x="22" y="77">h は原則最高高さ（振動に寄与しない塔屋等は除ける）／ RCの単位体積重量＝コンクリート＋1kN/m³</text>
+    <text x="22" y="92">基準風速 V0：稀に発生する暴風時の地上10m・10分間平均風速</text>
+    <text x="22" y="107">ガスト影響係数 Gf：風の変動による最大の力を求める係数。都市化が著しい（粗度Ⅳ）ほど大・建物が高いほど小</text>
+    <text x="22" y="122">屋根葺き材の風圧計算は高さによらず適用 ／ ピーク風力係数：全風向の局部風圧の最大値</text>
+    <text x="22" y="137">多雪区域：垂直積雪量1m以上 または 積雪初終間日数30日以上（いずれか）</text>
+  </g>
+  <rect x="15" y="156" width="470" height="100" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="156" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="8.6" fill="#334155">
+    <text x="22" y="168" font-weight="700" fill="#991b1b">振動・応答・減衰</text>
+    <text x="22" y="184">応答スペクトル：周期が長いほど 加速度↓・変位↑ ／ 固有周期は1次（基本モード）が最も長い</text>
+    <text x="22" y="199">減衰定数：RC造（3〜5%）＞ S造（1〜2%）／ 共振時の振幅は減衰定数が大きいほど小さい</text>
+    <text x="22" y="214">限界耐力計算：塑性化が大きいほど履歴減衰が増え減衰定数は大きい ／ 耐久性等関係規定以外の仕様規定は不要</text>
+    <text x="22" y="229">純ラーメンの地震時軸力変動：外柱 ＞ 中柱（転倒モーメントを外柱の偶力で抵抗）</text>
+    <text x="22" y="244">耐震計算ルートは方向ごとに判定してよい（張り間：ラーメン・桁行：ブレース など）</text>
+  </g>
+  <text x="15" y="285" font-size="10" fill="#b91c1c" font-weight="700">ひっかけ：変位応答は周期が長いほど「大」／減衰大で振幅「小」／多雪区域は「いずれか」</text>
+</svg>

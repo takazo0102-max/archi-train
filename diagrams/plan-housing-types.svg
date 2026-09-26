@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">集合住宅のアクセス形式と住戸形式</text>
+  <rect x="20" y="42" width="105" height="76" fill="#fff" stroke="#94a3b8"/>
+  <rect x="60" y="42" width="25" height="76" fill="#fecaca"/>
+  <rect x="28" y="49" width="28" height="62" fill="#dbeafe"/><rect x="89" y="49" width="28" height="62" fill="#dbeafe"/>
+  <text x="72" y="134" text-anchor="middle" font-size="11" font-weight="700" fill="#1e293b">階段室型</text>
+  <text x="72" y="147" text-anchor="middle" font-size="9" fill="#334155">独立性・通風◎ EL効率×</text>
+  <rect x="140" y="42" width="105" height="76" fill="#fff" stroke="#94a3b8"/>
+  <rect x="140" y="104" width="105" height="14" fill="#fecaca"/>
+  <g fill="#dbeafe"><rect x="146" y="49" width="28" height="50"/><rect x="178" y="49" width="28" height="50"/><rect x="210" y="49" width="28" height="50"/></g>
+  <text x="192" y="134" text-anchor="middle" font-size="11" font-weight="700" fill="#1e293b">片廊下型</text>
+  <text x="192" y="147" text-anchor="middle" font-size="9" fill="#334155">EL効率◎ 廊下側の独立性×</text>
+  <rect x="260" y="42" width="105" height="76" fill="#fff" stroke="#94a3b8"/>
+  <rect x="260" y="74" width="105" height="12" fill="#fecaca"/>
+  <g fill="#dbeafe"><rect x="266" y="47" width="28" height="23"/><rect x="298" y="47" width="28" height="23"/><rect x="330" y="47" width="28" height="23"/><rect x="266" y="90" width="28" height="23"/><rect x="298" y="90" width="28" height="23"/><rect x="330" y="90" width="28" height="23"/></g>
+  <text x="312" y="134" text-anchor="middle" font-size="11" font-weight="700" fill="#1e293b">中廊下型</text>
+  <text x="312" y="147" text-anchor="middle" font-size="9" fill="#334155">高密度 片側が北向き・通風×</text>
+  <rect x="380" y="42" width="105" height="76" fill="#fff" stroke="#94a3b8"/>
+  <rect x="420" y="66" width="25" height="28" fill="#fecaca"/>
+  <g fill="#dbeafe"><rect x="386" y="47" width="30" height="28"/><rect x="449" y="47" width="30" height="28"/><rect x="386" y="85" width="30" height="28"/><rect x="449" y="85" width="30" height="28"/></g>
+  <text x="432" y="134" text-anchor="middle" font-size="11" font-weight="700" fill="#1e293b">集中（ホール）型</text>
+  <text x="432" y="147" text-anchor="middle" font-size="9" fill="#334155">タワー型 EL効率◎ 方位差</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="158" width="465" height="112" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="176" font-weight="700" fill="#1e293b">住戸形式</text>
+    <text x="30" y="194">● フラット：1住戸1層　● メゾネット：1住戸2層（独立性◎・小住戸には不向き）</text>
+    <text x="30" y="212">● スキップフロア：2〜3層ごとに廊下。廊下のない階は両面開口、EL停止階は少ない</text>
+    <text x="30" y="230">● テラスハウス：各戸に専用庭の連続建て　● タウンハウス：共用庭（コモン）を持つ</text>
+    <text x="30" y="248">● コーポラティブ：入居希望者が組合で企画・建設</text>
+    <text x="30" y="264">● コレクティブ：共用の食堂・家事室で生活の一部を共同化</text>
+  </g>
+  <text x="250" y="290" text-anchor="middle" font-size="10" fill="#64748b">ツインコリドー型＝中廊下を2本にして中央に吹抜け（通風改善）。2方向避難はバルコニー隔て板で</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="30" text-anchor="middle" font-size="20" font-weight="700" fill="#1e293b">コンクリートの圧縮強度とヤング係数</text>
+
+  <!-- グラフ軸 -->
+  <line x1="90" y1="230" x2="430" y2="230" stroke="#334155" stroke-width="2"/>
+  <line x1="90" y1="230" x2="90" y2="70" stroke="#334155" stroke-width="2"/>
+  <!-- 矢じり -->
+  <polygon points="430,230 418,224 418,236" fill="#334155"/>
+  <polygon points="90,70 84,82 96,82" fill="#334155"/>
+
+  <!-- 右肩上がりの関係線 -->
+  <line x1="90" y1="230" x2="410" y2="90" stroke="#2563eb" stroke-width="4"/>
+  <circle cx="410" cy="90" r="6" fill="#2563eb"/>
+
+  <!-- 軸ラベル -->
+  <text x="250" y="262" text-anchor="middle" font-size="15" fill="#334155" font-weight="700">圧縮強度（大きい＝硬い）→</text>
+  <text x="58" y="155" text-anchor="middle" font-size="15" fill="#334155" font-weight="700" transform="rotate(-90 58 155)">ヤング係数 →</text>
+
+  <text x="250" y="290" text-anchor="middle" font-size="14" fill="#2563eb" font-weight="700">圧縮強度が大きいほど、ヤング係数も大きい（変形しにくい）</text>
+</svg>

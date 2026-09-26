@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">排水・通気設備のしくみ</text>
+  <!-- 断面 -->
+  <rect x="120" y="45" width="14" height="190" fill="#94a3b8"/>
+  <text x="100" y="262" text-anchor="middle" font-size="9" fill="#334155">排水立て管</text>
+  <rect x="60" y="45" width="10" height="150" fill="#bae6fd"/>
+  <text x="65" y="210" text-anchor="middle" font-size="9" fill="#0369a1">通気立て管</text>
+  <line x1="60" y1="55" x2="134" y2="55" stroke="#bae6fd" stroke-width="8"/>
+  <text x="97" y="44" text-anchor="middle" font-size="8" fill="#0369a1">伸頂通気（屋上へ）</text>
+  <g stroke="#94a3b8" stroke-width="8"><line x1="134" y1="100" x2="200" y2="100"/><line x1="134" y1="160" x2="200" y2="160"/></g>
+  <g stroke="#bae6fd" stroke-width="6"><line x1="70" y1="90" x2="180" y2="90"/><line x1="70" y1="150" x2="180" y2="150"/></g>
+  <path d="M190 100 q0 20 15 20 q15 0 15 -20" fill="none" stroke="#334155" stroke-width="5"/>
+  <text x="205" y="138" text-anchor="middle" font-size="8" fill="#334155">トラップ（封水）</text>
+  <rect x="120" y="235" width="14" height="15" fill="#64748b"/>
+  <text x="140" y="262" font-size="9" fill="#334155">→ 横主管（最下部は大曲り）</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="245" y="42" width="240" height="205" fill="#fff" stroke="#94a3b8"/>
+    <text x="365" y="60" text-anchor="middle" font-weight="700" fill="#1e293b">覚えること</text>
+    <text x="253" y="80">● 封水深 <tspan font-weight="700">5〜10cm</tspan>。二重トラップは禁止</text>
+    <text x="253" y="98">● 封水破壊：自己サイホン・誘導サイホン・</text>
+    <text x="253" y="114">　跳ね出し・毛細管・蒸発 → 通気で防ぐ</text>
+    <text x="253" y="132">● 通気管の取出し：トラップウェアから</text>
+    <text x="253" y="148">　管径の2倍以上下流で、45°以上上向き</text>
+    <text x="253" y="166" textLength="227" lengthAdjust="spacingAndGlyphs">● 各個通気（最も確実）／ループ通気（8個まで）</text>
+    <text x="253" y="184">　／伸頂通気（立て管上部を延長）</text>
+    <text x="253" y="202">● 排水横管の勾配：65mm以下 <tspan font-weight="700">1/50</tspan>、</text>
+    <text x="253" y="218">　75〜100mm 1/100、125mm 1/150</text>
+    <text x="253" y="236">● 間接排水：飲料・食品機器は排水口空間</text>
+  </g>
+  <text x="250" y="276" text-anchor="middle" font-size="10.5" fill="#334155">通気管の末端：窓・換気口から 60cm以上上、または水平 3m以上離す</text>
+  <text x="250" y="292" text-anchor="middle" font-size="10" fill="#64748b">雨水と汚水は分流。雨水排水管にはトラップます。掃除口は 15m 以内ごと</text>
+</svg>

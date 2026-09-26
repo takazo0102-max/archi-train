@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">建築基準法の用語の定義（法2条）</text>
+  <rect x="15" y="34" width="470" height="100" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="8.3" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">主要な定義</text>
+    <text x="22" y="62">建築物：土地に定着し屋根＋柱／壁があるもの・門塀・高架の工作物内の店舗等も含む（線路敷地内の保安施設は除く）</text>
+    <text x="22" y="77">特殊建築物：劇場・病院・学校・共同住宅・こども園・倉庫・自動車車庫等 ／ 居室：継続的に使用する室（調理室も）</text>
+    <text x="22" y="92">建築設備：電気・ガス・給排水・換気・冷暖房・消火（貯水槽含む）・排煙・汚物処理・煙突・昇降機・避雷針</text>
+    <text x="22" y="107">防火設備は建築設備ではない ／ 遮炎性能＝防火設備の性能（外壁ではない）／ 準防火性能＝外壁の延焼抑制性能</text>
+    <text x="22" y="122">特定防火設備：1時間の遮炎性能（防火設備は20分）／ 特定天井：脱落で重大な危害のおそれがある大臣指定の天井</text>
+  </g>
+  <rect x="15" y="142" width="470" height="56" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="142" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="8.5" fill="#334155">
+    <text x="22" y="154" font-weight="700" fill="#991b1b">その他</text>
+    <text x="22" y="170">建築基準関係規定（令9条）：消防法・港湾法40条・液化石油ガス法38条の2・特定都市河川浸水被害対策法 など</text>
+    <text x="22" y="185">プログラム：電子計算機への指令を一の結果が得られるよう組み合わせたもの ／ 法37条の重要な部分に屋外階段も</text>
+  </g>
+  <text x="15" y="225" font-size="10" fill="#b91c1c" font-weight="700">ひっかけ：特定防火設備は45分×（1時間）／防火戸は建築設備×／遮炎性能は外壁×（防火設備）</text>
+</svg>

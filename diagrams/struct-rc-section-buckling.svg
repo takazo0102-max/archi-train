@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">RC断面算定・座屈荷重・骨組の計算</text>
+  <rect x="15" y="34" width="470" height="100" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="8.6" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">RC部材の許容応力度計算</text>
+    <text x="22" y="62">柱の許容曲げモーメント：圧縮縁コンクリート・圧縮鉄筋・引張鉄筋が許容応力度に達する3状態の「最小」</text>
+    <text x="22" y="77">曲げ計算では引張側コンクリートは無視（引張は鉄筋、圧縮はコンクリート＋圧縮鉄筋）</text>
+    <text x="22" y="92">梁端部の設計用曲げモーメントは柱面（フェイス）位置の値 ／ スラブ筋を算入しない短期曲げ耐力は安全側</text>
+    <text x="22" y="107">開口耐力壁の補強筋：設計用せん断力に対し壁縦筋・横筋の寄与分を考慮して算定</text>
+    <text x="22" y="122">突出2m以下の片持ちバルコニーは鉛直震度の割増し不要 ／ 擁壁：上載荷重は土圧として考慮・底版上の土は転倒抵抗</text>
+  </g>
+  <rect x="15" y="142" width="470" height="56" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="142" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="8.6" fill="#334155">
+    <text x="22" y="154" font-weight="700" fill="#991b1b">弾性座屈荷重 Pe</text>
+    <text x="22" y="170">Pe＝π²EI/lk²：長さ1/2で4倍 ／ 正方形断面で面積2倍 → I は4倍 → Pe も4倍（16倍ではない）</text>
+    <text x="22" y="185">材端条件：両端ピン lk＝l ／ 一端ピン他端固定 0.7l ／ 両端固定 0.5l ／ 一端自由 2l（両端ピンのPeは小）</text>
+  </g>
+  <rect x="15" y="206" width="470" height="56" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="206" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="8.6" fill="#334155">
+    <text x="22" y="218" font-weight="700" fill="#92400e">ラーメン骨組の力の流れ</text>
+    <text x="22" y="234">層せん断力＝その層の柱せん断力の和 ／ 柱のQ＝（柱頭M＋柱脚M）／階高 ／ 梁のQ＝（両端M）／スパン</text>
+    <text x="22" y="249">剛接合の節点で柱と梁の曲げモーメントは釣合う ／ 柱軸力は上階から梁せん断力を累積 ／ 支点反力＝柱軸力＋梁Q</text>
+  </g>
+  <text x="15" y="285" font-size="10" fill="#b91c1c" font-weight="700">ひっかけ：許容曲げMは「最小」／面積2倍でPe16倍は×（4倍）／上載荷重は土圧として考慮する</text>
+</svg>

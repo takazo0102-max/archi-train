@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">木造の壁量計算（令46条）</text>
+  <!-- 式 -->
+  <rect x="20" y="40" width="460" height="46" rx="8" fill="#fff" stroke="#94a3b8"/>
+  <text x="250" y="60" text-anchor="middle" font-size="13" font-weight="700" fill="#1e293b" textLength="454" lengthAdjust="spacingAndGlyphs">存在壁量 Σ（壁の長さ × 壁倍率） ≧ 必要壁量（床面積 or 見付面積 × 係数）</text>
+  <text x="250" y="78" text-anchor="middle" font-size="10" fill="#334155">張り間方向・桁行方向それぞれで確認。地震用（床面積）と風用（見付面積）の大きいほう</text>
+  <!-- 壁倍率 -->
+  <g font-size="10" fill="#334155">
+    <rect x="20" y="96" width="220" height="150" fill="#fff" stroke="#94a3b8"/>
+    <text x="130" y="113" text-anchor="middle" font-weight="700" fill="#1e293b">壁倍率（例）</text>
+    <text x="30" y="132">土塗壁・木ずり片面</text><text x="230" y="132" text-anchor="end" font-weight="700">0.5</text>
+    <text x="30" y="148">筋かい 15×90（片筋かい）</text><text x="230" y="148" text-anchor="end" font-weight="700">1.0</text>
+    <text x="30" y="164">筋かい 30×90</text><text x="230" y="164" text-anchor="end" font-weight="700">1.5</text>
+    <text x="30" y="180">筋かい 45×90</text><text x="230" y="180" text-anchor="end" font-weight="700">2.0</text>
+    <text x="30" y="196">筋かい 90×90</text><text x="230" y="196" text-anchor="end" font-weight="700">3.0</text>
+    <text x="30" y="212">構造用合板 7.5mm以上</text><text x="230" y="212" text-anchor="end" font-weight="700">2.5</text>
+    <text x="30" y="228">たすき掛けは片側の2倍、合計は 5.0 が上限</text>
+  </g>
+  <!-- 必要壁量 -->
+  <g font-size="10" fill="#334155">
+    <rect x="255" y="96" width="225" height="150" fill="#fff" stroke="#94a3b8"/>
+    <text x="367" y="113" text-anchor="middle" font-weight="700" fill="#1e293b">必要壁量（地震力）cm/m²</text>
+    <text x="265" y="132" font-weight="700">屋根</text><text x="380" y="132" text-anchor="middle" font-weight="700">平家</text><text x="425" y="132" text-anchor="middle" font-weight="700">2階建の1階</text><text x="470" y="132" text-anchor="end" font-weight="700">2階</text>
+    <text x="265" y="150">軽い屋根（金属板等）</text><text x="380" y="150" text-anchor="middle">11</text><text x="425" y="150" text-anchor="middle">29</text><text x="470" y="150" text-anchor="end">15</text>
+    <text x="265" y="168">重い屋根（瓦等）</text><text x="380" y="168" text-anchor="middle">15</text><text x="425" y="168" text-anchor="middle">33</text><text x="470" y="168" text-anchor="end">21</text>
+    <text x="265" y="192" font-weight="700">風圧力（見付面積）cm/m²</text>
+    <text x="265" y="208">一般 50　／　特定行政庁指定区域 50〜75</text>
+    <text x="265" y="228">見付面積は床面から1.35m以下を除く</text>
+  </g>
+  <text x="250" y="266" text-anchor="middle" font-size="10.5" fill="#334155">配置バランス：四分割法（側端部の壁量充足率 ≧ 1 または壁率比 ≧ 0.5）か偏心率 ≦ 0.3</text>
+  <text x="250" y="284" text-anchor="middle" font-size="10" fill="#64748b">筋かいは圧縮側が有効。柱頭・柱脚の接合部は N値計算等で引抜きを確認（令47条）</text>
+</svg>

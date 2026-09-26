@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">都市計画の理論と事例（年代順）</text>
+  <line x1="30" y1="60" x2="470" y2="60" stroke="#94a3b8" stroke-width="2"/>
+  <g font-size="9" fill="#334155" text-anchor="middle">
+    <circle cx="50" cy="60" r="5" fill="#0ea5e9"/><text x="50" y="48">1898</text>
+    <text x="50" y="78" font-weight="700">田園都市</text><text x="50" y="90">ハワード</text><text x="50" y="101">レッチワース</text>
+    <circle cx="135" cy="60" r="5" fill="#0ea5e9"/><text x="135" y="48">1924</text>
+    <text x="135" y="78" font-weight="700">近隣住区論</text><text x="135" y="90">ペリー</text><text x="135" y="101">小学校を中心に</text>
+    <circle cx="225" cy="60" r="5" fill="#0ea5e9"/><text x="225" y="48">1928</text>
+    <text x="225" y="78" font-weight="700">ラドバーン</text><text x="225" y="90">スタイン＆ライト</text><text x="225" y="101">歩車分離</text>
+    <circle cx="315" cy="60" r="5" fill="#0ea5e9"/><text x="315" y="48">1933</text>
+    <text x="315" y="78" font-weight="700">輝く都市</text><text x="315" y="90">ル・コルビュジエ</text><text x="315" y="101">高層・緑地</text>
+    <circle cx="405" cy="60" r="5" fill="#0ea5e9"/><text x="405" y="48">1960s</text>
+    <text x="405" y="78" font-weight="700">パタン・ランゲージ</text><text x="405" y="90">アレグザンダー</text><text x="405" y="101">ジェイコブズも</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="112" width="460" height="130" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="130">● 近隣住区：人口 <tspan font-weight="700">8,000〜10,000人</tspan>、半径約 <tspan font-weight="700">400m</tspan>、面積約 64ha</text>
+    <text x="30" y="148">● 田園都市：人口 32,000人、農地で囲む。日本の田園調布は「住宅地」で別物</text>
+    <text x="30" y="166">● ラドバーン方式：住区内は通過交通なし、クルドサック＋歩行者専用路</text>
+    <text x="30" y="184">● ボンエルフ（オランダ）：歩車共存道路、ハンプ・シケインで速度抑制</text>
+    <text x="30" y="202">● トランジットモール：公共交通のみ通行できる商店街（バス・LRT）</text>
+    <text x="30" y="220">● TOD：駅を中心に高密度・複合の開発　● コンパクトシティ：集約型都市</text>
+    <text x="30" y="236" font-size="10" fill="#64748b">● 日本：千里ニュータウン（1962）、多摩ニュータウン、幕張ベイタウン（街区型）</text>
+  </g>
+  <text x="250" y="264" text-anchor="middle" font-size="10.5" fill="#334155">用途地域は13種。市街化区域／市街化調整区域（線引き）。地区計画で細かなルール</text>
+  <text x="250" y="284" text-anchor="middle" font-size="10" fill="#64748b">DID＝人口集中地区（4,000人/km²以上）。立体道路制度は道路上空に建築を可能にする</text>
+</svg>

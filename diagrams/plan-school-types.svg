@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">学校の運営方式と教室配置</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="40" width="225" height="62" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="57" font-weight="700" fill="#1e293b">総合教室型</text>
+    <text x="30" y="74">ほぼ全教科を自教室で行う</text>
+    <text x="30" y="90">小学校低学年向き。教室は広めに</text>
+    <rect x="255" y="40" width="230" height="62" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="265" y="57" font-weight="700" fill="#1e293b">特別教室型</text>
+    <text x="265" y="74">普通教科は自教室、理科・音楽等は特別教室</text>
+    <text x="265" y="90">小学校高学年〜中学校で一般的</text>
+    <rect x="20" y="110" width="225" height="62" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="127" font-weight="700" fill="#1e293b">教科教室型</text>
+    <text x="30" y="144">全教科を専用教室で。生徒が移動する</text>
+    <text x="30" y="160">ホームベースが必要。利用率が高い（中高）</text>
+    <rect x="255" y="110" width="230" height="62" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="265" y="127" font-weight="700" fill="#1e293b">プラトーン型・オープンスクール</text>
+    <text x="265" y="144" textLength="215" lengthAdjust="spacingAndGlyphs">プラトーン：2組が一般／特別教室を交互に使用</text>
+    <text x="265" y="160">オープン：多目的スペースを隣接・個別学習</text>
+  </g>
+  <rect x="20" y="182" width="135" height="56" fill="#fff" stroke="#94a3b8"/>
+  <g fill="#dbeafe"><rect x="28" y="188" width="36" height="20"/><rect x="70" y="188" width="36" height="20"/><rect x="112" y="188" width="36" height="20"/></g>
+  <rect x="28" y="214" width="120" height="14" fill="#e2e8f0"/>
+  <text x="88" y="252" text-anchor="middle" font-size="10" fill="#334155">片廊下型：採光・通風に有利</text>
+  <rect x="170" y="182" width="135" height="56" fill="#fff" stroke="#94a3b8"/>
+  <rect x="178" y="187" width="120" height="14" fill="#dbeafe"/>
+  <rect x="178" y="204" width="120" height="12" fill="#e2e8f0"/>
+  <rect x="178" y="219" width="120" height="14" fill="#dbeafe"/>
+  <text x="238" y="252" text-anchor="middle" font-size="10" fill="#334155">中廊下型：面積効率◎・北側教室</text>
+  <g font-size="10" fill="#334155">
+    <rect x="320" y="182" width="165" height="56" fill="#fff" stroke="#94a3b8"/>
+    <text x="328" y="197">● 教室 7×9m（約63m²）</text>
+    <text x="328" y="211">● 黒板面 500lx、机上 300lx</text>
+    <text x="328" y="225">● 廊下幅：片 1.8m／中 2.3m</text>
+    <text x="328" y="235" font-size="9">● 階段蹴上：小16／中高18cm</text>
+  </g>
+  <text x="250" y="274" text-anchor="middle" font-size="10.5" fill="#334155">クラスタ型＝学年ごとに教室群をまとめる。低学年は1階・専用の出入口と庭</text>
+  <text x="250" y="291" text-anchor="middle" font-size="10" fill="#64748b">図書室・特別教室は地域開放を考え出入口近くに。体育館は避難所利用も想定</text>
+</svg>

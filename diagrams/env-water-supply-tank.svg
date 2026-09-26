@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">給水量・受水槽・逆流防止の要点</text>
+  <rect x="15" y="34" width="470" height="56" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="9.0" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">設計用給水量の目安</text>
+    <text x="22" y="62">集合住宅 200〜350L/人・日 ／ 戸建 200〜400 ／ 事務所 60〜100L/人・日（節水器具でさらに少）</text>
+    <text x="22" y="77">ホテル客室 350〜450L/床・日 ／ 総合病院 1,500〜3,500L/床・日 ／ 事務所の飲用：雑用 ＝ 3〜4：6〜7</text>
+  </g>
+  <rect x="15" y="98" width="470" height="86" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="98" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="8.7" fill="#334155">
+    <text x="22" y="110" font-weight="700" fill="#991b1b">受水槽</text>
+    <text x="22" y="126">上水受水槽：六面点検（上部100cm・側面/下部60cm）・独立槽 → 床下ピット兼用は不可（雑用水・消火用は可）</text>
+    <text x="22" y="141">気相部（水面上）は塩素ガスで腐食 → 耐食性の高い鋼材・樹脂被覆ボルト ／ 大容量槽は迂回壁で死水防止</text>
+    <text x="22" y="156">容量を大きく（1日給水量の2倍等）すると残留塩素が減る → 塩素滅菌装置 ／ 防災拠点は緊急給水遮断弁</text>
+    <text x="22" y="171">ポンプのキャビテーション：吸込口の圧力が「低い」と発生しやすい</text>
+  </g>
+  <rect x="15" y="192" width="470" height="70" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="192" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="9.0" fill="#334155">
+    <text x="22" y="204" font-weight="700" fill="#92400e">逆流防止・雑用水</text>
+    <text x="22" y="220">逆サイホン防止：大便器洗浄弁・散水栓・ホース接続口にはバキュームブレーカー</text>
+    <text x="22" y="235">排水再利用の原水は洗面・手洗い・湯沸室（厨房排水は油分処理が前提）→ 便器洗浄のほか散水・掃除にも</text>
+    <text x="22" y="250">雨水利用水が下水道料金の対象になる地域では使用量を計測する量水器を設置</text>
+  </g>
+  <text x="15" y="285" font-size="10" fill="#b91c1c" font-weight="700">ひっかけ：病院300L/床は過小／上水槽のピット兼用は不可／キャビテーションは低圧側で発生</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">外装・断熱・天井工事の数値</text>
+  <rect x="15" y="34" width="470" height="118" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">外装（カーテンウォール・パネル・石）</text>
+    <text x="22" y="62">PCカーテンウォール：目地幅許容差 ±5mm ／ 躯体付け金物 鉛直±10mm・水平±25mm</text>
+    <text x="22" y="78">ECP（押出成形セメント板）目地幅：一方 15mm以上・他方 8mm以上</text>
+    <text x="22" y="94">ALC縦壁ロッキング：パラペットへのはね出しはパネル厚の6倍以内</text>
+    <text x="22" y="110">乾式石張り：厚さ 30〜70mm・面積 0.8m²以下・幅高さ 1.2m以下</text>
+    <text x="22" y="126">仕上塗材の吹付け：下地の表面含水率 10%以下・pH 9以下</text>
+  </g>
+  <rect x="15" y="160" width="470" height="132" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="160" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="172" font-weight="700" fill="#991b1b">断熱・屋根・天井・建具</text>
+    <text x="22" y="188">吹付け硬質ウレタン：1回 30mm以下・1日総厚 80mm以下・許容差 0〜＋10mm</text>
+    <text x="22" y="204">折板のけらば包み：端部用タイトフレーム 1.2m以下間隔 ／ 笠木はコーナー部から</text>
+    <text x="22" y="220">銅板葺き：釘・金物は銅／ステンレス製（亜鉛めっき鋼板は電食で不可）</text>
+    <text x="22" y="236">特定天井（仕様ルート）：質量 20kg/m²以下・壁との隙間 6cm以上</text>
+    <text x="22" y="252">ロックウール化粧吸音板：工事中の室内湿度 80%以下（軟化防止）</text>
+    <text x="22" y="268">防火扉の危害防止装置：閉鎖時間・運動エネルギー・閉鎖力を測定</text>
+  </g>
+</svg>

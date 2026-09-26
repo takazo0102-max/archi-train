@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">発注方式・マネジメント用語</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="15" y="40" width="470" height="150" fill="#fff" stroke="#94a3b8"/>
+    <text x="25" y="58" font-weight="700" fill="#1e293b">方式</text><text x="150" y="58" font-weight="700" fill="#1e293b">しくみ</text>
+    <line x1="15" y1="64" x2="485" y2="64" stroke="#94a3b8"/>
+    <text x="25" y="80">設計施工分離</text><text x="150" y="80">設計者と施工者を別に選定。設計完了後に入札（従来型）</text>
+    <text x="25" y="96">設計施工一括（DB）</text><text x="150" y="96">同じ企業が設計＋施工。工期短縮・責任一元化、第三者チェック弱</text>
+    <text x="25" y="112">CM 方式</text><text x="150" y="112" textLength="330" lengthAdjust="spacingAndGlyphs">CMr が発注者側で工程・コスト・品質を管理（ピュア／アットリスク型）</text>
+    <text x="25" y="128">ECI</text><text x="150" y="128">設計段階から施工者が技術協力し、その後施工契約</text>
+    <text x="25" y="144">PFI</text><text x="150" y="144">民間資金で公共施設を建設・運営。BTO／BOT／BOO で分類</text>
+    <text x="25" y="160">PM／FM</text><text x="150" y="160">PM：計画〜完成を発注者代行で管理。FM：完成後の施設運用</text>
+    <text x="25" y="176">コンペ／プロポーザル</text><text x="150" y="176">コンペ＝設計案を選ぶ。プロポーザル＝設計者（能力・提案）を選ぶ</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="15" y="198" width="470" height="76" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="25" y="216" font-weight="700" fill="#1e293b">コスト・マネジメント用語</text>
+    <text x="25" y="234">● LCC：企画〜解体の総費用（運用が最大）　● VE：機能を保ちコスト低減　● LCM</text>
+    <text x="25" y="252">● デュー・デリジェンス：不動産調査　● コミッショニング：性能検証　● POE：入居後評価</text>
+    <text x="25" y="268">● BIM：3D モデル＋属性情報　● ブリーフィング：要求条件の整理（成果物＝ブリーフ）</text>
+  </g>
+  <text x="250" y="292" text-anchor="middle" font-size="10" fill="#64748b">工事費：直接工事費＋共通仮設費＝純工事費 →＋現場管理費＝工事原価 →＋一般管理費＝工事価格</text>
+</svg>

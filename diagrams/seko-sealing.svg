@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">シーリングの2面接着と3面接着</text>
+
+  <!-- 2面接着（◯） -->
+  <text x="135" y="58" text-anchor="middle" font-size="14" fill="#15803d" font-weight="700">2面接着 ◯</text>
+  <rect x="60" y="70" width="65" height="90" fill="#cbd5e1" stroke="#94a3b8"/>
+  <rect x="145" y="70" width="65" height="90" fill="#cbd5e1" stroke="#94a3b8"/>
+  <rect x="125" y="78" width="20" height="60" fill="#f59e0b"/>
+  <rect x="125" y="138" width="20" height="14" fill="#1e293b"/>
+  <text x="135" y="180" text-anchor="middle" font-size="10.5" fill="#475569">両側面のみ接着</text>
+  <text x="135" y="194" text-anchor="middle" font-size="10.5" fill="#475569">底はボンドブレーカー</text>
+  <text x="135" y="208" text-anchor="middle" font-size="10.5" fill="#15803d" font-weight="700">→ 目地の動きに追従</text>
+
+  <line x1="250" y1="60" x2="250" y2="215" stroke="#cbd5e1" stroke-width="1.5"/>
+
+  <!-- 3面接着（×） -->
+  <text x="365" y="58" text-anchor="middle" font-size="14" fill="#b91c1c" font-weight="700">3面接着 ✕</text>
+  <rect x="290" y="70" width="65" height="90" fill="#cbd5e1" stroke="#94a3b8"/>
+  <rect x="375" y="70" width="65" height="90" fill="#cbd5e1" stroke="#94a3b8"/>
+  <rect x="355" y="78" width="20" height="74" fill="#f59e0b"/>
+  <text x="365" y="180" text-anchor="middle" font-size="10.5" fill="#475569">底も接着してしまう</text>
+  <text x="365" y="194" text-anchor="middle" font-size="10.5" fill="#b91c1c" font-weight="700">→ 動きで切れやすい</text>
+
+  <rect x="60" y="232" width="16" height="12" fill="#1e293b"/><text x="84" y="242" font-size="11.5" fill="#334155">ボンドブレーカー／バックアップ材（底への接着を防ぐ）</text>
+  <text x="250" y="270" text-anchor="middle" font-size="13" fill="#334155" font-weight="700">ワーキングジョイントは2面接着とし、3面接着は避ける</text>
+</svg>

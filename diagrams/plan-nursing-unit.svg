@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="30" text-anchor="middle" font-size="20" font-weight="700" fill="#1e293b">病院の看護単位</text>
+
+  <!-- 病床（上段） -->
+  <g fill="#dbeafe" stroke="#60a5fa" stroke-width="1.5">
+    <rect x="40" y="55" width="50" height="34" rx="4"/>
+    <rect x="100" y="55" width="50" height="34" rx="4"/>
+    <rect x="160" y="55" width="50" height="34" rx="4"/>
+    <rect x="290" y="55" width="50" height="34" rx="4"/>
+    <rect x="350" y="55" width="50" height="34" rx="4"/>
+    <rect x="410" y="55" width="50" height="34" rx="4"/>
+  </g>
+  <!-- 病床（下段） -->
+  <g fill="#dbeafe" stroke="#60a5fa" stroke-width="1.5">
+    <rect x="40" y="210" width="50" height="34" rx="4"/>
+    <rect x="100" y="210" width="50" height="34" rx="4"/>
+    <rect x="160" y="210" width="50" height="34" rx="4"/>
+    <rect x="290" y="210" width="50" height="34" rx="4"/>
+    <rect x="350" y="210" width="50" height="34" rx="4"/>
+    <rect x="410" y="210" width="50" height="34" rx="4"/>
+  </g>
+
+  <!-- ナースステーション（中央） -->
+  <rect x="195" y="120" width="110" height="60" rx="6" fill="#1e3a8a"/>
+  <text x="250" y="146" text-anchor="middle" font-size="13" fill="#fff" font-weight="700">ナース</text>
+  <text x="250" y="164" text-anchor="middle" font-size="13" fill="#fff" font-weight="700">ステーション</text>
+
+  <!-- 管理範囲を示す囲い -->
+  <rect x="28" y="46" width="444" height="208" rx="10" fill="none" stroke="#3b82f6" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <text x="250" y="284" text-anchor="middle" font-size="15" fill="#334155" font-weight="700">1看護単位 ＝ 一般に 40〜50床 が標準</text>
+</svg>

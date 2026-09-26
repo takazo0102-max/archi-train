@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">鉄骨工事 高力ボルト・据付けの数値</text>
+  <rect x="15" y="36" width="470" height="88" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="36" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="48" font-weight="700" fill="#1e3a8a">高力ボルト接合</text>
+    <text x="22" y="64">肌すき 1mm超 → 両面摩擦面処理したフィラープレートを挿入（材質SN400Aでも可）</text>
+    <text x="22" y="80">接合面の傾斜 1/20以上 → 勾配座金（テーパーワッシャー）</text>
+    <text x="22" y="96">孔あけ：板厚によらず 工場でドリルあけ（×現場であけ）</text>
+    <text x="22" y="112">溶融亜鉛めっき高力ボルト（F8T）の孔径：同径の通常高力ボルトと 同じ</text>
+  </g>
+  <rect x="15" y="130" width="470" height="52" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="130" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="142" font-weight="700" fill="#92400e">摩擦面</text>
+    <text x="22" y="158">すべり係数 0.45以上：ミルスケール除去後に一様に赤錆を発生させる</text>
+    <text x="22" y="174">溶融亜鉛めっき面はブラスト処理等で確保</text>
+  </g>
+  <rect x="15" y="188" width="470" height="52" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="188" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="200" font-weight="700" fill="#991b1b">柱据付け</text>
+    <text x="22" y="216">柱据付け面の高さ：管理許容差 ±3mm、限界許容差 ±5mm</text>
+    <text x="22" y="232">ベースモルタルの平たん度 ±0.5mm程度</text>
+  </g>
+  <text x="250" y="292" text-anchor="middle" font-size="9.5" fill="#64748b">1mm超・1/20・0.45・±3mm</text>
+</svg>

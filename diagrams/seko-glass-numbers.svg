@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">ガラス工事・金属工事の数値と要点</text>
+  <rect x="15" y="36" width="470" height="64" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="36" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="48" font-weight="700" fill="#1e3a8a">ガラスブロック積み</text>
+    <text x="22" y="64">伸縮調整目地：6m以内ごとに幅10〜25mm程度（×5mごと幅15mm）</text>
+    <text x="22" y="80">平積みの目地幅：8〜15mm（×6mm）</text>
+  </g>
+  <rect x="15" y="104" width="470" height="80" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="104" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="116" font-weight="700" fill="#92400e">防錆・熱割れ・加工</text>
+    <text x="22" y="132">網入り／線入り板ガラス：下辺小口＋縦小口下端から1/4まで防錆塗料</text>
+    <text x="22" y="148">熱割れ防止：ガラスエッジの熱応力 ≦ エッジの許容応力（方位・光熱特性で算出）</text>
+    <text x="22" y="164">サンドブラスト加工深さ：板厚の1/12未満（深いと強度低下）</text>
+  </g>
+  <rect x="15" y="188" width="470" height="96" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="188" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="200" font-weight="700" fill="#991b1b">選定と注意点</text>
+    <text x="22" y="216">トップライト：破片が落下しないよう 合わせガラス を使う</text>
+    <text x="22" y="232">防火設備：網入り板ガラス（線入りは防火設備に不可）</text>
+    <text x="22" y="248">熱線反射ガラスの清掃：反射膜を傷つけないよう軟らかいゴムで水洗い</text>
+    <text x="22" y="264">鋼製手摺の支柱：コンクリート・モルタルに入る部分も錆止め</text>
+    <text x="22" y="280">異種金属（亜鉛めっき鋼板×ステンレス）：電位差が大きいので絶縁して接触腐食防止</text>
+  </g>
+  <text x="250" y="292" text-anchor="middle" font-size="9.5" fill="#64748b">施工 18問（ガラス・金属工事）頻出の数値</text>
+</svg>

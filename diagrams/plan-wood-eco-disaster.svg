@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">木質材料と環境配慮・防災計画</text>
+  <rect x="15" y="34" width="470" height="100" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="9.3" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">木質材料</text>
+    <text x="22" y="62">集成材：ひき板を「平行」に積層 ／ CLT：ひき板を「直交」に積層（面材・構造躯体）</text>
+    <text x="22" y="77">合板：単板を直交積層（特類は屋外可）／ OSB：ストランドを配向し直交積層 ／ MDF：繊維の成形板</text>
+    <text x="22" y="92">心材：腐朽・虫害に強く収縮が少ない ／ 気乾密度 チーク＞ヒノキ＞キリ ／ 燃え代設計：表面炭化</text>
+    <text x="22" y="107">耐火部材：被覆型（無機質系で被覆）／ 燃え止まり型（燃え止まり層＋外側に燃え代層）</text>
+    <text x="22" y="122">オイルステインは浸透着色で塗膜なし ／ ポリウレタン塗料は木床向き ／ ヤマトシロアリは湿潤・水回り</text>
+  </g>
+  <rect x="15" y="142" width="470" height="86" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="142" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="9.3" fill="#334155">
+    <text x="22" y="154" font-weight="700" fill="#991b1b">環境配慮の手法</text>
+    <text x="22" y="170">通風：風上開口を小さく・風下開口を大きくすると流入風速↑（夏期・中間期の卓越風向で計画）</text>
+    <text x="22" y="185">ナイトパージ：夜間外気で躯体冷却 ／ クールスポット：緑陰・水辺の涼所 ／ アースチューブ：地中熱</text>
+    <text x="22" y="200">躯体蓄熱：外断熱＋日射導入＋躯体露出 ／ 越屋根：棟の小屋根から熱気を抜く ／ 光ダクト：曲がり少なく</text>
+    <text x="22" y="215">緑化：蒸散でクールアイランド・熱放射抑制（灌水・維持が課題）／ 昼光利用：省エネ＋災害時の光源</text>
+  </g>
+  <rect x="15" y="236" width="470" height="56" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="236" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="9.3" fill="#334155">
+    <text x="22" y="248" font-weight="700" fill="#92400e">防災計画</text>
+    <text x="22" y="264">応急仮設住宅：建設型（原則2年の一時供与）／借上型（みなし仮設）／ 仮設トイレは避難者50人に1基</text>
+    <text x="22" y="279">指定緊急避難場所は想定水位より上に ／ 津波：低層外壁を壊れやすくし上層を守る</text>
+  </g>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">許容応力度と材料強度（令89〜99条）</text>
+  <rect x="15" y="34" width="470" height="150" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="18" fill="#dbeafe"/>
+  <g font-size="10" fill="#334155">
+    <text x="22" y="47" font-weight="700" fill="#1e293b">材料・応力</text>
+    <text x="185" y="47" font-weight="700" fill="#1e293b">長期許容応力度</text>
+    <text x="325" y="47" font-weight="700" fill="#1e293b">短期許容応力度</text>
+    <text x="420" y="47" font-weight="700" fill="#1e293b">材料強度</text>
+    <text x="22" y="66">コンクリート 圧縮</text>
+    <text x="185" y="66">F/3</text>
+    <text x="325" y="66">長期×2</text>
+    <text x="420" y="66">F</text>
+    <line x1="15" y1="71" x2="485" y2="71" stroke="#e2e8f0"/>
+    <text x="22" y="84">コンクリート 引張・せん断</text>
+    <text x="185" y="84">F/30（＝圧縮の1/10）</text>
+    <text x="325" y="84">長期×2</text>
+    <text x="420" y="84">F/10</text>
+    <line x1="15" y1="89" x2="485" y2="89" stroke="#e2e8f0"/>
+    <text x="22" y="102">鋼材 圧縮・引張・曲げ</text>
+    <text x="185" y="102">F/1.5</text>
+    <text x="325" y="102">F（長期×1.5）</text>
+    <text x="420" y="102">F</text>
+    <line x1="15" y1="107" x2="485" y2="107" stroke="#e2e8f0"/>
+    <text x="22" y="120">鋼材 せん断</text>
+    <text x="185" y="120">F/(1.5√3)</text>
+    <text x="325" y="120">F/√3</text>
+    <text x="420" y="120">F/√3</text>
+    <line x1="15" y1="125" x2="485" y2="125" stroke="#e2e8f0"/>
+    <text x="22" y="138">高力ボルト 引張</text>
+    <text x="185" y="138">F/1.5</text>
+    <text x="325" y="138">F</text>
+    <text x="420" y="138">F</text>
+    <line x1="15" y1="143" x2="485" y2="143" stroke="#e2e8f0"/>
+    <text x="22" y="156">溶接 突合せ継目</text>
+    <text x="185" y="156">母材と同じ</text>
+    <text x="325" y="156">母材と同じ</text>
+    <text x="420" y="156">母材と同じ</text>
+    <line x1="15" y1="161" x2="485" y2="161" stroke="#e2e8f0"/>
+    <text x="22" y="174">木材 圧縮・引張・曲げ・せん断</text>
+    <text x="185" y="174">1.1F/3</text>
+    <text x="325" y="174">2F/3</text>
+    <text x="420" y="174">F</text>
+    <line x1="15" y1="179" x2="485" y2="179" stroke="#e2e8f0"/>
+  </g>
+  <text x="15" y="197" font-size="10" fill="#b91c1c" font-weight="700">F＝基準強度（コンクリートは設計基準強度）。異形鉄筋の材料強度は圧縮＝引張＝F</text>
+  <rect x="15" y="206" width="470" height="86" fill="#fff" stroke="#94a3b8"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="25" y="222" font-weight="700" fill="#1e293b">地盤の長期許容応力度（令93条）［kN/m²］</text>
+    <text x="25" y="240">岩盤 1000 ／ 固結した砂 500 ／ 土丹盤・密実な礫層 300</text>
+    <text x="25" y="256">密実な砂質地盤 200 ／ 堅い粘土質地盤・堅いローム層 100</text>
+    <text x="25" y="272">砂質地盤（液状化のおそれなし）50 ／ ローム層 50 ／ 粘土質地盤 20</text>
+    <text x="25" y="288" fill="#b91c1c">短期＝長期の2倍（例：密実な砂質地盤 短期 400kN/m²）</text>
+  </g>
+</svg>

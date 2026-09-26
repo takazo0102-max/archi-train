@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">エレベーターの計画と非常時の動き</text>
+  <!-- 昇降路 -->
+  <rect x="40" y="50" width="70" height="220" fill="#fff" stroke="#475569" stroke-width="2"/>
+  <g stroke="#94a3b8"><line x1="40" y1="94" x2="110" y2="94"/><line x1="40" y1="138" x2="110" y2="138"/><line x1="40" y1="182" x2="110" y2="182"/><line x1="40" y1="226" x2="110" y2="226"/></g>
+  <rect x="50" y="145" width="50" height="34" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="75" y="167" text-anchor="middle" font-size="11" fill="#1e3a8a">かご</text>
+  <text x="120" y="160" font-size="11" fill="#b91c1c" font-weight="700">地震時は最寄階に停止</text>
+  <text x="120" y="174" font-size="11" fill="#334155">（避難階までは動かない）</text>
+  <text x="120" y="250" font-size="11" fill="#b91c1c" font-weight="700">火災時は避難階に帰着→休止</text>
+  <g font-size="11" fill="#334155">
+    <text x="260" y="70" font-weight="700" fill="#1e293b">計画の目安</text>
+    <text x="260" y="88">・出勤ピーク5分間の交通量で台数決定</text>
+    <text x="260" y="104">・平均運転間隔 40秒以下（貸事務所）</text>
+    <text x="260" y="120" textLength="235" lengthAdjust="spacingAndGlyphs">・1バンク最大8台（4台対面）、通路3.5〜4.5m</text>
+    <text x="260" y="136">・地震感知器：P波→ピット、S波→機械室</text>
+    <text x="260" y="162" font-weight="700" fill="#1e293b">非常用エレベーター（31m超）</text>
+    <text x="260" y="180">・定格速度60m/分以上</text>
+    <text x="260" y="196">・乗降ロビー10m²以上／台、内装は不燃</text>
+    <text x="260" y="212" textLength="235" lengthAdjust="spacingAndGlyphs">・31m超が機械室のみ／4階以下100m²区画→不要</text>
+    <text x="260" y="228">・付室と乗降ロビーは兼用可</text>
+    <text x="260" y="254" font-weight="700" fill="#1e293b">法令寸法</text>
+    <text x="260" y="270" textLength="235" lengthAdjust="spacingAndGlyphs">床先とかご床先 4cm以下／かご床先と壁 12.5cm以下</text>
+    <text x="260" y="286" textLength="235" lengthAdjust="spacingAndGlyphs">機械室高さ：〜60m/分 2.0m、〜150 2.2m、〜210 2.5m</text>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">関係法令の数字早見</text>
+  <g font-size="10" fill="#334155">
+    <rect x="15" y="40" width="470" height="232" fill="#fff" stroke="#94a3b8"/>
+    <text x="25" y="58" font-weight="700" fill="#1e293b">法律</text><text x="140" y="58" font-weight="700" fill="#1e293b">覚える数字・要点</text>
+    <line x1="15" y1="64" x2="485" y2="64" stroke="#94a3b8"/>
+    <text x="25" y="80">バリアフリー法</text><text x="140" y="80">特別特定建築物 2,000m² 以上は適合義務、特定建築物は努力義務</text>
+    <text x="25" y="98">耐震改修促進法</text><text x="140" y="98">要緊急安全確認大規模建築物（5,000m² 以上等）は耐震診断・報告義務</text>
+    <text x="25" y="116">建築物省エネ法</text><text x="140" y="116">原則すべての新築に適合義務（2025〜）。BEI ≦ 1.0</text>
+    <text x="25" y="134">品確法</text><text x="140" y="134">新築住宅の構造・雨水浸入の瑕疵担保 10 年。性能表示 10 分野（任意）</text>
+    <text x="25" y="152">長期優良住宅法</text><text x="140" y="152">劣化対策・耐震・維持管理等で認定。維持保全計画 30 年以上</text>
+    <text x="25" y="170">盛土規制法</text><text x="140" y="170">切土 2m 超・盛土 1m 超・面積 500m² 超などで許可</text>
+    <text x="25" y="188">消防法</text><text x="140" y="188">特定防火対象物は遡及適用。防火管理者：収容 30 人（特定）／50 人</text>
+    <text x="25" y="206">建設業法</text><text x="140" y="206">許可 500 万円以上（一式 1,500 万）。監理技術者：下請 5,000 万以上</text>
+    <text x="25" y="224">建設リサイクル法</text><text x="140" y="224">解体 80m²・新築 500m²・修繕 1 億円以上で分別解体、7 日前に届出</text>
+    <text x="25" y="242">土地区画整理・都市再生</text><text x="140" y="242">換地・減歩。都市再生特別地区は容積率等を別に定められる</text>
+    <text x="25" y="260">景観法・屋外広告物法</text><text x="140" y="260">景観計画区域内の行為は届出、景観地区は認定。広告物は条例</text>
+  </g>
+  <text x="250" y="290" text-anchor="middle" font-size="10" fill="#64748b">建築士法：事務所登録 5 年、図書保存 15 年、定期講習 3 年、管理建築士は専任</text>
+</svg>

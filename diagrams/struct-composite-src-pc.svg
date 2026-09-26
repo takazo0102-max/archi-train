@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">合成構造・SRC・PCの要点</text>
+  <rect x="15" y="34" width="470" height="70" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="8.6" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">合成梁・合成スラブ</text>
+    <text x="22" y="62">合成梁：スタッドで一体化。上フランジはスラブで拘束 → 局部座屈検討省略可、下フランジは検討が必要</text>
+    <text x="22" y="77">完全合成梁：全塑性モーメントに必要な本数以上のスタッド ／ スタッドの設計用水平せん断力は終局時の断面力から</text>
+    <text x="22" y="92">デッキ合成スラブ：デッキが引張鉄筋の役目・面内せん断を伝達 ／ 変形増大係数はRCスラブと同様（梁より大）</text>
+  </g>
+  <rect x="15" y="112" width="470" height="70" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="112" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="8.6" fill="#334155">
+    <text x="22" y="124" font-weight="700" fill="#991b1b">SRC・混合構造</text>
+    <text x="22" y="140">SRC柱の曲げ終局耐力：コンクリート・鉄筋・鉄骨の累加強度 ／ せん断終局耐力：鉄骨部分＋RC部分の和</text>
+    <text x="22" y="155">短期せん断：鉄骨部分とRC部分に「分担」させて各々検討 ／ 接合部：梁ウェブに孔をあけ帯筋を貫通</text>
+    <text x="22" y="170">方向別に SRC／RC を使い分けて設計できる ／ RCコア壁＋外周S骨組：柱を細く大スパンに</text>
+  </g>
+  <rect x="15" y="190" width="470" height="40" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="190" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="8.8" fill="#334155">
+    <text x="22" y="202" font-weight="700" fill="#92400e">プレストレストコンクリート</text>
+    <text x="22" y="218">フルプレストレッシング（Ⅰ種）：長期荷重時に引張応力を生じさせない ／ Ⅱ・Ⅲ種：ひび割れ幅等を制御</text>
+  </g>
+  <text x="15" y="255" font-size="10" fill="#b91c1c" font-weight="700">ひっかけ：下フランジの座屈検討省略×／Ⅰ種で引張許容×／変形増大係数を梁と同じ×</text>
+</svg>

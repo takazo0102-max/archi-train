@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">道路と敷地（接道・道路内建築・位置指定）</text>
+  <rect x="15" y="34" width="470" height="86" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="9.0" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">建築基準法上の道路</text>
+    <text x="22" y="62">法42条1項の道路：道路法・都市計画法・位置指定など幅員4m以上（特定行政庁指定区域は6m以上）</text>
+    <text x="22" y="77">事業計画のある道路は「2年以内」に執行予定として指定されたもの ／ 地下の道路・自動車専用道路のみは不可</text>
+    <text x="22" y="92">位置指定道路：袋路状は 延長35m以下／終端に転回広場／幅員6m以上 のいずれか ／ 縦断勾配12%以下</text>
+    <text x="22" y="107">位置指定道路の廃止は特定行政庁が禁止・制限できる（許可制ではない）／ 条例で区域を限って別基準も可</text>
+  </g>
+  <rect x="15" y="128" width="470" height="56" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="128" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="9.4" fill="#334155">
+    <text x="22" y="140" font-weight="700" fill="#991b1b">接道の例外</text>
+    <text x="22" y="156">認定（法43条2項1号）：幅員4m以上の農道等に2m以上接する 200m²以内の一戸建て住宅 等</text>
+    <text x="22" y="171">許可（2項2号）：河川・港湾管理者の道や農道に接し、交通上・安全上・防火上・衛生上支障がない場合</text>
+  </g>
+  <rect x="15" y="192" width="470" height="86" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="192" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="9.0" fill="#334155">
+    <text x="22" y="204" font-weight="700" fill="#92400e">道路内の建築物・壁面線</text>
+    <text x="22" y="220">許可不要：道路の地盤面下の附属地下通路（44条1項1号）</text>
+    <text x="22" y="235">許可必要：高架道路の路面下の建築物（3号）／ 学校の渡り廊下・自動車専用道路の休憩所（4号）</text>
+    <text x="22" y="250">渡り廊下の側面：床面から1.5m以上の壁＋開口部ははめごろし ／ 道路内建築物に道路高さ制限は適用なし</text>
+    <text x="22" y="265">壁面線を越えられないのは壁・柱・高さ2m超の門塀（ひさしは対象外）／ 計画道路は認定で前面道路とみなす</text>
+  </g>
+  <text x="15" y="292" font-size="10" fill="#b91c1c" font-weight="700">ひっかけ：地下通路は許可不要／3年以内は×（2年）／ひさしは壁面線OK／廃止は許可制ではない</text>
+</svg>

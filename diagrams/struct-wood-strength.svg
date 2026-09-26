@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="30" text-anchor="middle" font-size="20" font-weight="700" fill="#1e293b">木材の繊維方向の強度</text>
+
+  <!-- 引張（上段） -->
+  <g>
+    <rect x="150" y="60" width="200" height="40" rx="4" fill="#fcd9a8" stroke="#d97706" stroke-width="1.5"/>
+    <!-- 木目 -->
+    <g stroke="#b45309" stroke-width="1.5">
+      <line x1="155" y1="72" x2="345" y2="72"/>
+      <line x1="155" y1="80" x2="345" y2="80"/>
+      <line x1="155" y1="88" x2="345" y2="88"/>
+    </g>
+    <!-- 引張矢印（外向き） -->
+    <g stroke="#16a34a" stroke-width="3" fill="#16a34a">
+      <line x1="145" y1="80" x2="100" y2="80"/>
+      <polygon points="100,80 112,74 112,86"/>
+      <line x1="355" y1="80" x2="400" y2="80"/>
+      <polygon points="400,80 388,74 388,86"/>
+    </g>
+    <text x="250" y="125" text-anchor="middle" font-size="14" fill="#16a34a" font-weight="700">引張：最も強い（大）</text>
+  </g>
+
+  <!-- 圧縮（下段） -->
+  <g>
+    <rect x="170" y="165" width="160" height="40" rx="4" fill="#fcd9a8" stroke="#d97706" stroke-width="1.5"/>
+    <g stroke="#b45309" stroke-width="1.5">
+      <line x1="175" y1="177" x2="325" y2="177"/>
+      <line x1="175" y1="185" x2="325" y2="185"/>
+      <line x1="175" y1="193" x2="325" y2="193"/>
+    </g>
+    <!-- 圧縮矢印（内向き） -->
+    <g stroke="#ef4444" stroke-width="3" fill="#ef4444">
+      <line x1="120" y1="185" x2="165" y2="185"/>
+      <polygon points="165,185 153,179 153,191"/>
+      <line x1="380" y1="185" x2="335" y2="185"/>
+      <polygon points="335,185 347,179 347,191"/>
+    </g>
+    <text x="250" y="230" text-anchor="middle" font-size="14" fill="#dc2626" font-weight="700">圧縮：引張より弱い（小）</text>
+  </g>
+
+  <text x="250" y="272" text-anchor="middle" font-size="15" fill="#334155" font-weight="700">繊維方向：引張強度 ＞ 圧縮強度</text>
+</svg>

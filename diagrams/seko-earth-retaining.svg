@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">山留め支保工の名称と管理</text>
+  <!-- 地盤断面 -->
+  <rect x="30" y="60" width="260" height="200" fill="#f5f0e6"/>
+  <rect x="90" y="60" width="140" height="150" fill="#fff"/>
+  <!-- 山留め壁 -->
+  <rect x="84" y="60" width="6" height="190" fill="#475569"/>
+  <rect x="230" y="60" width="6" height="190" fill="#475569"/>
+  <text x="60" y="180" font-size="10" fill="#1e293b" transform="rotate(-90 60 180)">山留め壁</text>
+  <!-- 腹起し・切ばり -->
+  <rect x="90" y="90" width="140" height="6" fill="#0ea5e9"/>
+  <rect x="90" y="150" width="140" height="6" fill="#0ea5e9"/>
+  <rect x="90" y="86" width="8" height="14" fill="#f59e0b"/><rect x="222" y="86" width="8" height="14" fill="#f59e0b"/>
+  <rect x="90" y="146" width="8" height="14" fill="#f59e0b"/><rect x="222" y="146" width="8" height="14" fill="#f59e0b"/>
+  <text x="160" y="84" text-anchor="middle" font-size="10" fill="#0369a1" font-weight="700">切ばり</text>
+  <text x="160" y="115" text-anchor="middle" font-size="10" fill="#b45309" font-weight="700">← 腹起し →</text>
+  <!-- 切ばり支柱 -->
+  <rect x="157" y="60" width="6" height="150" fill="#94a3b8"/>
+  <text x="172" y="200" font-size="10" fill="#475569">切ばり支柱</text>
+  <!-- 根入れ -->
+  <line x1="245" y1="210" x2="245" y2="250" stroke="#dc2626" stroke-width="1.5"/>
+  <text x="250" y="235" font-size="10" fill="#dc2626">根入れ</text>
+  <text x="160" y="240" text-anchor="middle" font-size="11" fill="#5b4636">掘削底面</text>
+  <g font-size="11" fill="#334155">
+    <text x="300" y="70" font-weight="700" fill="#1e293b">計測・管理</text>
+    <text x="300" y="88">・盤圧計は切ばり端部（腹起し近く）</text>
+    <text x="300" y="104" textLength="195" lengthAdjust="spacingAndGlyphs">・切ばり交差部・支柱と緊結し蛇行防止</text>
+    <text x="300" y="120">・撤去はジャッキを緩めてから</text>
+    <text x="300" y="146" font-weight="700" fill="#1e293b">底面の破壊と対策</text>
+    <text x="300" y="164" textLength="195" lengthAdjust="spacingAndGlyphs">ヒービング（粘性土）→ 剛な壁を良質層へ根入れ</text>
+    <text x="300" y="180" textLength="195" lengthAdjust="spacingAndGlyphs">ボイリング（砂質土）→ 根入れ延長・地下水位低下</text>
+    <text x="300" y="196" textLength="195" lengthAdjust="spacingAndGlyphs">盤ぶくれ（被圧水）→ ディープウェルで減圧</text>
+    <text x="300" y="222" font-weight="700" fill="#1e293b">壁の種類</text>
+    <text x="300" y="240" textLength="195" lengthAdjust="spacingAndGlyphs">親杭横矢板：遮水性なし（排水工法併用）</text>
+    <text x="300" y="256" textLength="195" lengthAdjust="spacingAndGlyphs">鋼矢板・ソイルセメント壁：遮水性あり</text>
+    <text x="300" y="272">地盤アンカー：偏土圧・不整形に有効</text>
+  </g>
+</svg>

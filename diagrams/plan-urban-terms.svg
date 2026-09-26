@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">都市計画・まちづくりの用語と数値</text>
+  <rect x="15" y="34" width="470" height="70" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="9.0" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">都市公園の標準（面積・誘致距離）</text>
+    <text x="22" y="62">街区公園 0.25ha・誘致距離250m（1街区に1か所）／ 近隣公園 2ha・500m ／ 地区公園 4ha・1km</text>
+    <text x="22" y="77">総合公園 10〜50ha（都市住民全般の総合的利用）／ 広域公園 1市町村を超える広域（50ha以上）</text>
+    <text x="22" y="92">防災公園：広域避難地・一次避難地・避難路・帰宅困難者支援など地域防災計画に位置付け</text>
+  </g>
+  <rect x="15" y="112" width="470" height="100" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="112" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="8.7" fill="#334155">
+    <text x="22" y="124" font-weight="700" fill="#991b1b">制度・組織</text>
+    <text x="22" y="140">区域区分（線引き）：市街化区域（既成市街地＋10年以内に市街化）／市街化調整区域（市街化を抑制）</text>
+    <text x="22" y="155">生産緑地地区：市街化区域内の農地等で公害・災害防止や公共施設の敷地に適するもの</text>
+    <text x="22" y="170">景観計画（景観法）：区域・行為の制限・景観重要建造物等 ／ まちづくり三法：改正都計法・中活法・大店立地法</text>
+    <text x="22" y="185">BID：負担金で地区の維持管理 ／ TMO：中心市街地活性化を推進する組織 ／ 指定管理者制度：公の施設を民間運営</text>
+    <text x="22" y="200">サウンディング型市場調査：事業「検討段階」で民間と対話 ／ 街なみ環境整備事業：住民と自治体で景観整備</text>
+  </g>
+  <rect x="15" y="220" width="470" height="74" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="220" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="8.5" fill="#334155">
+    <text x="22" y="232" font-weight="700" fill="#92400e">防犯・交通・都市史</text>
+    <text x="22" y="248">CPTED：監視性確保・領域性強化・接近制御・被害対象の強化 ／ 割れ窓理論：小さな無秩序の放置が犯罪を招く</text>
+    <text x="22" y="262">ジェイコブズ「街路の目」／ ゲーテッド・コミュニティ：塀とゲートで囲う住宅地 ／ ブラウンフィールド</text>
+    <text x="22" y="276">BRT（連節バス・専用道）／ LRT（低床の次世代路面電車）／ ITS（情報通信で交通最適化）／ GIS（位置情報）</text>
+    <text x="22" y="290">平安京：朱雀大路と条坊制 ／ 江戸：尾根に武家地・谷に町人地 ／ オスマンのパリ改造 ／ 官庁集中計画（1886）</text>
+  </g>
+</svg>

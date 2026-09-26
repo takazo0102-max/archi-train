@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">コンクリート・木材の性質（材料）</text>
+  <rect x="15" y="34" width="470" height="124" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">コンクリート</text>
+    <text x="22" y="62">水セメント比 小 → 圧縮・引張強度 大・中性化 遅い・乾燥収縮 小</text>
+    <text x="22" y="78">単位水量 大 → スランプ 大・乾燥収縮ひび割れ 多</text>
+    <text x="22" y="94">単位セメント量 大 → 水和熱・乾燥収縮 大（温度ひび割れ）</text>
+    <text x="22" y="110">圧縮強度 大 → 引張・曲げ強度 大（引張≒圧縮の1/10）・圧縮強度時ひずみ 大</text>
+    <text x="22" y="126">支圧強度 ＞ 圧縮強度 ／ セメント粒子 細 → 初期強度発現 早</text>
+    <text x="22" y="142">AE剤 → 独立気泡で凍結融解抵抗 大 ／ 軽量1種の許容せん断 ＝ 普通×0.9</text>
+  </g>
+  <rect x="15" y="166" width="470" height="124" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="166" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="178" font-weight="700" fill="#991b1b">木材</text>
+    <text x="22" y="194">含水率＝水の質量／全乾質量 ／ 繊維飽和点（約30%）以下で乾燥 → 強度・弾性係数 大</text>
+    <text x="22" y="210">乾燥収縮：接線方向 ＞ 半径方向 ＞ 繊維方向（約 10：5：1）</text>
+    <text x="22" y="226">密度 大 → 強度 高 ／ クリープ：湿潤 ＞ 気乾 ／ 熱伝導率 ＜ コンクリート</text>
+    <text x="22" y="242">腐朽：酸素・温度・水分・栄養源の1つを欠けば防止・含水率25〜35%超で腐朽しやすい</text>
+    <text x="22" y="258">製材の含水率 25%以下 ／ 心材 ＞ 辺材（耐朽性）・ひば・ひのきは耐朽性 高</text>
+    <text x="22" y="274">並列材（根太等）に合板を張る → 曲げ基準強度を割増し（分散効果）</text>
+  </g>
+</svg>

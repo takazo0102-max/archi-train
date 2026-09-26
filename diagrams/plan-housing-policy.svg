@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">住宅の制度・基準の要点</text>
+  <rect x="15" y="34" width="470" height="86" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">住生活・住宅政策</text>
+    <text x="22" y="62">最低居住面積水準：単身 25m²／2人以上 10m²×人数＋10m²（誘導居住 都市型 20m²×人数＋15m²）</text>
+    <text x="22" y="77">空き家：約900万戸・空き家率 13.8%（令和5年住宅・土地統計調査）</text>
+    <text x="22" y="92" textLength="458" lengthAdjust="spacingAndGlyphs">シルバーハウジング：LSA（生活援助員）付き公的賃貸 ／ 子育て支援型：転落防止・補助錠・交流施設</text>
+    <text x="22" y="107">建設型応急住宅：要配慮者が複数 → 福祉仮設住宅 ／ 気候風土適応住宅：外皮基準の適合が困難</text>
+  </g>
+  <rect x="15" y="128" width="470" height="86" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="128" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="10" fill="#334155">
+    <text x="22" y="140" font-weight="700" fill="#991b1b">長期優良住宅・品確法</text>
+    <text x="22" y="156" textLength="458" lengthAdjust="spacingAndGlyphs">長期優良住宅：維持保全計画（構造・雨水浸入防止・給排水）が必要 ／ 既存住宅も認定可（R4.10）</text>
+    <text x="22" y="171">維持管理の容易性：床下点検口＋床下有効高さ 330mm以上 ／ さや管ヘッダー：集中点検・更新</text>
+    <text x="22" y="186">性能表示「防犯」：CP表示の防犯建物部品 ／ 「高齢者等配慮」：特定寝室と同一階に便所</text>
+    <text x="22" y="201">法定耐用年数は税務上の減価償却期間（使用できる期間ではない）</text>
+  </g>
+  <rect x="15" y="222" width="470" height="56" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="222" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10" fill="#334155">
+    <text x="22" y="234" font-weight="700" fill="#92400e">木造住宅・断熱</text>
+    <text x="22" y="250">基礎断熱：床下は室内扱い → ねこ土台・換気口は設けない ／ 心持ち材は乾燥遅く干割れ（背割り）</text>
+    <text x="22" y="265" textLength="458" lengthAdjust="spacingAndGlyphs">一般流通材（120mm角柱・幅120mm梁）は入手性・コストで有利 ／ 特定建設資材：コンクリート・木材・As</text>
+  </g>
+</svg>

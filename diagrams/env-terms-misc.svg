@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">環境工学の用語（風・放射・視覚・聴覚）</text>
+  <rect x="15" y="34" width="470" height="70" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="8.7" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">風・放射・気候</text>
+    <text x="22" y="62">剥離流：壁面に沿う風が隅角部で離れる → 見付面積が大きいほど剥離領域が大きくビル風が強い</text>
+    <text x="22" y="77">長波長放射率：物体の放射／同温度の黒体の放射（建材は0.9前後・金属は低い）</text>
+    <text x="22" y="92">実効放射（夜間放射）：地表の長波長放射収支で「昼夜を問わず」生じる ／ クリモグラフ：気候2要素の図</text>
+  </g>
+  <rect x="15" y="112" width="470" height="70" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="112" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="8.7" fill="#334155">
+    <text x="22" y="124" font-weight="700" fill="#991b1b">視覚・聴覚</text>
+    <text x="22" y="140">プルキンエ現象：暗所視では視感度のピークが短波長へ → 青が明るく・赤が暗く見える</text>
+    <text x="22" y="155">カクテルパーティ効果：騒がしくても聴きたい音を選択的に聴く ／ フラッターエコー：平行面間の周期的反射</text>
+    <text x="22" y="170">ブーミング：低音域の特定周波数が強調される現象 ／ 音響インテンシティレベル：単位面積を通過する音のパワー</text>
+  </g>
+  <text x="15" y="210" font-size="10" fill="#b91c1c" font-weight="700">ひっかけ：プルキンエは「青が明るく」／実効放射は夜間限定ではない／作用温度と自然室温の取り違え</text>
+</svg>

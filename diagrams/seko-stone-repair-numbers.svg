@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">石工事・建具改修・外壁補修の数値</text>
+  <rect x="15" y="36" width="470" height="88" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="36" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="48" font-weight="700" fill="#1e3a8a">石工事</text>
+    <text x="22" y="64">床石張りの敷きモルタル：容積比 セメント1：砂4 の硬練り（握って崩れない程度）</text>
+    <text x="22" y="80">外壁乾式工法：下地コンクリートの位置許容差 ±10mm（ファスナーで面外調整）</text>
+    <text x="22" y="96">高強度コンクリートの目荒し：超高圧水洗浄 150〜200N/mm²</text>
+    <text x="22" y="112">床下地の不陸補修：モルタルで補修し 14日間 放置</text>
+  </g>
+  <rect x="15" y="130" width="470" height="72" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="130" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="142" font-weight="700" fill="#92400e">建具改修（かぶせ工法）</text>
+    <text x="22" y="158">既存の方立・無目・障子を撤去し 外周枠を残して 新規建具を取付け</text>
+    <text x="22" y="174">小ねじ留め：端部 100mm、中間 400mm以下（×500mm）</text>
+    <text x="22" y="190">アルミ建具の充填モルタルに塩化カルシウム系凍結防止剤は 不可（腐食）</text>
+  </g>
+  <rect x="15" y="208" width="470" height="72" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="208" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="220" font-weight="700" fill="#991b1b">外壁欠損部の補修</text>
+    <text x="22" y="236">浅い欠損（鉄筋露出なし）→ ポリマーセメントモルタル充填</text>
+    <text x="22" y="252">深い欠損 → エポキシ樹脂モルタル充填（鉄筋露出は防錆処理）</text>
+    <text x="22" y="268">厚付け仕上塗材：目違いをサンダー掛け程度、下地調整塗材は省略可</text>
+  </g>
+  <text x="250" y="292" text-anchor="middle" font-size="9.5" fill="#64748b">1:4硬練り・±10mm・150〜200N/mm²・14日・100/400mm</text>
+</svg>

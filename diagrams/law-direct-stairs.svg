@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">直通階段までの歩行距離（令120条）</text>
+  <!-- 平面 -->
+  <rect x="20" y="50" width="280" height="160" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="20" y="50" width="50" height="50" fill="#fecaca" stroke="#ef4444" stroke-width="2"/>
+  <text x="45" y="80" text-anchor="middle" font-size="11" font-weight="700" fill="#b91c1c">階段</text>
+  <rect x="200" y="120" width="90" height="80" fill="#dbeafe" stroke="#3b82f6"/>
+  <text x="245" y="165" text-anchor="middle" font-size="11" fill="#1e3a8a" textLength="84" lengthAdjust="spacingAndGlyphs">居室の最も遠い点</text>
+  <path d="M285 195 L285 110 L110 110 L110 75 L70 75" fill="none" stroke="#f59e0b" stroke-width="3" stroke-dasharray="7 4"/>
+  <text x="180" y="102" text-anchor="middle" font-size="11" font-weight="700" fill="#b45309">歩行距離（廊下を通る実距離）</text>
+  <!-- 表 -->
+  <g font-size="10" fill="#334155">
+    <rect x="315" y="50" width="170" height="160" fill="#fff" stroke="#94a3b8"/>
+    <text x="400" y="68" text-anchor="middle" font-weight="700" fill="#1e293b">主要構造部が準耐火・不燃</text>
+    <text x="325" y="90">病院・ホテル・共同住宅</text><text x="475" y="90" text-anchor="end" font-weight="700">50m</text>
+    <text x="325" y="110">劇場・物販・無窓居室</text><text x="475" y="110" text-anchor="end" font-weight="700">30m</text>
+    <text x="325" y="130">その他（事務所等）</text><text x="475" y="130" text-anchor="end" font-weight="700">50m</text>
+    <text x="400" y="152" text-anchor="middle" font-weight="700" fill="#1e293b">その他の構造（木造等）</text>
+    <text x="325" y="172">病院・ホテル等</text><text x="475" y="172" text-anchor="end" font-weight="700">30m</text>
+    <text x="325" y="192">その他</text><text x="475" y="192" text-anchor="end" font-weight="700">40m</text>
+  </g>
+  <text x="250" y="236" text-anchor="middle" font-size="11" fill="#334155">15階以上の階：10m減（劇場等・無窓は不可）／内装を準不燃にすると10m加算（15階以上除く）</text>
+  <text x="250" y="256" text-anchor="middle" font-size="11" fill="#334155">2以上の直通階段が必要な場合（令121条）：重複区間は歩行距離の1/2以下</text>
+  <text x="250" y="284" text-anchor="middle" font-size="11" fill="#64748b">避難階では屋外への出口までの歩行距離も同じ数値（令125条）</text>
+</svg>

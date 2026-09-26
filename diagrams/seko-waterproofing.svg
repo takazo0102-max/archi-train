@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">防水工法の比較とシーリング</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="40" width="460" height="130" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="58" font-weight="700" fill="#1e293b">工法</text><text x="170" y="58" font-weight="700" fill="#1e293b">ポイント</text>
+    <line x1="20" y1="64" x2="480" y2="64" stroke="#94a3b8"/>
+    <text x="30" y="82" font-weight="700">アスファルト防水</text><text x="170" y="82">溶融アスファルトで積層。密着／絶縁（脱気筒）</text>
+    <text x="30" y="100" font-weight="700">改質アスファルトシート</text><text x="170" y="100">トーチ工法（あぶり）／常温粘着。重ね幅 100mm以上</text>
+    <text x="30" y="118" font-weight="700">合成高分子シート</text><text x="170" y="118">加硫ゴム・塩ビ。接着／機械固定。重ね 塩ビ40・ゴム100</text>
+    <text x="30" y="136" font-weight="700">塗膜防水（ウレタン）</text><text x="170" y="136">継目なし・複雑形状◎。補強布併用、総厚 2〜3mm</text>
+    <text x="30" y="154" font-weight="700">ステンレスシート</text><text x="170" y="154">溶接接合・長寿命・勾配屋根向き</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="178" width="460" height="92" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="196" font-weight="700" fill="#1e293b">共通の数字・注意</text>
+    <text x="30" y="214">● 立上り <tspan font-weight="700">300mm以上</tspan>。入隅は面取り（アスファルト）／R面（塗膜・シート）</text>
+    <text x="30" y="232">● 下地の乾燥：含水率 8%以下。プライマーは当日施工分だけ塗る</text>
+    <text x="30" y="250">● 保護コンクリートの伸縮目地：3m程度ごと・立上り際。断熱材は防水層の上</text>
+    <text x="30" y="266" font-size="10" fill="#64748b">● 塩ビシートは可塑剤の移行に注意。ゴムシートの重ね部は接着剤＋テープ</text>
+  </g>
+  <text x="250" y="288" text-anchor="middle" font-size="10" fill="#64748b">シーリング：2面接着（ワーキング・ボンドブレーカー）／3面接着（ノンワーキング）。幅10〜20mm</text>
+</svg>

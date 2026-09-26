@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">消防用設備の設置基準（消防法施行令）よく出る数値</text>
+  <rect x="15" y="34" width="470" height="212" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="17" fill="#dbeafe"/>
+  <g font-size="8.8" fill="#334155">
+    <text x="20" y="46" font-weight="700" fill="#1e293b">設備</text>
+    <text x="140" y="46" font-weight="700" fill="#1e293b">設置が必要となる条件（例）</text>
+    <text x="20" y="62" font-weight="700">消火器（令10条）</text>
+    <text x="140" y="62">図書館・事務所等 300m²以上 ／ 飲食店・キャバレー等 150m²以上</text>
+    <text x="140" y="75">劇場・病院・地階・無窓階等は面積によらず</text>
+    <rect x="15" y="84" width="470" height="32" fill="#f8fafc"/>
+    <text x="20" y="94" font-weight="700">屋内消火栓（令11条）</text>
+    <text x="140" y="94">飲食店・倉庫等 700m²以上（階ごとに水平距離25m以下）</text>
+    <text x="140" y="107">屋外消火栓で代替できるのは1階・2階のみ</text>
+    <text x="20" y="126" font-weight="700">スプリンクラー（令12条）</text>
+    <text x="140" y="126">11階以上の階 ／ 百貨店等 3,000m²以上</text>
+    <text x="140" y="139">特養等（6項ロ）は延焼抑制構造でなければ面積によらず</text>
+    <rect x="15" y="148" width="470" height="32" fill="#f8fafc"/>
+    <text x="20" y="158" font-weight="700">自動火災報知（令21条）</text>
+    <text x="140" y="158">キャバレー等 300m²・図書館 500m²・事務所 1,000m²</text>
+    <text x="140" y="171">3階以上の階で床面積300m²以上</text>
+    <text x="20" y="190" font-weight="700">避難器具（令25条）</text>
+    <text x="140" y="190">2階以上の階で収容人員 病院・診療所20人／工場150人 等</text>
+    <text x="140" y="203">（避難階に直通する階段が2以上なら人数は倍）</text>
+    <rect x="15" y="212" width="470" height="19" fill="#f8fafc"/>
+    <text x="20" y="222" font-weight="700">連結送水管（令29条）</text>
+    <text x="140" y="222">7階以上 ／ 5階以上かつ延べ6,000m²以上</text>
+    <text x="20" y="241" font-weight="700">ガス漏れ警報（令21の2）</text>
+    <text x="140" y="241">地下街1,000m²以上 ／ 複合用途の地階は合計1,000m²以上かつ特定用途500m²</text>
+  </g>
+  <text x="15" y="262" font-size="9.5" fill="#334155">特定防火対象物：劇場・キャバレー・飲食店・百貨店・ホテル・病院・福祉施設・幼稚園・地下街・複合用途</text>
+  <text x="15" y="276" font-size="9.5" fill="#334155">非特定：事務所・共同住宅・学校・図書館・博物館・工場・倉庫・神社寺院 など</text>
+  <text x="15" y="292" font-size="10" fill="#b91c1c" font-weight="700">ひっかけ：屋外消火栓の代替は3階以下×（1・2階）／飲食店150m²は消火器が必要／博物館は非特定</text>
+</svg>

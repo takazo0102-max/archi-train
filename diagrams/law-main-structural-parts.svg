@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="28" text-anchor="middle" font-size="20" font-weight="700" fill="#1e293b">主要構造部</text>
+
+  <!-- 建物断面 -->
+  <!-- 屋根 -->
+  <polygon points="120,90 250,55 380,90" fill="#bfdbfe" stroke="#2563eb" stroke-width="2"/>
+  <!-- 外壁 -->
+  <rect x="120" y="90" width="260" height="150" fill="#fff" stroke="#2563eb" stroke-width="2"/>
+  <!-- 2階床＋はり -->
+  <rect x="120" y="160" width="260" height="10" fill="#60a5fa"/>
+  <!-- 柱 -->
+  <rect x="240" y="90" width="10" height="150" fill="#60a5fa"/>
+  <!-- 階段 -->
+  <g fill="#60a5fa">
+    <rect x="300" y="218" width="20" height="6"/>
+    <rect x="320" y="206" width="20" height="6"/>
+    <rect x="340" y="194" width="20" height="6"/>
+  </g>
+  <!-- 最下階の床（含まれない） -->
+  <rect x="120" y="240" width="260" height="8" fill="#fca5a5"/>
+
+  <!-- ラベル -->
+  <g font-size="12" fill="#1e40af" font-weight="700">
+    <text x="250" y="80" text-anchor="middle">屋根</text>
+    <text x="135" y="120">壁</text>
+    <text x="255" y="135">柱</text>
+    <text x="135" y="156">床・はり</text>
+    <text x="345" y="190">階段</text>
+  </g>
+
+  <!-- 凡例 -->
+  <rect x="40" y="262" width="14" height="14" fill="#60a5fa"/>
+  <text x="60" y="274" font-size="13" fill="#1e40af" font-weight="700">主要構造部（壁・柱・床・はり・屋根・階段）</text>
+  <rect x="40" y="282" width="14" height="14" fill="#fca5a5"/>
+  <text x="60" y="294" font-size="13" fill="#b91c1c" font-weight="700">含まれない例：最下階の床・屋外階段 など</text>
+</svg>

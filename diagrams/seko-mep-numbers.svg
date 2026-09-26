@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">設備工事の数値（配管・電気）</text>
+  <rect x="15" y="34" width="470" height="150" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">給排水・配管</text>
+    <text x="22" y="62">横走り排水管の最小勾配：65以下 1/50・75〜100 1/100・125 1/150・150以上 1/200</text>
+    <text x="22" y="78">鋼管・ステンレス管の横走り支持間隔：呼び径80以下 2.0m・100以上 3.0m</text>
+    <text x="22" y="94">耐火二層管（呼び径150）の吊り間隔 1.5m以下 ／ たてどい受け金物 1.2m以下</text>
+    <text x="22" y="110">スリーブ径＝保温材を含む管外径＋40mm程度 ／ 水圧試験の保持時間 60分</text>
+    <text x="22" y="126">給水管と排水管の平行埋設：給水管を上・水平実間隔 500mm以上</text>
+    <text x="22" y="142">埋設深さ：車両道路 600mm以上・その他 300mm以上（寒冷地は凍結深度以深）</text>
+    <text x="22" y="158">埋設表示テープ：土被り150mm程度 ／ 間接排水の排水口空間（管径65以上）150mm</text>
+    <text x="22" y="174">立て管は最下階で固定・各階は伸縮を妨げない振れ止め ／ 蒸気管 先下り1/250・先上り1/80</text>
+  </g>
+  <rect x="15" y="192" width="470" height="96" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="192" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="204" font-weight="700" fill="#92400e">電気・雷保護</text>
+    <text x="22" y="220">ケーブルラック水平支持間隔：鋼製 2m以内（アルミ 1.5m）・接続部近くで支持</text>
+    <text x="22" y="236">耐震クラスSの最上階ケーブルラック：SA種支持を 6m以内</text>
+    <text x="22" y="252">躯体埋設の合成樹脂可とう電線管は PF管（CD管は不可） ／ 高圧・低圧は隔壁で分離</text>
+    <text x="22" y="268">雷保護：接地極は地下0.5m以深・ガス管から1.5m以上離す</text>
+  </g>
+</svg>

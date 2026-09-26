@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">工事請負契約と工事監理</text>
+  <g font-size="10" fill="#334155" text-anchor="middle">
+    <rect x="30" y="45" width="110" height="46" rx="8" fill="#fff" stroke="#0ea5e9" stroke-width="2"/><text x="85" y="64" font-weight="700">発注者（建築主）</text><text x="85" y="80">請負契約の当事者</text>
+    <rect x="195" y="45" width="110" height="46" rx="8" fill="#fff" stroke="#f59e0b" stroke-width="2"/><text x="250" y="64" font-weight="700">監理者</text><text x="250" y="80">設計図書との照合</text>
+    <rect x="360" y="45" width="110" height="46" rx="8" fill="#fff" stroke="#0ea5e9" stroke-width="2"/><text x="415" y="64" font-weight="700">受注者（施工者）</text><text x="415" y="80">現場代理人を置く</text>
+    <g stroke="#64748b" stroke-width="2"><line x1="140" y1="68" x2="195" y2="68"/><line x1="305" y1="68" x2="360" y2="68"/></g>
+    <text x="167" y="62" font-size="8">委託</text><text x="332" y="62" font-size="8">指示・承諾</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="102" width="460" height="130" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="120" font-weight="700" fill="#1e293b">民間（七会）連合協定 工事請負契約約款のポイント</text>
+    <text x="30" y="138">● 設計図書の優先：質問回答書 ＞ 現場説明書 ＞ 特記仕様書 ＞ 図面 ＞ 標準仕様書</text>
+    <text x="30" y="156">● 現場代理人：受注者の権限を代行（代金の変更・受領は除く）。監理者は施工指示権なし</text>
+    <text x="30" y="174">● 一括下請負は原則禁止（発注者の書面承諾で可、公共・共同住宅は不可）</text>
+    <text x="30" y="192">● 完成通知 → 監理者立会いの検査 → 引渡し。契約不適合責任（旧・瑕疵担保）</text>
+    <text x="30" y="210">● 損害：第三者への損害は原則受注者、不可抗力（天災）は発注者負担が原則</text>
+    <text x="30" y="226" font-size="10" fill="#64748b">● 発注者はいつでも解除できる（損害賠償）。受注者は正当な理由がある場合のみ</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="240" width="460" height="52" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="258" font-weight="700" fill="#1e293b">建設業法の技術者</text>
+    <text x="30" y="276">● 主任技術者（全工事）／監理技術者（下請合計 <tspan font-weight="700">5,000万円</tspan>、建築一式 8,000万円以上）</text>
+    <text x="30" y="290" font-size="10" fill="#64748b">● 専任：請負 4,000万円以上（建築一式 8,000万円以上）の公共性ある工事</text>
+  </g>
+</svg>

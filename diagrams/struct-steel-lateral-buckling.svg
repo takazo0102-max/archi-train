@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">鉄骨構造：横座屈・横補剛・溶接の要点</text>
+  <rect x="15" y="34" width="470" height="86" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="8.6" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">横座屈と横補剛</text>
+    <text x="22" y="62">横座屈：H形鋼など開断面が曲げを受けると圧縮フランジが横に逃げ、ねじれて面外に座屈（→局部座屈も誘発）</text>
+    <text x="22" y="77">閉断面（角形・円形鋼管）や弱軸まわりの曲げでは横座屈しない → fb＝ft（幅厚比を満たせば）</text>
+    <text x="22" y="92">横補剛材：圧縮フランジの横変位を拘束。強度だけでなく「剛性」が必要 ／ フランジ幅が大きいほど箇所数は少ない</text>
+    <text x="22" y="107">保有耐力横補剛：均等間隔法（全長を等間隔）／ 端部集中法（塑性ヒンジができる梁端部を重点的に）</text>
+  </g>
+  <rect x="15" y="128" width="470" height="100" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="128" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="8.4" fill="#334155">
+    <text x="22" y="140" font-weight="700" fill="#991b1b">溶接・接合・部材</text>
+    <text x="22" y="156">のど断面の許容せん断応力度：完全溶込み・部分溶込み・すみ肉とも同じ（F/1.5√3）</text>
+    <text x="22" y="171">突合せ溶接は適切な溶接材料なら母材と同じ許容応力度 ／ 部分溶込みはルート部に曲げ引張が生じる箇所に不可</text>
+    <text x="22" y="186">梁フランジは通しダイアフラムの板厚内で突合せ溶接 ／ プレス成形角形鋼管の角部：強度↑・変形性能↓</text>
+    <text x="22" y="201">座屈拘束ブレース：拘束材は芯材の座屈を止める剛性・曲げ耐力（軸力は負担しない）</text>
+    <text x="22" y="216">柱梁接合部パネルが早期降伏しても骨組の剛性は直ちに低下しない ／ 水平ブレース＋小梁トラス → 小梁は軸力も検討</text>
+  </g>
+  <text x="15" y="250" font-size="10" fill="#b91c1c" font-weight="700">ひっかけ：角部の変形性能は「低下」／フランジ幅大で補剛は「少なく」／のど断面は形式によらず同じ</text>
+</svg>

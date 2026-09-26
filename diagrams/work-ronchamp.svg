@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eef2f7"/>
+  <rect x="0" y="255" width="500" height="45" fill="#dCE8d2"/>
+  <line x1="0" y1="255" x2="500" y2="255" stroke="#b7cfa9" stroke-width="2"/>
+
+  <!-- 丸みのある塔（採光塔） -->
+  <path d="M120,255 L120,150 Q120,120 150,120 Q180,120 180,150 L180,255 Z" fill="#f1ede6" stroke="#b8b0a3" stroke-width="2"/>
+
+  <!-- 厚い白い壁（傾いた塊） -->
+  <path d="M150,255 L150,165 L390,140 L405,255 Z" fill="#f6f3ee" stroke="#c8c0b2" stroke-width="2"/>
+  <!-- 不規則に穿たれた小窓 -->
+  <g fill="#9bb4d6" stroke="#6f8fbd" stroke-width="1">
+    <rect x="200" y="180" width="10" height="14"/>
+    <rect x="230" y="200" width="7" height="9"/>
+    <rect x="270" y="178" width="13" height="18"/>
+    <rect x="320" y="205" width="8" height="8"/>
+    <rect x="350" y="185" width="9" height="12"/>
+  </g>
+
+  <!-- うねる重い屋根（コンクリートの帆／ニウムバ） -->
+  <path d="M120,150 Q140,118 230,112 Q360,104 420,150 Q380,128 230,138 Q150,144 130,162 Z" fill="#5b6470" stroke="#3f4753" stroke-width="2"/>
+  <path d="M120,150 Q140,118 230,112 Q360,104 420,150 L420,158 Q360,114 230,122 Q140,128 120,160 Z" fill="#454d58"/>
+
+  <text x="250" y="284" text-anchor="middle" font-size="14" fill="#334155" font-weight="700">ロンシャンの礼拝堂 ― うねる重い屋根と彫塑的な曲面（ル・コルビュジエ）</text>
+  <text x="250" y="26" text-anchor="middle" font-size="13" fill="#94a3b8">※ イメージイラスト</text>
+</svg>

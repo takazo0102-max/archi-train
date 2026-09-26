@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">建築協定と雑則・その他の規定</text>
+  <rect x="15" y="34" width="470" height="70" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="9.0" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">建築協定（法69〜77条）</text>
+    <text x="22" y="62">認可には土地所有者等の全員合意 ／ 借地権の目的の土地は借地権者の合意（所有者は不要）</text>
+    <text x="22" y="77">一人協定：3年以内に2以上の所有者等が存しなければ効力なし ／ 門・塀の意匠基準も定められる</text>
+    <text x="22" y="92">効力が及ばない所有者は公告後いつでも書面で加入可 ／ 隣接地からの加入は全員合意</text>
+  </g>
+  <rect x="15" y="112" width="470" height="100" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="112" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="8.8" fill="#334155">
+    <text x="22" y="124" font-weight="700" fill="#991b1b">雑則・適用関係</text>
+    <text x="22" y="140">法22条区域の内外にわたる建築物 → 全部に区域内の規定（屋根不燃等）を適用（法24条）</text>
+    <text x="22" y="155">田園住居地域等の高さ限度10m → 認定で12m ／ 一団地認定：特例対象規定で同一敷地とみなす</text>
+    <text x="22" y="170">指定確認検査機関の処分への審査請求は建築審査会へ ／ 許可には条件を付すことができる</text>
+    <text x="22" y="185">建築監視員は緊急時に手続きによらず施工停止を命じられる ／ 重要文化財の原形再現は審査会同意で適用除外</text>
+    <text x="22" y="200">危険性が増大しない修繕（柱の過半等）は現行規定不適用 ／ 地方公共団体は条例で制限の付加ができる</text>
+  </g>
+  <rect x="15" y="220" width="470" height="40" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="220" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="9.0" fill="#334155">
+    <text x="22" y="232" font-weight="700" fill="#92400e">よく出る単体規定</text>
+    <text x="22" y="248">病院の両側居室の廊下 1.6m以上（片側 1.2m）／ 木造最下階の柱下部には土台（足固め使用の平家は不要）</text>
+  </g>
+  <text x="15" y="285" font-size="10" fill="#b91c1c" font-weight="700">ひっかけ：隣接地からの加入は「全員」／借地は借地権者のみ／審査請求は建築審査会</text>
+</svg>

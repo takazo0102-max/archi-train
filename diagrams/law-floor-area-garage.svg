@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="30" text-anchor="middle" font-size="20" font-weight="700" fill="#1e293b">延べ面積と自動車車庫</text>
+
+  <!-- 建物の階層 -->
+  <g stroke="#94a3b8" stroke-width="2">
+    <rect x="150" y="60" width="200" height="48" fill="#e2e8f0"/>
+    <rect x="150" y="108" width="200" height="48" fill="#e2e8f0"/>
+    <!-- 1階＝車庫 -->
+    <rect x="150" y="156" width="200" height="56" fill="#fee2e2"/>
+  </g>
+  <text x="250" y="90" text-anchor="middle" font-size="14" fill="#475569">2階 居室</text>
+  <text x="250" y="138" text-anchor="middle" font-size="14" fill="#475569">1階 居室</text>
+
+  <!-- 車庫＋車アイコン -->
+  <text x="250" y="180" text-anchor="middle" font-size="14" fill="#b91c1c" font-weight="700">地階・車庫</text>
+  <g transform="translate(210,186)">
+    <rect x="0" y="6" width="80" height="16" rx="4" fill="#ef4444"/>
+    <rect x="14" y="-2" width="52" height="12" rx="4" fill="#ef4444"/>
+    <circle cx="18" cy="24" r="6" fill="#1e293b"/>
+    <circle cx="62" cy="24" r="6" fill="#1e293b"/>
+  </g>
+
+  <!-- 注記 -->
+  <text x="250" y="244" text-anchor="middle" font-size="15" fill="#dc2626" font-weight="700">車庫も「延べ面積」には算入される</text>
+  <text x="250" y="270" text-anchor="middle" font-size="13" fill="#475569">※ 容積率の算定では 1/5 を上限に不算入（緩和）</text>
+</svg>

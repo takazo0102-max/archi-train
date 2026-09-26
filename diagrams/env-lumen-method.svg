@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">照度計算（光束法）と測光量</text>
+  <rect x="20" y="42" width="225" height="82" rx="8" fill="#fff" stroke="#94a3b8"/>
+  <text x="132" y="68" text-anchor="middle" font-size="16" font-weight="700" fill="#1e293b">E = F × N × U × M / A</text>
+  <text x="132" y="88" text-anchor="middle" font-size="10" fill="#334155">E：平均照度[lx]　F：1灯の光束[lm]　N：灯数</text>
+  <text x="132" y="102" text-anchor="middle" font-size="10" fill="#334155">U：照明率　M：保守率　A：床面積[m²]</text>
+  <text x="132" y="116" text-anchor="middle" font-size="10" fill="#64748b">照明率は室指数と反射率で決まる（0.4〜0.7）</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="255" y="42" width="230" height="82" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="370" y="60" text-anchor="middle" font-weight="700" fill="#1e293b">点光源の照度（逆二乗則）</text>
+    <text x="265" y="80">水平面照度 E = I × cosθ / r²</text>
+    <text x="265" y="96">I：光度[cd]　r：距離[m]　θ：入射角</text>
+    <text x="265" y="114" fill="#64748b">距離2倍で照度は1/4</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="132" width="465" height="108" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="150" font-weight="700" fill="#1e293b">量</text><text x="130" y="150" font-weight="700" fill="#1e293b">単位</text><text x="230" y="150" font-weight="700" fill="#1e293b">意味</text>
+    <line x1="20" y1="156" x2="485" y2="156" stroke="#94a3b8"/>
+    <text x="30" y="172">光束 F</text><text x="130" y="172">lm（ルーメン）</text><text x="230" y="172">光源から出る光の量（視感度で補正）</text>
+    <text x="30" y="188">光度 I</text><text x="130" y="188">cd（カンデラ）</text><text x="230" y="188">ある方向への光の強さ＝光束／立体角</text>
+    <text x="30" y="204">照度 E</text><text x="130" y="204">lx（ルクス）</text><text x="230" y="204">面に当たる光束／面積（lm/m²）</text>
+    <text x="30" y="220">輝度 L</text><text x="130" y="220">cd/m²</text><text x="230" y="220">見かけの面積あたりの光度（明るさ感）</text>
+    <text x="30" y="234" font-size="10" fill="#64748b">均等拡散面の輝度 L = ρE/π（ρ：反射率）</text>
+  </g>
+  <text x="250" y="262" text-anchor="middle" font-size="10.5" fill="#334155">推奨照度（JIS）：事務室 750lx、会議室 500、教室 300、廊下 100、居間 50〜100（読書 500）</text>
+  <text x="250" y="282" text-anchor="middle" font-size="10" fill="#64748b">保守率 M：光束低下・汚れを見込む係数（0.6〜0.8）。均斉度＝最小／平均照度</text>
+</svg>

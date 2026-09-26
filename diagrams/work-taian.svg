@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f3efe7"/>
+  <rect x="0" y="255" width="500" height="45" fill="#dcd8c4"/>
+  <line x1="0" y1="255" x2="500" y2="255" stroke="#bdb79b" stroke-width="2"/>
+
+  <!-- 草庵風の低い切妻屋根（茅葺イメージ） -->
+  <path d="M150,150 L250,108 L350,150 Z" fill="#b9a98a" stroke="#8f7f60" stroke-width="2"/>
+  <path d="M150,150 L350,150 L362,162 L138,162 Z" fill="#a8946f" stroke="#8f7f60" stroke-width="2"/>
+
+  <!-- 土壁の躯体 -->
+  <rect x="165" y="162" width="170" height="93" fill="#e9e0cf" stroke="#bdae90" stroke-width="2"/>
+
+  <!-- にじり口（小さな出入口） -->
+  <rect x="196" y="212" width="34" height="43" fill="#5b4a35" stroke="#3f3424" stroke-width="2"/>
+  <text x="213" y="208" text-anchor="middle" font-size="10" fill="#6b5b44">にじり口</text>
+
+  <!-- 下地窓（土壁を塗り残した窓） -->
+  <rect x="262" y="188" width="40" height="34" fill="#cdbf9f" stroke="#a89773" stroke-width="1.5"/>
+  <g stroke="#a89773" stroke-width="1">
+    <line x1="262" y1="200" x2="302" y2="200"/><line x1="262" y1="211" x2="302" y2="211"/>
+    <line x1="275" y1="188" x2="275" y2="222"/><line x1="289" y1="188" x2="289" y2="222"/>
+  </g>
+
+  <text x="250" y="284" text-anchor="middle" font-size="14" fill="#3f3a30" font-weight="700">待庵 ― 草庵風の茶室（にじり口・土壁・下地窓）</text>
+  <text x="250" y="26" text-anchor="middle" font-size="13" fill="#a8a08a">※ イメージイラスト</text>
+</svg>

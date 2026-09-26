@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">掘削底面の破壊現象</text>
+  <!-- ヒービング -->
+  <g>
+    <rect x="20" y="50" width="145" height="120" fill="#e7d8c4"/>
+    <rect x="60" y="50" width="65" height="80" fill="#fff"/>
+    <line x1="60" y1="50" x2="60" y2="150" stroke="#64748b" stroke-width="3"/><line x1="125" y1="50" x2="125" y2="150" stroke="#64748b" stroke-width="3"/>
+    <path d="M60,130 Q92,108 125,130" fill="none" stroke="#dc2626" stroke-width="3"/>
+    <g stroke="#dc2626" stroke-width="2" fill="#dc2626"><line x1="92" y1="135" x2="92" y2="115"/><polygon points="92,108 87,120 97,120"/></g>
+    <text x="92" y="185" text-anchor="middle" font-size="13" fill="#1e293b" font-weight="700">ヒービング</text>
+    <text x="92" y="200" text-anchor="middle" font-size="10.5" fill="#475569">軟弱粘性土。背面土の</text>
+    <text x="92" y="213" text-anchor="middle" font-size="10.5" fill="#475569">重さで底面が膨れ上がる</text>
+  </g>
+  <!-- ボイリング -->
+  <g>
+    <rect x="178" y="50" width="145" height="120" fill="#e3dcc0"/>
+    <rect x="218" y="50" width="65" height="80" fill="#cfe8f5"/>
+    <line x1="218" y1="50" x2="218" y2="150" stroke="#64748b" stroke-width="3"/><line x1="283" y1="50" x2="283" y2="150" stroke="#64748b" stroke-width="3"/>
+    <g stroke="#2563eb" stroke-width="2" fill="#2563eb"><line x1="240" y1="150" x2="240" y2="120"/><polygon points="240,113 235,125 245,125"/><line x1="262" y1="150" x2="262" y2="120"/><polygon points="262,113 257,125 267,125"/></g>
+    <text x="250" y="185" text-anchor="middle" font-size="13" fill="#1e293b" font-weight="700">ボイリング</text>
+    <text x="250" y="200" text-anchor="middle" font-size="10.5" fill="#475569">砂質地盤。上向きの</text>
+    <text x="250" y="213" text-anchor="middle" font-size="10.5" fill="#475569">浸透圧で砂が噴き上がる</text>
+  </g>
+  <!-- 盤ぶくれ -->
+  <g>
+    <rect x="336" y="50" width="145" height="120" fill="#e7d8c4"/>
+    <rect x="336" y="120" width="145" height="50" fill="#bcd4e6"/>
+    <rect x="376" y="50" width="65" height="70" fill="#fff"/>
+    <line x1="376" y1="50" x2="376" y2="120" stroke="#64748b" stroke-width="3"/><line x1="441" y1="50" x2="441" y2="120" stroke="#64748b" stroke-width="3"/>
+    <path d="M376,120 Q408,104 441,120" fill="none" stroke="#dc2626" stroke-width="3"/>
+    <text x="408" y="185" text-anchor="middle" font-size="13" fill="#1e293b" font-weight="700">盤ぶくれ</text>
+    <text x="408" y="200" text-anchor="middle" font-size="10.5" fill="#475569">難透水層下の被圧地下水の</text>
+    <text x="408" y="213" text-anchor="middle" font-size="10.5" fill="#475569">揚圧力で底面が持ち上がる</text>
+  </g>
+  <text x="250" y="248" text-anchor="middle" font-size="12" fill="#334155" font-weight="700">ヒービング＝粘性土 ／ ボイリング＝砂質土 ／ 盤ぶくれ＝被圧地下水</text>
+</svg>

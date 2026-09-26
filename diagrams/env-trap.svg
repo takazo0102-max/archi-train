@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">排水トラップと封水</text>
+  <!-- 器具排水口 -->
+  <rect x="150" y="60" width="80" height="20" fill="#cbd5e1" stroke="#94a3b8"/>
+  <text x="190" y="52" text-anchor="middle" font-size="11" fill="#475569">器具（洗面器など）</text>
+  <!-- Pトラップ管 -->
+  <path d="M180,80 L180,150 Q180,190 215,190 Q250,190 250,150 L250,120 L300,120" fill="none" stroke="#64748b" stroke-width="14" stroke-linecap="round"/>
+  <!-- 封水 -->
+  <path d="M180,150 Q180,182 213,182 Q246,182 246,150 L246,140 L184,140 Z" fill="#7dd3fc"/>
+  <text x="213" y="172" text-anchor="middle" font-size="11" fill="#075985" font-weight="700">封水</text>
+  <!-- 封水深 矢印 -->
+  <g stroke="#dc2626" stroke-width="2" fill="#dc2626">
+    <line x1="130" y1="140" x2="130" y2="182"/>
+    <polygon points="130,140 125,150 135,150"/><polygon points="130,182 125,172 135,172"/>
+  </g>
+  <text x="118" y="165" text-anchor="end" font-size="12" fill="#dc2626" font-weight="700">封水深</text>
+  <text x="118" y="182" text-anchor="end" font-size="11" fill="#dc2626">50〜100mm</text>
+  <!-- 排水側 -->
+  <text x="320" y="118" font-size="11" fill="#475569">→ 排水管へ</text>
+  <text x="250" y="245" text-anchor="middle" font-size="13" fill="#334155" font-weight="700">封水が排水管からの臭気・害虫の侵入を防ぐ</text>
+  <text x="250" y="268" text-anchor="middle" font-size="11" fill="#475569">封水深は浅いと破封、深すぎると自浄作用低下。二重トラップは禁止</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">RC造・S造の仕様規定（令63〜79条）</text>
+  <rect x="15" y="34" width="470" height="134" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#991b1b">鉄筋コンクリート造（令71〜79条）</text>
+    <text x="22" y="62">コンクリート四週圧縮強度 ≧ 12N/mm²（軽量骨材 9N/mm²）</text>
+    <text x="22" y="79">柱：主筋4本以上・帯筋と緊結・帯筋比 ≧ 0.2%</text>
+    <text x="22" y="96">柱：主筋断面積の和 ≧ コンクリート断面の0.8%・小径 ≧ 支点間の1/15</text>
+    <text x="22" y="113">はり：複筋ばり・あばら筋間隔 ≦ はり丈の3/4（臥梁は30cm以下）</text>
+    <text x="22" y="130">耐力壁：厚さ ≧ 12cm・開口部周囲に径12mm以上の補強筋</text>
+    <text x="22" y="147">かぶり：壁・床 2cm／柱・はり・耐力壁 3cm／土に接する 4cm／基礎 6cm</text>
+    <text x="22" y="164">主筋の重ね継手：引張力の最小部 25d以上・その他 40d以上</text>
+  </g>
+  <rect x="15" y="176" width="470" height="100" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="176" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="188" font-weight="700" fill="#1e3a8a">鉄骨造（令63〜70条）</text>
+    <text x="22" y="204">材料：炭素鋼・ステンレス鋼・鋳鉄（鋳鉄は引張・曲げに使用不可）</text>
+    <text x="22" y="221">高力ボルト孔径 ≦ d＋2mm（d＜27mm）／ボルト孔径 ≦ d＋1mm</text>
+    <text x="22" y="238">ボルト・リベット等の相互間中心距離 ≧ 2.5d</text>
+    <text x="22" y="255">圧縮材の有効細長比：柱 ≦ 200・柱以外 ≦ 250</text>
+    <text x="22" y="272">柱脚：アンカーボルト等で基礎に緊結（滑節構造を除く）</text>
+  </g>
+  <text x="15" y="292" font-size="10" fill="#b91c1c" font-weight="700">保有水平耐力計算・限界耐力計算で確かめると一部の仕様規定は適用除外（令36条）</text>
+</svg>

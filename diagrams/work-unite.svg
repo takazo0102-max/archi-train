@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eef2f7"/>
+  <rect x="0" y="262" width="500" height="38" fill="#dCE8d2"/>
+  <line x1="0" y1="262" x2="500" y2="262" stroke="#b7cfa9" stroke-width="2"/>
+
+  <!-- ピロティ（太いコンクリート脚） -->
+  <g fill="#9ca3af" stroke="#6b7280" stroke-width="1.5">
+    <path d="M150,262 L160,222 L176,222 L172,262 Z"/>
+    <path d="M250,262 L256,222 L272,222 L272,262 Z"/>
+    <path d="M350,262 L344,222 L360,222 L372,262 Z"/>
+  </g>
+
+  <!-- 住棟（ベトンブリュットの箱） -->
+  <rect x="130" y="78" width="240" height="144" fill="#cbb89c" stroke="#9c8a6f" stroke-width="2"/>
+  <!-- ロッジア／ブリーズソレイユの格子（色付きパネル） -->
+  <g stroke="#9c8a6f" stroke-width="1.5">
+    <rect x="142" y="92" width="216" height="118" fill="none"/>
+    <line x1="142" y1="122" x2="358" y2="122"/><line x1="142" y1="152" x2="358" y2="152"/><line x1="142" y1="182" x2="358" y2="182"/>
+    <line x1="196" y1="92" x2="196" y2="210"/><line x1="250" y1="92" x2="250" y2="210"/><line x1="304" y1="92" x2="304" y2="210"/>
+  </g>
+  <!-- ポリクロミー（赤・青・黄・緑の差し色） -->
+  <rect x="143" y="93" width="52" height="28" fill="#d98a5a" opacity="0.85"/>
+  <rect x="251" y="123" width="52" height="28" fill="#5a86bf" opacity="0.85"/>
+  <rect x="305" y="153" width="52" height="28" fill="#e0bd54" opacity="0.85"/>
+  <rect x="197" y="183" width="52" height="26" fill="#6fa06a" opacity="0.85"/>
+
+  <!-- 屋上の彫塑的要素 -->
+  <rect x="300" y="58" width="34" height="20" fill="#b7a68c" stroke="#9c8a6f" stroke-width="1.5"/>
+  <path d="M160,78 L160,62 Q160,54 176,54 L196,54 L196,78 Z" fill="#b7a68c" stroke="#9c8a6f" stroke-width="1.5"/>
+
+  <text x="250" y="288" text-anchor="middle" font-size="14" fill="#334155" font-weight="700" textLength="494" lengthAdjust="spacingAndGlyphs">ユニテ・ダビタシオン ― ピロティと色彩のある大規模集合住宅（ル・コルビュジエ）</text>
+  <text x="250" y="26" text-anchor="middle" font-size="13" fill="#94a3b8">※ イメージイラスト</text>
+</svg>

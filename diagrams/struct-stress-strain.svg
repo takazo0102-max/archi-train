@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">鋼材の応力ひずみ曲線</text>
+  <!-- 軸 -->
+  <line x1="70" y1="240" x2="450" y2="240" stroke="#334155" stroke-width="2"/>
+  <line x1="70" y1="240" x2="70" y2="55" stroke="#334155" stroke-width="2"/>
+  <polygon points="450,240 438,234 438,246" fill="#334155"/>
+  <polygon points="70,55 64,67 76,67" fill="#334155"/>
+  <text x="455" y="244" font-size="12" fill="#334155">ひずみ</text>
+  <text x="46" y="62" font-size="12" fill="#334155">応力</text>
+  <!-- 曲線：弾性→降伏点→降伏棚→ひずみ硬化→引張強さ→破断 -->
+  <path d="M70,240 L150,120 L185,120 L185,118 L300,75 Q360,62 410,95" fill="none" stroke="#2563eb" stroke-width="3"/>
+  <circle cx="410" cy="95" r="4" fill="#dc2626"/>
+  <!-- 降伏点 -->
+  <line x1="150" y1="120" x2="150" y2="240" stroke="#94a3b8" stroke-width="1" stroke-dasharray="3 3"/>
+  <circle cx="150" cy="120" r="4" fill="#16a34a"/>
+  <text x="150" y="110" text-anchor="middle" font-size="11" fill="#15803d" font-weight="700">降伏点</text>
+  <!-- 引張強さ -->
+  <circle cx="300" cy="75" r="4" fill="#b45309"/>
+  <text x="300" y="66" text-anchor="middle" font-size="11" fill="#b45309" font-weight="700">引張強さ（最大）</text>
+  <text x="420" y="92" font-size="11" fill="#dc2626" font-weight="700">破断</text>
+  <!-- 弾性域・ヤング係数 -->
+  <text x="100" y="200" font-size="11" fill="#1d4ed8">弾性域</text>
+  <text x="100" y="216" font-size="10" fill="#64748b">傾き＝ヤング係数</text>
+  <text x="250" y="288" text-anchor="middle" font-size="11.5" fill="#475569">ヤング係数は強度によらずほぼ一定（約2.05×10⁵ N/mm²）</text>
+</svg>

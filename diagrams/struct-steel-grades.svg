@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">鋼材の規格と性質</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="40" width="460" height="118" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="58" font-weight="700" fill="#1e293b">記号</text><text x="130" y="58" font-weight="700" fill="#1e293b">意味</text><text x="330" y="58" font-weight="700" fill="#1e293b">用途・特徴</text>
+    <line x1="20" y1="64" x2="480" y2="64" stroke="#94a3b8"/>
+    <text x="30" y="82" font-weight="700">SS400</text><text x="130" y="82">一般構造用圧延鋼材（引張強さ 400）</text><text x="330" y="82">溶接性は保証なし・小規模</text>
+    <text x="30" y="100" font-weight="700">SM490</text><text x="130" y="100">溶接構造用圧延鋼材</text><text x="330" y="100">溶接性◎・シャルピー値規定</text>
+    <text x="30" y="118" font-weight="700">SN400 B・C</text><text x="130" y="118">建築構造用圧延鋼材</text><text x="330" y="118" textLength="145" lengthAdjust="spacingAndGlyphs">降伏比 80%以下。C種は板厚方向◎</text>
+    <text x="30" y="136" font-weight="700">BCR295 / BCP</text><text x="130" y="136">冷間成形角形鋼管（ロール／プレス）</text><text x="330" y="136">柱に使う・角部の靭性に注意</text>
+    <text x="30" y="154" font-weight="700">SD345 / SD390</text><text x="130" y="154">異形鉄筋（降伏点 345 / 390）</text><text x="330" y="154">D は直径 mm（D19 など）</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="166" width="460" height="106" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="184">● 数字は引張強さ（SS・SM・SN）または降伏点（SD）の下限値 [N/mm²]</text>
+    <text x="30" y="202">● ヤング係数 E ＝ <tspan font-weight="700">2.05×10⁵ N/mm²</tspan>（強度によらず一定）。線膨張係数 1×10⁻⁵</text>
+    <text x="30" y="220">● 降伏比 ＝ 降伏点 ÷ 引張強さ。小さいほど塑性変形能力（靭性）が大きい</text>
+    <text x="30" y="238">● 炭素量が多い → 強度・硬さ↑、伸び・溶接性↓。焼入れで硬く、焼なましで軟らかく</text>
+    <text x="30" y="256">● 温度：500℃で強度が約半分（耐火被覆が必要）。低温では脆性破壊しやすい</text>
+  </g>
+  <text x="250" y="290" text-anchor="middle" font-size="10" fill="#64748b">F値（基準強度）＝ 降伏点と引張強さ×0.7 の小さいほう。許容応力度 長期 F/1.5、短期 F</text>
+</svg>

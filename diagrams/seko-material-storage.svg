@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">材料の保管・取扱いの数値</text>
+  <rect x="15" y="36" width="470" height="72" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="36" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="48" font-weight="700" fill="#1e3a8a">積置き高さ</text>
+    <text x="22" y="64">硬質ポリ塩化ビニル管（呼び径150以下）：直射日光を避け角材の上に井げた積み 1.5m以下</text>
+    <text x="22" y="80">押出成形セメント板（ECP）：屋内の平坦で乾燥した場所に台木・平積み 1.0m以下（×1.2m）</text>
+    <text x="22" y="96">ECPの現場孔あけ：振動ドリルを使わず電気ドリル（割れ防止）</text>
+  </g>
+  <rect x="15" y="114" width="470" height="52" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="114" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="126" font-weight="700" fill="#92400e">石・塗料</text>
+    <text x="22" y="142">外壁乾式工法の石材：矩形、幅・高さ 1,200mm以下 かつ 面積 0.8m²以下</text>
+    <text x="22" y="158">塗料：撹拌で戻らない沈殿・皮ばり・凝集 → こしわけで除去して使用</text>
+  </g>
+  <rect x="15" y="172" width="470" height="52" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="172" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="184" font-weight="700" fill="#991b1b">コンクリート練混ぜ水</text>
+    <text x="22" y="200">上水道水／上水道以外の水（JIS適合）／回収水（上澄水・スラッジ水）</text>
+    <text x="22" y="216">標準級ではスラッジ水も可。高強度・高耐久ではスラッジ水は不可</text>
+  </g>
+  <text x="250" y="292" text-anchor="middle" font-size="9.5" fill="#64748b">塩ビ管1.5m・ECP1.0m・石1,200mm/0.8m²</text>
+</svg>

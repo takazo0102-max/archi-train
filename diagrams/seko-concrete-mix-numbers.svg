@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">コンクリートの調合・圧送・打込みの数値</text>
+  <rect x="15" y="34" width="470" height="100" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">計画調合（普通コンクリート）</text>
+    <text x="22" y="62" textLength="458" lengthAdjust="spacingAndGlyphs">水セメント比 ≦ 65%（普通ポルトランド）／ 単位水量 ≦ 185kg/m³ ／ 単位セメント量 ≧ 270kg/m³</text>
+    <text x="22" y="77">粗骨材の最大寸法：柱・梁・スラブ・壁 砕石 20mm（基礎は 25mm も可）／ 空気量 4.5%</text>
+    <text x="22" y="92">スランプ：18cm以下（高強度は 21cm 以下・スランプフロー管理）</text>
+    <text x="22" y="107">Ⅰ類コンクリート（JIS認証・エコセメント／再生骨材なし）は試し練りを省略できる</text>
+    <text x="22" y="122">高強度の自己収縮対策：高性能AE減水剤を増やして単位水量を減らす</text>
+  </g>
+  <rect x="15" y="142" width="470" height="54" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="142" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="10" fill="#334155">
+    <text x="22" y="154" font-weight="700" fill="#991b1b">圧送</text>
+    <text x="22" y="170">閉塞したベント管は圧力解除後すぐ取り外し、中のコンクリートは廃棄</text>
+    <text x="22" y="185" textLength="458" lengthAdjust="spacingAndGlyphs">軽量コンクリートで水平換算距離 150m以上 → 輸送管 125A ／ 先送りモルタルは型枠に打ち込まない</text>
+  </g>
+  <rect x="15" y="204" width="470" height="72" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="204" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10" fill="#334155">
+    <text x="22" y="216" font-weight="700" fill="#92400e">打込み・仕上げ</text>
+    <text x="22" y="232">打込み順：柱・壁 → 沈みが落ち着いてから梁 → さらに落ち着いてからスラブ（沈みひび割れ防止）</text>
+    <text x="22" y="247">タンピング（再振動・たたき）は凝結完了前（ブリーディング水が消えた時点）に行う</text>
+    <text x="22" y="262">プラスチック収縮ひび割れ：風・直射日光で表面が急乾燥 → 散水・シート養生で防ぐ</text>
+  </g>
+  <text x="15" y="292" font-size="10" fill="#b91c1c" font-weight="700">「25mm砕石を柱梁に」「凝結完了後にタンピング」「W/C 70%」は誤りの定番</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">建築計画の基本用語（人・環境・デザイン）</text>
+  <rect x="15" y="34" width="470" height="86" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">人間と空間</text>
+    <text x="22" y="62">ソシオペタル：向かい合って交流しやすい配置 ／ ソシオフーガル：視線が合わない配置</text>
+    <text x="22" y="77">アフォーダンス：環境が備える「行動を引き出す資質」（知覚者の経験で異なる）</text>
+    <text x="22" y="92">まもりやすい空間（O.ニューマン）：パブリック→セミ→プライベートと領域を段階化して防犯</text>
+    <text x="22" y="107">QOL（生活の質）：医療・福祉の建築計画で重視 ／ 環境移行：転居等の環境変化が心身に与える負担</text>
+  </g>
+  <rect x="15" y="128" width="470" height="86" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="128" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="10" fill="#334155">
+    <text x="22" y="140" font-weight="700" fill="#991b1b">デザインの考え方</text>
+    <text x="22" y="156">ユニバーサルデザイン：障害・年齢・体型によらず誰もが使える ／ バリアフリー：障壁を取り除く</text>
+    <text x="22" y="171" textLength="458" lengthAdjust="spacingAndGlyphs">フェーズフリー：平常時と災害時の区別なく使える ／ パッシブデザイン：建築的工夫で熱・光・風を制御</text>
+    <text x="22" y="186">循環経済：リサイクル高度化・ストック活用・長寿命化 ／ LCA：製造〜解体の環境負荷</text>
+    <text x="22" y="201" textLength="458" lengthAdjust="spacingAndGlyphs">SDGs：17目標（「住み続けられるまちづくりを」）／ 2050年カーボンニュートラル：省エネ＋再エネ</text>
+  </g>
+  <rect x="15" y="222" width="470" height="70" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="222" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10" fill="#334155">
+    <text x="22" y="234" font-weight="700" fill="#92400e">建築士の立場・法の性格</text>
+    <text x="22" y="250">建築基準法は「最低の基準」／ 報酬を得て手続き代理を業とするには建築士事務所の登録</text>
+    <text x="22" y="265">設計契約は準委任 → 建築士は善管注意義務を負う（契約に書かれていなくても）</text>
+    <text x="22" y="280">エアフローウィンドウ：二重ガラス間のブラインドに空調空気を通す（BEMS＝エネルギー管理）</text>
+  </g>
+</svg>

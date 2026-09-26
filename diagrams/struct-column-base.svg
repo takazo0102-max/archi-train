@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">鉄骨柱脚の形式と固定度</text>
+  <!-- 露出形式 -->
+  <g>
+    <rect x="80" y="60" width="16" height="110" fill="#64748b"/>
+    <rect x="60" y="170" width="56" height="12" fill="#94a3b8"/>
+    <rect x="40" y="182" width="96" height="40" fill="#cbd5e1" stroke="#94a3b8"/>
+    <text x="88" y="240" text-anchor="middle" font-size="12.5" fill="#1e293b" font-weight="700">露出形式</text>
+    <text x="88" y="256" text-anchor="middle" font-size="10.5" fill="#475569">ベースプレート＋</text>
+    <text x="88" y="269" text-anchor="middle" font-size="10.5" fill="#475569">アンカーボルト</text>
+  </g>
+  <!-- 根巻き形式 -->
+  <g>
+    <rect x="242" y="60" width="16" height="80" fill="#64748b"/>
+    <rect x="220" y="140" width="60" height="82" fill="#cbd5e1" stroke="#94a3b8"/>
+    <text x="250" y="240" text-anchor="middle" font-size="12.5" fill="#1e293b" font-weight="700">根巻き形式</text>
+    <text x="250" y="256" text-anchor="middle" font-size="10.5" fill="#475569">柱脚をRCで</text>
+    <text x="250" y="269" text-anchor="middle" font-size="10.5" fill="#475569">根巻きする</text>
+  </g>
+  <!-- 埋込み形式 -->
+  <g>
+    <rect x="405" y="60" width="16" height="120" fill="#64748b"/>
+    <rect x="380" y="150" width="66" height="72" fill="#cbd5e1" stroke="#94a3b8"/>
+    <text x="413" y="240" text-anchor="middle" font-size="12.5" fill="#1e293b" font-weight="700">埋込み形式</text>
+    <text x="413" y="256" text-anchor="middle" font-size="10.5" fill="#475569">柱脚を基礎RCに</text>
+    <text x="413" y="269" text-anchor="middle" font-size="10.5" fill="#475569">埋め込む</text>
+  </g>
+  <text x="250" y="290" text-anchor="middle" font-size="12.5" fill="#dc2626" font-weight="700">固定度（回転剛性）：露出 ＜ 根巻き ＜ 埋込み</text>
+</svg>

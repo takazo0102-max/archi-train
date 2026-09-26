@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">偏心率（重心と剛心のずれ）</text>
+  <!-- 平面 -->
+  <rect x="120" y="60" width="260" height="160" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <!-- 耐震壁（左側に偏る） -->
+  <rect x="120" y="60" width="14" height="160" fill="#64748b"/>
+  <rect x="134" y="60" width="14" height="160" fill="#94a3b8"/>
+  <text x="140" y="240" font-size="10.5" fill="#475569">壁が左に集中</text>
+  <!-- 重心 G -->
+  <circle cx="250" cy="140" r="9" fill="#2563eb"/><text x="250" y="144" text-anchor="middle" font-size="11" fill="#fff" font-weight="700">G</text>
+  <text x="250" y="125" text-anchor="middle" font-size="10.5" fill="#1d4ed8">重心</text>
+  <!-- 剛心 R（壁側へ寄る） -->
+  <circle cx="175" cy="140" r="9" fill="#dc2626"/><text x="175" y="144" text-anchor="middle" font-size="11" fill="#fff" font-weight="700">R</text>
+  <text x="175" y="125" text-anchor="middle" font-size="10.5" fill="#b91c1c">剛心</text>
+  <!-- 偏心距離 -->
+  <g stroke="#7c3aed" stroke-width="2" fill="#7c3aed"><line x1="175" y1="165" x2="250" y2="165"/><polygon points="175,165 185,160 185,170"/><polygon points="250,165 240,160 240,170"/></g>
+  <text x="212" y="183" text-anchor="middle" font-size="10.5" fill="#6d28d9" font-weight="700">偏心距離</text>
+  <!-- ねじれ矢印 -->
+  <path d="M330,150 A30,30 0 1 1 320,120" fill="none" stroke="#f59e0b" stroke-width="2.5"/>
+  <polygon points="320,120 314,131 326,128" fill="#f59e0b"/>
+  <text x="350" y="150" font-size="11" fill="#b45309" font-weight="700" textLength="25" lengthAdjust="spacingAndGlyphs">ねじれ</text>
+  <text x="250" y="250" text-anchor="middle" font-size="12.5" fill="#334155" font-weight="700">重心と剛心がずれると地震時にねじれが生じる</text>
+  <text x="250" y="270" text-anchor="middle" font-size="11" fill="#475569">偏心率は小さいほど良い（0.15以下）</text>
+</svg>

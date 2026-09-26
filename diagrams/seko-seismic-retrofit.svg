@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">耐震改修工事の要点（あと施工アンカー・補強）</text>
+  <rect x="15" y="34" width="470" height="100" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">あと施工アンカー</text>
+    <text x="22" y="62">穿孔：アンカー筋径＋2〜3mm（D13 → ビット径 15〜16mm）／ 騒音・振動対策はコアドリル</text>
+    <text x="22" y="77">接着系：回転させながらマーキング位置まで埋込み。接着剤があふれ出なければ引き抜いてやり直し</text>
+    <text x="22" y="92" textLength="458" lengthAdjust="spacingAndGlyphs">金属系（締付け方式）：締付け後に目視＋打音で固着を確認 ／ 冷却水はアルカリ性 → 中和して排水</text>
+    <text x="22" y="107">確認試験：荷重は計算耐力の小さいほうの 2/3 程度 ／ 不合格ロット → 残り全数試験</text>
+    <text x="22" y="122">不合格 → 至近に再施工し、再施工分は全数を引張試験</text>
+  </g>
+  <rect x="15" y="142" width="470" height="84" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="142" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="10" fill="#334155">
+    <text x="22" y="154" font-weight="700" fill="#991b1b">柱・壁の補強</text>
+    <text x="22" y="170">鋼板巻き（角形）：コーナー内法半径 ≧ 板厚の3倍 ／ 既存柱との隙間（グラウト厚）30mm程度</text>
+    <text x="22" y="185">炭素繊維シート：プライマーは乾燥面に塗布（湿潤は不可）／ ラップ位置は同一面に集めず分散</text>
+    <text x="22" y="200">増設壁・枠付き鉄骨ブレース：無収縮モルタルを圧入。空気抜きは既存梁側に設ける</text>
+    <text x="22" y="215">アンカーが密な増設壁部分は充填性の高いコンクリート（高流動など）にする</text>
+  </g>
+  <rect x="15" y="234" width="470" height="58" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="234" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10" fill="#334155">
+    <text x="22" y="246" font-weight="700" fill="#92400e">ひび割れ補修（打放し外壁）</text>
+    <text x="22" y="262">0.2mm未満 → シール工法 ／ 0.2〜1.0mm → 樹脂注入工法 ／ 1.0mm超 → Uカットシール材充填</text>
+    <text x="22" y="277">手動式注入：鉛直ひび割れは「下から上へ」順に注入（低圧・低速で確実に充填）</text>
+  </g>
+</svg>

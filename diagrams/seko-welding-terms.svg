@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">溶接の用語と主な管理値</text>
+  <!-- 完全溶込み溶接 断面 -->
+  <polygon points="40,120 110,120 130,70 150,120 220,120 220,170 40,170" fill="#cbd5e1" stroke="#475569" stroke-width="2"/>
+  <polygon points="110,120 130,70 150,120 130,125" fill="#fbbf24" stroke="#b45309" stroke-width="2"/>
+  <rect x="112" y="120" width="36" height="6" fill="#94a3b8" stroke="#475569"/>
+  <text x="130" y="60" text-anchor="middle" font-size="12" font-weight="700" fill="#1e293b">完全溶込み（開先）</text>
+  <text x="130" y="188" text-anchor="middle" font-size="11" fill="#334155">裏当て金 ／ ルート間隔・ルート面</text>
+  <text x="130" y="204" text-anchor="middle" font-size="11" fill="#334155">開先角度＝両側のベベル角度の和</text>
+  <!-- 隅肉溶接 -->
+  <polygon points="300,90 300,170 380,170 380,140 330,140 330,90" fill="#cbd5e1" stroke="#475569" stroke-width="2"/>
+  <polygon points="330,110 330,140 360,140" fill="#fbbf24" stroke="#b45309" stroke-width="2"/>
+  <line x1="330" y1="140" x2="351" y2="119" stroke="#dc2626" stroke-width="2"/>
+  <text x="362" y="125" font-size="11" fill="#dc2626" font-weight="700">のど厚 a</text>
+  <text x="300" y="82" font-size="12" font-weight="700" fill="#1e293b">隅肉溶接</text>
+  <text x="335" y="160" font-size="11" fill="#334155">脚長 S</text>
+  <text x="340" y="188" text-anchor="middle" font-size="11" fill="#334155">のど厚 a＝0.7S（等脚）</text>
+  <text x="340" y="204" text-anchor="middle" font-size="11" fill="#334155">隙間2mm超 → サイズを隙間分大きく</text>
+  <g font-size="11" fill="#334155">
+    <text x="30" y="232" font-weight="700" fill="#1e293b">管理値</text>
+    <text x="30" y="250">・予熱：気温−5〜5℃で溶接線から100mmを加熱、−5℃未満は溶接不可</text>
+    <text x="30" y="266">・組立溶接の最小長さ：板厚6mm以下 30mm／6mm超 40mm（ショートビード不可）</text>
+    <text x="30" y="282">・段違い：薄板厚の1/4以下かつ10mm以下 ／ 割れの補修は両端から50mm以上広げる</text>
+  </g>
+</svg>

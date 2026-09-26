@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">日本建築史の用語（社寺・住宅）</text>
+  <rect x="15" y="36" width="470" height="72" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="36" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="48" font-weight="700" fill="#1e3a8a">組物・屋根</text>
+    <text x="22" y="64">組物＝斗と肘木の組合せ。舟肘木＝柱上に肘木だけ（最も簡素）／二手先＝肘木が二段に出る</text>
+    <text x="22" y="80">桔木（はねぎ）：梃子の原理で深い軒先を支える小屋裏の材</text>
+    <text x="22" y="96">瓦葺き：仏教とともに伝来（本瓦葺き）。江戸時代に桟瓦葺きを考案</text>
+  </g>
+  <rect x="15" y="114" width="470" height="52" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="114" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="126" font-weight="700" fill="#92400e">神社本殿の形式</text>
+    <text x="22" y="142">流造：切妻・平入り、前面の屋根を延長して向拝（賀茂別雷神社＝上賀茂神社）</text>
+    <text x="22" y="158">神明造（伊勢・切妻平入）／大社造（出雲・切妻妻入）／春日造（切妻妻入＋向拝）</text>
+  </g>
+  <rect x="15" y="172" width="470" height="72" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="172" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="184" font-weight="700" fill="#991b1b">住宅様式</text>
+    <text x="22" y="200">寝殿造（東三条殿）：丸柱・板敷き・蔀戸、対屋を渡殿でつなぐ</text>
+    <text x="22" y="216">書院造：光浄院客殿（園城寺）が代表例 ×数寄屋風</text>
+    <text x="22" y="232">数寄屋：桂離宮など、茶室の意匠を取り入れた軽快な住宅</text>
+  </g>
+  <text x="250" y="292" text-anchor="middle" font-size="9.5" fill="#64748b">舟肘木≠二手先、光浄院客殿＝書院造</text>
+</svg>

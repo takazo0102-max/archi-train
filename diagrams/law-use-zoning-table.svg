@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">用途地域の用途制限（別表第2）よく出る例</text>
+  <rect x="15" y="34" width="470" height="236" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="17" fill="#dbeafe"/>
+  <g font-size="8.8" fill="#334155">
+    <text x="20" y="46" font-weight="700" fill="#1e293b">地域</text>
+    <text x="100" y="46" font-weight="700" fill="#1e293b">建築できる（例）</text>
+    <text x="310" y="46" font-weight="700" fill="#1e293b">建築できない（例）</text>
+    <text x="20" y="63" font-weight="700">一種・二種中高層</text>
+    <text x="100" y="63">一種：2階以下・500m²以内の店舗 ／ 自家用倉庫</text>
+    <text x="310" y="63">二種：3階以上／1,500m²超の店舗等</text>
+    <rect x="15" y="70" width="470" height="18" fill="#f8fafc"/>
+    <text x="20" y="82" font-weight="700">第一種住居</text>
+    <text x="100" y="82">3,000m²以下のホテル・店舗・水泳場 ／ 保健所</text>
+    <text x="310" y="82">3,000m²超の店舗・事務所・水泳場</text>
+    <text x="20" y="101" font-weight="700">第二種住居</text>
+    <text x="100" y="101">10,000m²以下のカラオケ・勝馬投票券発売所</text>
+    <text x="310" y="101">10,000m²超の店舗・カラオケ等</text>
+    <rect x="15" y="108" width="470" height="18" fill="#f8fafc"/>
+    <text x="20" y="120" font-weight="700">準住居</text>
+    <text x="100" y="120">客席200m²未満の劇場 ／ 燃料電池車用水素</text>
+    <text x="310" y="120">客席200m²以上の劇場</text>
+    <text x="20" y="139" font-weight="700">近隣商業</text>
+    <text x="100" y="139">映画館（客席制限なし）／ 日刊新聞印刷所</text>
+    <text x="310" y="139">作業場300m²超の自動車修理工場</text>
+    <rect x="15" y="146" width="470" height="18" fill="#f8fafc"/>
+    <text x="20" y="158" font-weight="700">商業</text>
+    <text x="100" y="158">圧縮天然ガス製造（自動車充填用）等ほぼ全用途</text>
+    <text x="310" y="158">危険性の大きい工場</text>
+    <text x="20" y="177" font-weight="700">準工業</text>
+    <text x="100" y="177">火薬類貯蔵 20tまで ／ 水素ステーション</text>
+    <text x="310" y="177">危険性の大きい工場</text>
+    <rect x="15" y="184" width="470" height="18" fill="#f8fafc"/>
+    <text x="20" y="196" font-weight="700">工業</text>
+    <text x="100" y="196">10,000m²以下の展示場 ／ 日刊新聞印刷所</text>
+    <text x="310" y="196">学校・大学・病院・ホテル</text>
+    <text x="20" y="215" font-weight="700">工業専用</text>
+    <text x="100" y="215">カラオケボックス（禁止用途に含まれない）</text>
+    <text x="310" y="215">住宅・物販・飲食・ホテル・劇場・学校</text>
+    <text x="20" y="236">住居系の附属自動車車庫は3階以上に設けられない ／ 産廃処理施設（100t/日超）は法51条で都市計画決定が必要</text>
+  </g>
+  <text x="15" y="288" font-size="10" fill="#b91c1c" font-weight="700">ひっかけ：一種住居のホテル3,000m²は可／工業地域に大学は不可／近商の修理工場は作業場300m²まで</text>
+</svg>

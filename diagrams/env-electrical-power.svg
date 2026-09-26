@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">電気設備・発電・雷保護の要点</text>
+  <rect x="15" y="34" width="470" height="100" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="8.9" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">受変電・配線・電力の指標</text>
+    <text x="22" y="62">電圧区分：低圧＝交流600V以下・直流750V以下 ／ 高圧＝〜7,000V ／ 特別高圧＝7,000V超</text>
+    <text x="22" y="77">同じ容量なら電圧が高いほど電流が小さく電線断面積は小さくできる（400V ＜ 200V）</text>
+    <text x="22" y="92">信頼度を上げる受電：2回線受電・スポットネットワーク ／ 直接埋設の地中電線路（車両通行）土被り1.2m</text>
+    <text x="22" y="107">負荷率＝平均需要電力／最大需要電力 ／ 不等率＝各負荷の最大需要電力の合計／系統の最大需要電力（≧1）</text>
+    <text x="22" y="122">インバータの高調波電流はアクティブフィルタで抑制 ／ 蓄電池：非常用・停電補償・電力平準化</text>
+  </g>
+  <rect x="15" y="142" width="470" height="100" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="142" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="8.7" fill="#334155">
+    <text x="22" y="154" font-weight="700" fill="#991b1b">発電・非常電源・再エネ</text>
+    <text x="22" y="170">発電効率：ガスエンジン ＞ ガスタービン ／ ガスタービンはディーゼルより振動・面積が小さいが空気量は多い</text>
+    <text x="22" y="185">デュアルフュエル：通常はガス、災害時は重油等に切替 ／ 燃料槽は指定数量以上なら危険物施設（専用室）</text>
+    <text x="22" y="200">非常電源専用受電設備は大規模特定防火対象物（1,000m²以上等）では不可 ／ 燃料電池も非常電源にできる</text>
+    <text x="22" y="215">太陽光：アレイ→パワコンは直流、パワコン→配電盤は交流 ／ 部分影のホットスポット対策はバイパスダイオード</text>
+    <text x="22" y="230">風力：DCリンク方式は一旦直流化してインバータで安定した交流に → 出力変動に強い</text>
+  </g>
+  <rect x="15" y="250" width="470" height="40" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="250" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="8.9" fill="#334155">
+    <text x="22" y="262" font-weight="700" fill="#92400e">雷保護</text>
+    <text x="22" y="278">保護レベルはⅠが最も高い ／ 保護角法・回転球体法・メッシュ法 ／ 鉄骨造は構造体鉄骨を引下げ導線に利用可</text>
+  </g>
+</svg>

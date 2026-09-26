@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">まちづくりの制度（容積緩和・区画・保存）</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="15" y="40" width="470" height="150" fill="#fff" stroke="#94a3b8"/>
+    <text x="25" y="58" font-weight="700" fill="#1e293b">制度</text><text x="165" y="58" font-weight="700" fill="#1e293b">内容</text>
+    <line x1="15" y1="64" x2="485" y2="64" stroke="#94a3b8"/>
+    <text x="25" y="80">総合設計制度（法59条の2）</text><text x="165" y="80">公開空地を設けると容積率・斜線を緩和（特定行政庁の許可）</text>
+    <text x="25" y="96">連担建築物設計制度</text><text x="165" y="96">複数敷地を一団とみなし、既存建物を含めて容積等を一体で適用</text>
+    <text x="25" y="112">一団地認定（法86条1項）</text><text x="165" y="112">団地内の複数棟を1敷地とみなして接道・容積・日影を適用</text>
+    <text x="25" y="128">特定街区・高度利用地区</text><text x="165" y="128">都市計画で容積率等を別に定め、まとまった再開発を誘導</text>
+    <text x="25" y="144">地区計画</text><text x="165" y="144">住民と市町村で将来像を定め、用途・形態・敷地を細かく規制</text>
+    <text x="25" y="160">建築協定（法69条）</text><text x="165" y="160">土地所有者等の合意で用途・形態を協定、特定行政庁が認可</text>
+    <text x="25" y="176">景観地区・伝建地区</text><text x="165" y="176">景観法で形態・色彩を認定制／伝建地区は文化財保護法</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="15" y="198" width="470" height="76" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="25" y="216" font-weight="700" fill="#1e293b">文化財・歴史的環境</text>
+    <text x="25" y="234">● 指定文化財（国宝・重文）は現状変更に許可。登録有形文化財は 50 年経過・届出制</text>
+    <text x="25" y="252">● 歴史まちづくり法：歴史的風致維持向上計画　● 重伝建：白川郷・倉敷・黒石</text>
+    <text x="25" y="268">● 市街地再開発事業（権利変換）／土地区画整理（換地・減歩）／都市再生特区</text>
+  </g>
+  <text x="250" y="292" text-anchor="middle" font-size="10" fill="#64748b">東京計画1960（丹下）：東京湾に線形の都市軸。グラン・プロジェ（パリ）：ルーブル改修・新凱旋門</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">防火区画の3種類（令112条）</text>
+  <!-- 面積区画 -->
+  <rect x="20" y="50" width="145" height="150" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <line x1="92" y1="50" x2="92" y2="200" stroke="#ef4444" stroke-width="4"/>
+  <line x1="20" y1="125" x2="165" y2="125" stroke="#ef4444" stroke-width="4"/>
+  <text x="92" y="218" text-anchor="middle" font-size="13" font-weight="700" fill="#b91c1c">面積区画</text>
+  <text x="92" y="236" text-anchor="middle" font-size="11" fill="#334155">耐火 1,500m²以内</text>
+  <text x="92" y="252" text-anchor="middle" font-size="11" fill="#334155" textLength="178" lengthAdjust="spacingAndGlyphs">11階以上 100m²（準不燃200・不燃500）</text>
+  <!-- 竪穴区画 -->
+  <rect x="180" y="50" width="145" height="150" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <line x1="180" y1="100" x2="325" y2="100" stroke="#94a3b8" stroke-width="1.5"/>
+  <line x1="180" y1="150" x2="325" y2="150" stroke="#94a3b8" stroke-width="1.5"/>
+  <rect x="228" y="50" width="48" height="150" fill="#fee2e2" stroke="#ef4444" stroke-width="4"/>
+  <text x="252" y="130" text-anchor="middle" font-size="11" fill="#7f1d1d" textLength="42" lengthAdjust="spacingAndGlyphs">階段・EL</text>
+  <text x="252" y="144" text-anchor="middle" font-size="11" fill="#7f1d1d">吹抜け</text>
+  <text x="252" y="218" text-anchor="middle" font-size="13" font-weight="700" fill="#b91c1c">竪穴区画</text>
+  <text x="252" y="236" text-anchor="middle" font-size="11" fill="#334155">3階以上に居室＋準耐火以上</text>
+  <text x="252" y="252" text-anchor="middle" font-size="11" fill="#334155">住戸は3階以下200m²以内なら不要</text>
+  <!-- 異種用途区画 -->
+  <rect x="340" y="50" width="145" height="150" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="340" y="140" width="145" height="60" fill="#fef3c7"/>
+  <line x1="340" y1="140" x2="485" y2="140" stroke="#ef4444" stroke-width="4"/>
+  <text x="412" y="100" text-anchor="middle" font-size="12" fill="#334155">事務所</text>
+  <text x="412" y="175" text-anchor="middle" font-size="12" fill="#92400e">店舗（法27条用途）</text>
+  <text x="412" y="218" text-anchor="middle" font-size="13" font-weight="700" fill="#b91c1c">異種用途区画</text>
+  <text x="412" y="236" text-anchor="middle" font-size="11" fill="#334155">法27条に該当する部分と</text>
+  <text x="412" y="252" text-anchor="middle" font-size="11" fill="#334155">その他を区画（特定防火設備）</text>
+  <text x="250" y="284" text-anchor="middle" font-size="12" fill="#334155">区画の防火設備は遮煙性能・常時閉鎖または煙感知連動</text>
+</svg>

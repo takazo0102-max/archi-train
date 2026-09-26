@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">日影規制（法56条の2）</text>
+  <!-- 平面 -->
+  <rect x="20" y="50" width="250" height="180" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="120" y="150" width="60" height="50" fill="#334155"/>
+  <text x="150" y="180" text-anchor="middle" font-size="10" fill="#fff">建築物</text>
+  <!-- 敷地境界線 -->
+  <rect x="80" y="110" width="140" height="110" fill="none" stroke="#1e293b" stroke-width="1.5" stroke-dasharray="5 3"/>
+  <text x="150" y="104" text-anchor="middle" font-size="10" fill="#1e293b">敷地境界線</text>
+  <!-- 5m, 10m ライン -->
+  <rect x="55" y="80" width="190" height="140" fill="none" stroke="#f59e0b" stroke-width="1.5"/>
+  <rect x="30" y="58" width="240" height="162" fill="none" stroke="#ef4444" stroke-width="1.5"/>
+  <text x="250" y="90" text-anchor="end" font-size="10" fill="#b45309">5m線</text>
+  <text x="268" y="70" text-anchor="end" font-size="10" fill="#b91c1c">10m線</text>
+  <!-- 日影 -->
+  <polygon points="120,150 180,150 60,60 20,60" fill="#94a3b8" opacity="0.5"/>
+  <text x="70" y="75" font-size="10" fill="#1e293b">冬至日 8〜16時の日影</text>
+  <text x="145" y="245" text-anchor="middle" font-size="11" fill="#334155">5m超〜10m：例 5時間まで　10m超：例 3時間まで</text>
+  <text x="145" y="260" text-anchor="middle" font-size="11" fill="#334155">（地方公共団体の条例で指定）</text>
+  <!-- 右側ポイント -->
+  <g font-size="11" fill="#334155">
+    <rect x="285" y="50" width="200" height="220" fill="#fff" stroke="#94a3b8"/>
+    <text x="385" y="70" text-anchor="middle" font-weight="700" fill="#1e293b">測定・緩和のポイント</text>
+    <text x="295" y="92">● 測定面：平均地盤面から</text>
+    <text x="305" y="106">1.5m／4m／6.5m（条例で選択）</text>
+    <text x="295" y="128">● 冬至日の真太陽時 8時〜16時</text>
+    <text x="305" y="142">（北海道は 9時〜15時）</text>
+    <text x="295" y="164">● 道路等に接する境界：道路幅の1/2</text>
+    <text x="305" y="178">外側（幅10m超は反対側から5m）</text>
+    <text x="295" y="200">● 敷地が隣地より1m以上低い：</text>
+    <text x="305" y="214" textLength="175" lengthAdjust="spacingAndGlyphs">(高低差−1m)×1/2 だけ高いとみなす</text>
+    <text x="295" y="236">● 商業・工業・工専は対象外</text>
+    <text x="295" y="258">● 同一敷地内の複数棟は1棟とみなす</text>
+  </g>
+  <text x="250" y="290" text-anchor="middle" font-size="11" fill="#64748b">日影の範囲は建物の幅より高さの影響が大きい</text>
+</svg>

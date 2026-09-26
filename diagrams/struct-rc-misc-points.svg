@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">構造 RC・計算法のポイント</text>
+  <rect x="15" y="36" width="470" height="88" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="36" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="48" font-weight="700" fill="#1e3a8a">RC部材</text>
+    <text x="22" y="64">帯筋の拘束が大きいほど柱の圧縮耐力は大きく、最大耐力後の低下も緩やか</text>
+    <text x="22" y="80">せん断ひび割れが生じる部材：主筋応力一定とみなす範囲を除いて設計用付着応力度を算定</text>
+    <text x="22" y="96">柱抜けによるフィーレンディール架構：剛床を仮定せず、上下弦材の梁に軸力を考慮</text>
+    <text x="22" y="112">平面が細長い建築物の短辺方向地震：床を剛と仮定しない</text>
+  </g>
+  <rect x="15" y="130" width="470" height="88" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="130" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="142" font-weight="700" fill="#92400e">計算法・材料・天井</text>
+    <text x="22" y="158">限界耐力計算：地震に対し 損傷限界 と 安全限界 の2段階で確認</text>
+    <text x="22" y="174">TMCP鋼：板厚40mm超100mm以下でも基準強度を低減しない</text>
+    <text x="22" y="190">高強度コンクリート・高強度鉄筋の実用化 → 高さ100m超のRC造も建設</text>
+    <text x="22" y="206">既存建築物の特定天井：ネット・ワイヤーによる一時的な落下防止措置も許容</text>
+  </g>
+  <text x="250" y="292" text-anchor="middle" font-size="9.5" fill="#64748b">剛床を仮定しないケース：細長い平面・フィーレンディール</text>
+</svg>

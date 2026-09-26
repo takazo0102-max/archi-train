@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">壁体内の温度勾配と内部結露対策</text>
+  <!-- 壁体 -->
+  <rect x="180" y="60" width="140" height="170" fill="#ffffff" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="180" y="60" width="55" height="170" fill="#fde68a" opacity="0.5"/>
+  <text x="207" y="250" text-anchor="middle" font-size="11" fill="#92400e">断熱材</text>
+  <!-- 室内側ラベル（暖・高温） -->
+  <text x="120" y="100" text-anchor="middle" font-size="13" fill="#b91c1c" font-weight="700">室内</text>
+  <text x="120" y="118" text-anchor="middle" font-size="11" fill="#b91c1c">暖かい(高温)</text>
+  <!-- 室外側ラベル（寒・低温） -->
+  <text x="395" y="100" text-anchor="middle" font-size="13" fill="#1d4ed8" font-weight="700">室外</text>
+  <text x="395" y="118" text-anchor="middle" font-size="11" fill="#1d4ed8">寒い(低温)</text>
+  <!-- 温度勾配線 -->
+  <polyline points="180,80 235,95 320,200" fill="none" stroke="#ef4444" stroke-width="2.5"/>
+  <text x="330" y="200" font-size="11" fill="#ef4444">温度</text>
+  <!-- 防湿層（室内＝高温側） -->
+  <line x1="178" y1="60" x2="178" y2="230" stroke="#16a34a" stroke-width="5"/>
+  <text x="150" y="160" font-size="11" fill="#15803d" font-weight="700" transform="rotate(-90 150 160)">防湿層</text>
+  <text x="250" y="270" text-anchor="middle" font-size="13" fill="#334155" font-weight="700">防湿層は室内（高温）側に設けて、湿気の壁内侵入を防ぐ</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">建築士法の要点（業務・報告・契約）</text>
+  <rect x="15" y="34" width="470" height="100" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="8.8" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">設計・工事監理の義務</text>
+    <text x="22" y="62">設計図書＝図面（現寸図等を除く）＋仕様書 ／ 工事監理＝設計図書との照合・確認（指導監督は含まない）</text>
+    <text x="22" y="77">設計図書どおりでない → 施工者に注意 → 従わないときは「建築主」に報告（特定行政庁ではない）</text>
+    <text x="22" y="92">工事監理終了 → 直ちに建築主に報告 ／ 他の建築士の設計図書の変更は承諾（得られなければ自己責任で可）</text>
+    <text x="22" y="107">建築設備士の意見を聴いたとき → 設計図書・報告書にその旨を明記（義務）</text>
+    <text x="22" y="122">法令違反の設計の相談に応じることは禁止 ／ 建築主の故意の指示に従った建築士も罰則</text>
+  </g>
+  <rect x="15" y="142" width="470" height="86" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="142" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="8.8" fill="#334155">
+    <text x="22" y="154" font-weight="700" fill="#991b1b">資格・契約・図書</text>
+    <text x="22" y="170">構造設計一級：構造設計＋法適合確認に関与（工事監理は一級なら可）／ 設備設計一級は設備以外の設計もできる</text>
+    <text x="22" y="185">構造・設備設計一級建築士証：5年以上の実務＋講習修了（申請前1年以内）／ 業務種別の変更は30日以内に届出</text>
+    <text x="22" y="200">300m²超の設計・工事監理受託契約：書面を相互交付 ／ 報酬は告示98号の基準に準拠（努力義務）</text>
+    <text x="22" y="215">保存図書：設計図書と工事監理報告書 ／ 知識技能の維持向上・設計内容の説明は努力義務</text>
+  </g>
+  <rect x="15" y="236" width="470" height="40" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="236" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="9.0" fill="#334155">
+    <text x="22" y="248" font-weight="700" fill="#92400e">定期報告</text>
+    <text x="22" y="264">定期報告：3階以上・300m²以上の病院・診療所（収容施設あり）等 ／ 報告をしない所有者等は罰則</text>
+  </g>
+  <text x="15" y="292" font-size="10" fill="#b91c1c" font-weight="700">ひっかけ：報告先は建築主／仕様書は設計図書に含む／監理に指導監督は含まない</text>
+</svg>

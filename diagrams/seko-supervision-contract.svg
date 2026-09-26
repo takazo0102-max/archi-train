@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">監理業務委託契約と施工計画・各部の要点</text>
+  <rect x="15" y="34" width="470" height="100" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="9.0" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">四会連合協定 監理業務委託契約約款</text>
+    <text x="22" y="62">監理業務方針の説明を受けた委託者は 7日以内 に修正の協議を請求できる ／ 協議決定事項は速やかに書面化</text>
+    <text x="22" y="77">一部の再委託は委託者の承諾が必要（再委託先の行為は受託者の責任）／ 全部一括の再委託は不可</text>
+    <text x="22" y="92">原設計者と異なる建築士に監理を委託 → 設計変更は原設計者に別途委託（著作権・設計責任）</text>
+    <text x="22" y="107">双方無責の中断 → 遂行割合に応じて報酬請求 ／ 委託者に帰責事由がない不履行 → 損害賠償請求不可</text>
+    <text x="22" y="122">債務不履行 → 相当期間を定めて催告後に解除 ／ 業務委託書の変更 → 受託者は履行期間の変更を請求可</text>
+  </g>
+  <rect x="15" y="142" width="470" height="70" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="142" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="9.0" fill="#334155">
+    <text x="22" y="154" font-weight="700" fill="#991b1b">監理業務の実務</text>
+    <text x="22" y="170">工事の一時中止を命じる権限は発注者（監理者は報告）／ 関係機関の検査書類のとりまとめ・立会いは監理業務</text>
+    <text x="22" y="185">合格した材料と同種のものは証明書類＋抽出検査でよい ／ 概成工期＝総合試運転調整に支障のない完成期限</text>
+    <text x="22" y="200">遠隔臨場：施工者が実施計画書、監理者が対象工種・確認項目を指定 ／ 特許出願は発注者と協議</text>
+  </g>
+  <rect x="15" y="220" width="470" height="74" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="220" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="8.5" fill="#334155">
+    <text x="22" y="232" font-weight="700" fill="#92400e">各部工事の数値（木造・鉄骨・外装）</text>
+    <text x="22" y="248">木造：壁倍率2.0の片筋かいは 45×90mm（30×90は1.5）／ 出隅の通し柱と胴差は傾ぎ大入れ短ほぞ差し</text>
+    <text x="22" y="262">垂木はひねり金物 ／ 追掛け大栓継ぎの上木先端は柱心から150mm内外 ／ ねこ土台の換気 75cm²/m 以上</text>
+    <text x="22" y="276">鉄骨：高力ボルト孔はドリルが原則（レーザは±0.3mm）／ 摩擦面 50μmRz以上なら赤錆不要 ／ 貫通孔 D25→38mm</text>
+    <text x="22" y="290">鋼製手摺の伸縮 0.5mm/m（40℃差）・伸縮部 5〜10m ／ サッシ水抜き孔 径6mm以上 ／ ECP横張り 3枚ごと自重受け</text>
+  </g>
+</svg>

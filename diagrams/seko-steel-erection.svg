@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">鉄骨建方の手順と精度</text>
+  <g font-size="10" fill="#334155" text-anchor="middle">
+    <rect x="20" y="45" width="85" height="42" rx="6" fill="#fff" stroke="#0ea5e9" stroke-width="2"/><text x="62" y="63" font-weight="700">アンカー</text><text x="62" y="78">ボルト据付</text>
+    <rect x="125" y="45" width="85" height="42" rx="6" fill="#fff" stroke="#0ea5e9" stroke-width="2"/><text x="167" y="63" font-weight="700">柱・梁の</text><text x="167" y="78" textLength="78" lengthAdjust="spacingAndGlyphs">建方（仮ボルト）</text>
+    <rect x="230" y="45" width="85" height="42" rx="6" fill="#fff" stroke="#0ea5e9" stroke-width="2"/><text x="272" y="63" font-weight="700">建入れ直し</text><text x="272" y="78">ワイヤで修正</text>
+    <rect x="335" y="45" width="70" height="42" rx="6" fill="#fff" stroke="#0ea5e9" stroke-width="2"/><text x="370" y="63" font-weight="700">本締め</text><text x="370" y="78">高力ボルト</text>
+    <rect x="420" y="45" width="65" height="42" rx="6" fill="#fff" stroke="#0ea5e9" stroke-width="2"/><text x="452" y="63" font-weight="700">現場溶接</text><text x="452" y="78">柱継手</text>
+    <g stroke="#64748b" stroke-width="2"><line x1="105" y1="66" x2="125" y2="66"/><line x1="210" y1="66" x2="230" y2="66"/><line x1="315" y1="66" x2="335" y2="66"/><line x1="405" y1="66" x2="420" y2="66"/></g>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="98" width="460" height="130" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="116" font-weight="700" fill="#1e293b">建方精度の管理値（JASS 6）</text>
+    <text x="30" y="134">● 柱の倒れ：<tspan font-weight="700">H/1000 かつ 10mm以下</tspan>（限界許容差 H/700 かつ 15mm）</text>
+    <text x="30" y="152">● 建物の倒れ：H/4000 ＋ 7mm かつ 30mm以下（限界 H/2500 ＋ 10mm、50mm）</text>
+    <text x="30" y="170">● 階高：±5mm　● 梁の水平度：L/1000＋3mm以下　● 柱継手のずれ：e ≦ 3mm</text>
+    <text x="30" y="188">● アンカーボルトの位置：±5mm。ベースプレート下のモルタルは無収縮、厚さ 30〜50mm</text>
+    <text x="30" y="206">● 仮ボルト：中ボルトを本数の <tspan font-weight="700">1/3 以上かつ 2本以上</tspan>（混用接合は 1/2 以上）</text>
+    <text x="30" y="222" font-size="10" fill="#64748b">● 建入れ直しは各節ごとに。ターンバックル付き筋かいを建入れ直しに使わない</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="236" width="460" height="38" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="253" textLength="445" lengthAdjust="spacingAndGlyphs">● 強風（10分間平均 10m/s以上）・降雨・降雪時は建方を中止　● 玉掛けワイヤは安全係数 6以上</text>
+    <text x="30" y="269" font-size="10" fill="#64748b">● 高力ボルトは梁の中央から外へ締める。溶接は下層から上層へ・中央から外へ</text>
+  </g>
+  <text x="250" y="292" text-anchor="middle" font-size="10" fill="#64748b">柱の現場溶接：エレクションピースで固定 → 溶接後に切断・グラインダー仕上げ</text>
+</svg>

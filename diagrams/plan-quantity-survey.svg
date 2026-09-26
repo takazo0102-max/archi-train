@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">建築数量積算基準の要点（数量の種類・欠除・割増）</text>
+  <rect x="15" y="34" width="470" height="70" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">数量の種類</text>
+    <text x="22" y="62" textLength="458" lengthAdjust="spacingAndGlyphs">設計数量：設計図書の個数・寸法から求めた数量 ／ 計画数量：施工計画で求めた数量（仮設・土工）</text>
+    <text x="22" y="77">所要数量：設計数量に施工上の割増（切りむだ等）を加えた数量 → 材料価格に対応する数量</text>
+    <text x="22" y="92">直接仮設＝複数の工事科目で共通に使う仮設 ／ 専用仮設＝1つの工事科目で単独に使う仮設</text>
+  </g>
+  <rect x="15" y="112" width="470" height="86" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="112" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="10" fill="#334155">
+    <text x="22" y="124" font-weight="700" fill="#991b1b">「ないものとする」欠除の下限（1か所あたり）</text>
+    <text x="22" y="140">コンクリート：開口部の欠除 0.05m³以下 ／ 型枠：開口部の内法見付面積 0.5m²以下</text>
+    <text x="22" y="155">主仕上：器具類（衛生器具・換気孔等）による欠除 0.5m²以下 ／ 石材：開口 0.1m²以下</text>
+    <text x="22" y="170">鉄骨：ダクト孔等による鋼材の欠除 0.1m²以下 ／ 芝・植栽：桝・柱の欠除 0.5m²以下</text>
+    <text x="22" y="185">ガラス：かまち・方立・桟の見付幅 0.1m超 → その面積を差し引く</text>
+  </g>
+  <rect x="15" y="206" width="470" height="70" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="206" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10" fill="#334155">
+    <text x="22" y="218" font-weight="700" fill="#92400e">所要数量の割増・区分</text>
+    <text x="22" y="234">鉄筋 4%・形鋼/鋼板 5%・ボルト類は割増なし ／ 防水層も割増なし（重ね代は単価に含む）</text>
+    <text x="22" y="249">型枠：上面勾配 3/10超は型枠（上面処理）を計測 ／ 溶接はすみ肉脚長6mmの延べ長さに換算</text>
+    <text x="22" y="264">耐火被覆：材種・材質・工法・耐火時間・部位で区分 ／ 躯体は「さき」の部分に「あと」が接続</text>
+  </g>
+  <text x="15" y="292" font-size="10" fill="#b91c1c" font-weight="700">ひっかけ：鉄筋5%／コンクリート0.5m³／鉄骨0.5m²／防水5%割増 → すべて誤り</text>
+</svg>

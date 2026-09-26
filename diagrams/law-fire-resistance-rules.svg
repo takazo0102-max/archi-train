@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">耐火・準耐火構造の性能要件（令107条ほか）</text>
+  <rect x="15" y="36" width="470" height="88" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="36" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="48" font-weight="700" fill="#1e3a8a">耐火構造と準耐火構造の違い</text>
+    <text x="22" y="64">耐火構造：所定時間の火熱後、加熱終了後も 変形・溶融・破壊を生じない</text>
+    <text x="22" y="80">準耐火構造：加熱中（45分・60分等）の非損傷性。「加熱終了後」の要件はない</text>
+    <text x="22" y="96">不燃材料（外部仕上げ）：加熱開始後 20分間 燃焼せず有害な変形・溶融・き裂なし</text>
+    <text x="22" y="112">1時間耐火の木柱：強化せっこうボード 2枚以上、厚さ合計 46mm以上</text>
+  </g>
+  <rect x="15" y="130" width="470" height="52" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="130" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="142" font-weight="700" fill="#92400e">界壁（法30条）</text>
+    <text x="22" y="158">共同住宅の各戸の界壁：準耐火構造 かつ 小屋裏・天井裏に達する</text>
+    <text x="22" y="174">代替：遮音性能＋延焼防止性能をもつ 強化天井 なら天井裏に達しなくてよい</text>
+  </g>
+  <rect x="15" y="188" width="470" height="52" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="188" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="200" font-weight="700" fill="#991b1b">検証法・手続</text>
+    <text x="22" y="216">耐火性能検証法の可燃物発熱量：用途・床面積・内装の表面積・材料で算出</text>
+    <text x="22" y="232">営業継続しながら避難施設等の工事：安全上の措置の計画を 特定行政庁に届出（法90条の3）</text>
+  </g>
+  <text x="250" y="292" text-anchor="middle" font-size="9.5" fill="#64748b">耐火＝終了後も損傷なし／準耐火＝加熱中のみ</text>
+</svg>

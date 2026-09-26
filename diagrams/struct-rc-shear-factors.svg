@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">RC部材のせん断耐力を左右する要因</text>
+  <rect x="15" y="34" width="230" height="92" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="230" height="16" fill="#dbeafe"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">柱</text>
+    <text x="22" y="62">Fc（設計基準強度）大 → 大</text>
+    <text x="22" y="78" textLength="218" lengthAdjust="spacingAndGlyphs">軸方向圧縮応力度 大 → 大（0.4Fc以下の範囲）</text>
+    <text x="22" y="94">帯筋量 大 → 大 ／ せん断スパン比 小 → 大</text>
+    <text x="22" y="110">Fcを高くすると せん断圧縮破壊を防止</text>
+  </g>
+  <rect x="255" y="34" width="230" height="92" fill="#fff" stroke="#94a3b8"/>
+  <rect x="255" y="34" width="230" height="16" fill="#dbeafe"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="262" y="46" font-weight="700" fill="#1e3a8a">梁</text>
+    <text x="262" y="62">Fc 大・あばら筋 大 → 大</text>
+    <text x="262" y="78">せん断スパン比（M/Qd）小 → 大</text>
+    <text x="262" y="94">貫通孔を設ける → 小（開口補強が必要）</text>
+    <text x="262" y="110">スラブ筋量 大 → 曲げ終局モーメント 大</text>
+  </g>
+  <rect x="15" y="134" width="230" height="76" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="134" width="230" height="16" fill="#fee2e2"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="146" font-weight="700" fill="#991b1b">柱梁接合部</text>
+    <text x="22" y="162">Fc 大 → 大 ／ 取り付く梁の幅 大 → 大</text>
+    <text x="22" y="178">帯筋量 増 → ほぼ変わらない</text>
+    <text x="22" y="194">梁主筋量 増 → 変わらない（入力は増）</text>
+  </g>
+  <rect x="255" y="134" width="230" height="76" fill="#fff" stroke="#94a3b8"/>
+  <rect x="255" y="134" width="230" height="16" fill="#fee2e2"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="262" y="146" font-weight="700" fill="#991b1b">耐力壁</text>
+    <text x="262" y="162">壁筋比 大・引張側柱の主筋量 大 → 大</text>
+    <text x="262" y="178">軸方向圧縮力 大 → 大</text>
+    <text x="262" y="194">Fc 大 → 必要壁量を小さくできる</text>
+  </g>
+  <rect x="15" y="218" width="470" height="74" fill="#fff" stroke="#94a3b8"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="234" font-weight="700" fill="#1e293b">共通の考え方</text>
+    <text x="22" y="250">せん断耐力 ＝ コンクリート負担分（Fc・軸力・形状）＋ 補強筋負担分（帯筋・あばら筋）</text>
+    <text x="22" y="266">接合部は「コンクリートの有効断面」で決まり、帯筋・梁主筋の量ではほとんど変わらない</text>
+    <text x="22" y="282" fill="#b91c1c">せん断破壊は脆性的 → 曲げ降伏を先行させる（せん断余裕度 1.1倍以上など）</text>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">消防設備の役割と避難計画</text>
+  <rect x="15" y="36" width="470" height="72" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="36" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="48" font-weight="700" fill="#1e3a8a">特殊な消火・防火設備</text>
+    <text x="22" y="64">ドレンチャー設備：水幕で外部からの延焼を防止（重要文化財の社寺など）</text>
+    <text x="22" y="80">連結散水設備：地階の火災で消防ポンプ車から送水 → 天井面の散水ヘッドから放出</text>
+    <text x="22" y="96">消防用水：公設消防隊がポンプ車で吸い上げる水源。必要量は床面積（1・2階計）から</text>
+  </g>
+  <rect x="15" y="114" width="470" height="36" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="114" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="126" font-weight="700" fill="#92400e">避難計画</text>
+    <text x="22" y="142">超高層・医療福祉施設：一気に外へ避難できない → 途中階に一時待避スペース（付室等）</text>
+  </g>
+  <text x="250" y="292" text-anchor="middle" font-size="9.5" fill="#64748b">連結散水＝地階、ドレンチャー＝延焼防止</text>
+</svg>

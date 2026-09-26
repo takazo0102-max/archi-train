@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="30" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">ZEB（ネット・ゼロ・エネルギー・ビル）</text>
+  <!-- 建物 -->
+  <rect x="190" y="120" width="120" height="120" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <!-- 太陽光パネル（創エネ） -->
+  <polygon points="185,120 315,120 295,98 205,98" fill="#1e3a8a"/>
+  <g stroke="#3b82f6" stroke-width="1"><line x1="225" y1="98" x2="215" y2="120"/><line x1="250" y1="98" x2="245" y2="120"/><line x1="275" y1="98" x2="275" y2="120"/></g>
+  <!-- 窓（断熱）  -->
+  <rect x="210" y="150" width="35" height="35" fill="#bfdbfe" stroke="#60a5fa"/>
+  <rect x="255" y="150" width="35" height="35" fill="#bfdbfe" stroke="#60a5fa"/>
+  <!-- 省エネ 矢印（消費を減らす） -->
+  <g><text x="95" y="150" text-anchor="middle" font-size="14" fill="#15803d" font-weight="700">省エネ</text>
+     <text x="95" y="170" text-anchor="middle" font-size="11" fill="#15803d">断熱・高効率設備</text>
+     <line x1="120" y1="190" x2="180" y2="190" stroke="#16a34a" stroke-width="3"/><polygon points="180,190 170,185 170,195" fill="#16a34a"/></g>
+  <!-- 創エネ 矢印 -->
+  <g><text x="405" y="150" text-anchor="middle" font-size="14" fill="#ea580c" font-weight="700">創エネ</text>
+     <text x="405" y="170" text-anchor="middle" font-size="11" fill="#ea580c">太陽光発電 等</text>
+     <line x1="380" y1="190" x2="320" y2="190" stroke="#f59e0b" stroke-width="3"/><polygon points="320,190 330,185 330,195" fill="#f59e0b"/></g>
+  <text x="250" y="272" text-anchor="middle" font-size="13" fill="#334155" font-weight="700">省エネ＋創エネで、年間の一次エネルギー消費量の収支を正味ゼロに</text>
+</svg>

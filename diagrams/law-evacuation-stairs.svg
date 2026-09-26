@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">避難階段・避難安全検証法の要点</text>
+  <rect x="15" y="34" width="470" height="86" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="8.6" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">避難階段・出口の数値</text>
+    <text x="22" y="62">物販店舗（1,500m²超）：各階売場の直通階段は「すべて」避難階段・特別避難階段 ／ 5階以上は特別避難階段</text>
+    <text x="22" y="77">避難階段の幅の合計：直上階以上の最大床面積 100m²につき 60cm（地階は 100cm）／ 避難階の屋外出口も同じ</text>
+    <text x="22" y="92">15階以上の特別避難階段：階段室＋付室等の床面積 ≧ 居室面積の 3/100（百貨店等は 8/100）</text>
+    <text x="22" y="107">避難階段の出入口の戸：20分間の遮炎性能（防火設備）／ 集会場等の屋外出口は内開き禁止・敷地内通路 1.5m以上</text>
+  </g>
+  <rect x="15" y="128" width="470" height="86" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="128" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="9.0" fill="#334155">
+    <text x="22" y="140" font-weight="700" fill="#991b1b">避難安全検証法</text>
+    <text x="22" y="156">階避難安全検証法：各居室・各火災室ごとに階から安全に避難できることを検証（令129条の2）</text>
+    <text x="22" y="171">全館避難安全検証法：いずれの火災室でも在館者全員が地上まで避難できることを検証</text>
+    <text x="22" y="186">ルートB1（避難時間に基づく）／B2（煙・ガスの高さに基づく）／ 大臣認定（ルートC）</text>
+    <text x="22" y="201">準耐火構造の時間：通常火災終了時間と特定避難時間の「大きいほう」で決める</text>
+  </g>
+  <rect x="15" y="222" width="470" height="70" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="222" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="9.0" fill="#334155">
+    <text x="22" y="234" font-weight="700" fill="#92400e">区画・内装・その他</text>
+    <text x="22" y="250">防火上主要な間仕切壁（学校・老人ホーム等）：準耐火構造で小屋裏まで（強化天井なら不要）</text>
+    <text x="22" y="265">防火壁・防火床を貫通する管の隙間は不燃材料で埋める ／ 自動車車庫の内装は準不燃以上</text>
+    <text x="22" y="280">外部仕上げの準不燃材料に煙・ガスの要件はなし ／ 応急仮設建築物は法35条適用除外（3月超は許可）</text>
+  </g>
+</svg>

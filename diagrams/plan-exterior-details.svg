@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">外装・開口部の構法（ガラス・CW・雨仕舞）</text>
+  <rect x="15" y="34" width="470" height="70" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="9.6" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">ガラス</text>
+    <text x="22" y="62">Low-E複層：中空層側の面に金属膜 → 日射取得型／日射遮蔽型を使い分け</text>
+    <text x="22" y="77">倍強度ガラス：強化より強度は低いが粒状に割れず脱落しにくい ／ 合わせガラス：中間膜で飛散防止</text>
+    <text x="22" y="92">連窓（層間変位大）：ガラスが枠内で回転・移動できる余裕を確保 ／ 寒冷地タイルはⅠ類（磁器質）</text>
+  </g>
+  <rect x="15" y="112" width="470" height="100" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="112" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="9.6" fill="#334155">
+    <text x="22" y="124" font-weight="700" fill="#991b1b">カーテンウォール・雨仕舞</text>
+    <text x="22" y="140">オープンジョイント：内外を等圧にして重力排水（等圧空間は小さく・空気取入口は大きく）</text>
+    <text x="22" y="155">フィルドジョイント：シーリング材で塞ぐ（シーリング耐用 約10年 ＜ 外壁）</text>
+    <text x="22" y="170">層間変位への追従：下部固定・上部ファスナーをスライド（パネル方式）</text>
+    <text x="22" y="185">換気口のダクトは外壁へ下がり勾配 ／ 陸屋根はルーフドレン複数＋オーバーフロー管 ／ 霧除け庇</text>
+    <text x="22" y="200">折板は「山」でタイトフレームに固定（谷は水みち）／ 額縁の四隅は45°の留め加工</text>
+  </g>
+  <rect x="15" y="220" width="470" height="70" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="220" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="9.3" fill="#334155">
+    <text x="22" y="232" font-weight="700" fill="#92400e">特定天井・音・照明</text>
+    <text x="22" y="248">特定天井（仕様ルート）：壁との隙間 6cm以上＋斜め部材 ／ 遮音壁：スタッド千鳥＋GW（共通間柱×）</text>
+    <text x="22" y="263">固体伝搬音：スラブを小スパン・厚く ／ 凹曲面天井は音の焦点をつくる ／ 孔あき板＋空気層で低音吸音</text>
+    <text x="22" y="278">タスク・アンビエント：タスク照度を高く・アンビエントを低く ／ 作業面の均斉度を確保</text>
+  </g>
+</svg>

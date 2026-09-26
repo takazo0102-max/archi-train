@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">建築士の業務範囲（士法3条〜3条の3）</text>
+  <!-- 一級のみ -->
+  <rect x="20" y="42" width="460" height="86" rx="8" fill="#fee2e2" stroke="#ef4444" stroke-width="2"/>
+  <text x="30" y="60" font-size="13" font-weight="700" fill="#b91c1c">一級建築士のみ（3条）</text>
+  <g font-size="10.5" fill="#7f1d1d">
+    <text x="30" y="78">● 学校・病院・劇場・映画館・観覧場・公会堂・集会場（オーディトリアム有）・百貨店</text>
+    <text x="42" y="92">→ 延べ面積 500m²超</text>
+    <text x="30" y="106">● 木造：高さ13m超・軒高9m超　● RC造・S造等：延べ300m²超・高さ13m超・軒高9m超</text>
+    <text x="30" y="120">● 延べ面積 1,000m²超 かつ 階数2以上（用途を問わず）</text>
+  </g>
+  <!-- 一級または二級 -->
+  <rect x="20" y="136" width="460" height="58" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+  <text x="30" y="154" font-size="13" font-weight="700" fill="#b45309">一級 または 二級（3条の2）</text>
+  <g font-size="11" fill="#78350f">
+    <text x="30" y="172">● RC造・S造・石造・れんが造等：延べ30m²超 300m²以下</text>
+    <text x="30" y="187">● 延べ面積 100m²超（木造は300m²超）1,000m²以下 ／ 階数3以上</text>
+  </g>
+  <!-- 一級・二級・木造 -->
+  <rect x="20" y="202" width="460" height="44" rx="8" fill="#dcfce7" stroke="#22c55e" stroke-width="2"/>
+  <text x="30" y="220" font-size="13" font-weight="700" fill="#166534">一級・二級・木造建築士（3条の3）</text>
+  <text x="30" y="237" font-size="11" fill="#14532d">● 木造：延べ100m²超 300m²以下（階数2以下）</text>
+  <text x="250" y="266" text-anchor="middle" font-size="11" fill="#334155">上記未満（木造100m²以下等）は誰でも設計可。増改築は「その部分」の規模で判定</text>
+  <text x="250" y="282" text-anchor="middle" font-size="10.5" fill="#334155">構造設計一級：高さ60m超等は法適合確認　設備設計一級：3階以上かつ延べ5,000m²超</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">構造計画の要点（特定天井・PC・混合構造ほか）</text>
+  <rect x="15" y="34" width="470" height="86" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="9.5" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#991b1b">特定天井（天井脱落対策の技術基準）</text>
+    <text x="22" y="62">対象：吊り天井で 高さ6m超・水平投影面積200m²超・単位面積質量2kg/m²超（支持方式によらず）</text>
+    <text x="22" y="77">中地震（稀に生じる地震動）で損傷させない・それを超える地震でも脱落を低減</text>
+    <text x="22" y="92">構造方法は「隙間あり（6cm以上＋斜め部材）」と「隙間なし」。隙間なしでも安全性検証は必要</text>
+    <text x="22" y="107">既存建築物（増改築含む）：ネット・ワイヤーによる落下防止措置も許容</text>
+  </g>
+  <rect x="15" y="130" width="470" height="86" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="130" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="9.3" fill="#334155">
+    <text x="22" y="142" font-weight="700" fill="#1e3a8a">RC・PC・混合構造</text>
+    <text x="22" y="158">完全スリット：柱の剛性評価では腰壁を無視できるが、梁剛性には腰壁を考慮する</text>
+    <text x="22" y="173">連層耐力壁は両側に架構がある「中央部」が浮上りに有利 ／ 高強度材でRC造100m超も可能</text>
+    <text x="22" y="188">PC梁：復元力で残留変形はRCより小さい ／ プレストレス減少率：ポストテンション ＜ プレテンション</text>
+    <text x="22" y="203">RC柱＋S梁の混合構造：接合部の応力伝達に注意 ／ S造の床スラブはシアコネクターで水平力を伝達</text>
+  </g>
+  <rect x="15" y="222" width="470" height="74" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="222" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="9.3" fill="#334155">
+    <text x="22" y="234" font-weight="700" fill="#92400e">解析・設計の考え方</text>
+    <text x="22" y="250">P-Δ効果：水平変形が大きいと鉛直荷重による付加モーメントが無視できない</text>
+    <text x="22" y="264">柔床（剛床でない）場合：妻面耐力壁の負担せん断力は剛床仮定より小さい（中間架構が負担）</text>
+    <text x="22" y="278">エキスパンションで別棟：中地震時の変形で衝突しない隙間 ／ 1階床だけの地震力伝達は局部集中</text>
+    <text x="22" y="292">複雑な解析モデルでも検証は省略不可 ／ 耐震等級は3が最高 ／ 鋼管柱は fb＝ft（横座屈なし）</text>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="30" text-anchor="middle" font-size="19" font-weight="700" fill="#1e293b">採光が必要な居室・必要な開口部</text>
+
+  <!-- 採光義務あり -->
+  <rect x="30" y="55" width="225" height="210" rx="10" fill="#ecfdf5" stroke="#16a34a" stroke-width="2"/>
+  <text x="142" y="82" text-anchor="middle" font-size="15" fill="#15803d" font-weight="700">採光義務あり ◯</text>
+  <g font-size="13" fill="#166534">
+    <text x="50" y="112">・住宅の居室 …… 1/7 以上</text>
+    <text x="50" y="140">・学校の教室 …… 1/5 以上</text>
+    <text x="50" y="168">・病院・診療所の病室</text>
+    <text x="50" y="192">・寄宿舎の寝室、下宿の宿泊室</text>
+    <text x="50" y="216">・児童福祉施設等の居室</text>
+    <text x="50" y="244" fill="#15803d" font-weight="700">（法28条1項が定める居室）</text>
+  </g>
+
+  <!-- 採光義務なし -->
+  <rect x="270" y="55" width="200" height="210" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+  <text x="370" y="82" text-anchor="middle" font-size="15" fill="#b91c1c" font-weight="700">採光義務なし ✕</text>
+  <g font-size="13" fill="#991b1b">
+    <text x="290" y="114">・ホテル・旅館の客室</text>
+    <text x="290" y="142">・事務所</text>
+    <text x="290" y="170">・店舗</text>
+  </g>
+  <text x="370" y="216" text-anchor="middle" font-size="12" fill="#b91c1c">ホテル客室は建築基準法上の</text>
+  <text x="370" y="234" text-anchor="middle" font-size="12" fill="#b91c1c">採光義務の対象外（窓なしも可）</text>
+
+  <text x="250" y="288" text-anchor="middle" font-size="12" fill="#64748b">※ 換気は別規定（居室は換気上有効な開口部 1/20 以上 等）</text>
+</svg>

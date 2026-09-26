@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">左官・塗装・タイルの数字</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="40" width="225" height="120" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="58" font-weight="700" fill="#1e293b">左官（モルタル塗り）</text>
+    <text x="30" y="76">● 1回の塗厚 <tspan font-weight="700">7mm以下</tspan>、総厚 25mm以下</text>
+    <text x="30" y="94">● 下塗り→むら直し→中塗り→上塗り</text>
+    <text x="30" y="112" textLength="210" lengthAdjust="spacingAndGlyphs">● 下塗り後 2週間以上おき、ひび割れを出す</text>
+    <text x="30" y="130" textLength="210" lengthAdjust="spacingAndGlyphs">● 調合：下塗り 1:2.5（富調合）、上塗り 1:3</text>
+    <text x="30" y="148" textLength="210" lengthAdjust="spacingAndGlyphs">● セルフレベリング材：施工後は通風を避ける</text>
+    <rect x="255" y="40" width="230" height="120" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="265" y="58" font-weight="700" fill="#1e293b">塗装</text>
+    <text x="265" y="76">● 気温 <tspan font-weight="700">5℃以下</tspan>・湿度 85%以上は中止</text>
+    <text x="265" y="94" textLength="215" lengthAdjust="spacingAndGlyphs">● コンクリート素地：乾燥 <tspan font-weight="700">3〜4週</tspan>、pH 9以下</text>
+    <text x="265" y="112">● 鉄部：さび止め → 上塗り。素地ごしらえ</text>
+    <text x="265" y="130">● 木部：節止め・穴埋め・研磨 → 塗装</text>
+    <text x="265" y="148">● 塗り重ね間隔・希釈率は仕様どおりに</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="170" width="460" height="100" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="188" font-weight="700" fill="#1e293b">タイル張り</text>
+    <text x="30" y="206">● 改良圧着張り：下地とタイル裏の両方にモルタル。張付け可能時間 <tspan font-weight="700">30分</tspan></text>
+    <text x="30" y="224">● 密着張り（ヴィブラート）：振動機で埋め込む・上から下へ　● 接着剤張り：屋内</text>
+    <text x="30" y="242">● 伸縮調整目地：<tspan font-weight="700">3〜4m</tspan> ごと、下地の目地と一致させる</text>
+    <text x="30" y="260">● 検査：打診（全面）・引張接着試験 <tspan font-weight="700">0.4N/mm²以上</tspan>（100m²に1個）</text>
+  </g>
+  <text x="250" y="290" text-anchor="middle" font-size="10" fill="#64748b">剥落防止：下地の目荒し（MCR・超高圧洗浄）、モルタル塗厚の管理、有機系接着剤</text>
+</svg>

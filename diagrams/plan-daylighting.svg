@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="30" text-anchor="middle" font-size="20" font-weight="700" fill="#1e293b">美術館の採光</text>
+
+  <!-- 左：トップライト -->
+  <g>
+    <rect x="40" y="70" width="170" height="150" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+    <!-- 天窓の開口 -->
+    <rect x="105" y="62" width="40" height="10" fill="#fbbf24"/>
+    <!-- 光（中央床へ） -->
+    <polygon points="105,72 145,72 165,210 85,210" fill="#fde68a" opacity="0.7"/>
+    <text x="125" y="55" text-anchor="middle" font-size="13" fill="#b45309" font-weight="700">トップライト</text>
+    <text x="125" y="238" text-anchor="middle" font-size="13" fill="#334155">床が明るくなる</text>
+  </g>
+
+  <!-- 右：ハイサイドライト -->
+  <g>
+    <rect x="290" y="70" width="170" height="150" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+    <!-- 高窓（左上） -->
+    <rect x="290" y="80" width="10" height="34" fill="#fbbf24"/>
+    <!-- 光（対向壁へ均一に） -->
+    <polygon points="300,82 300,114 450,200 450,90" fill="#fde68a" opacity="0.7"/>
+    <!-- 照らされる壁 -->
+    <rect x="452" y="72" width="6" height="146" fill="#22c55e"/>
+    <text x="375" y="55" text-anchor="middle" font-size="13" fill="#b45309" font-weight="700">ハイサイドライト</text>
+    <text x="375" y="238" text-anchor="middle" font-size="13" fill="#16a34a" font-weight="700">壁面の照度が均一 ◎</text>
+  </g>
+
+  <text x="250" y="278" text-anchor="middle" font-size="14" fill="#475569">展示壁面を均一に照らすなら高窓（ハイサイドライト）</text>
+</svg>

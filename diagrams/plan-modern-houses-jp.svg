@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">戦後日本の住宅作品と建築書</text>
+  <rect x="15" y="34" width="470" height="96" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">1950〜60年代の住宅</text>
+    <text x="22" y="62">増沢邸（増沢洵 1952）：3間×3間・9坪の最小限住居、3坪の吹抜け</text>
+    <text x="22" y="78">斎藤助教授の家（清家清 1952）：移動畳で場面を設える「舗設」</text>
+    <text x="22" y="94">ヴィッラ・クゥクゥ（吉阪隆正 1957）：閉鎖的なワンルームのコンクリート住宅</text>
+    <text x="22" y="110">傘の家（篠原一男 1961）：正方形平面＋方形屋根＋傘の骨の木組 ←正面のない家と混同注意</text>
+    <text x="22" y="126">正面のない家-H（坂倉準三事務所 1962）：外部に閉じたコートハウス</text>
+  </g>
+  <rect x="15" y="134" width="470" height="80" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="134" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="146" font-weight="700" fill="#92400e">1970年代以降・海外</text>
+    <text x="22" y="162">まつかわぼっくす（宮脇檀）：RCの中に木構造の混構造コートハウス</text>
+    <text x="22" y="178">中野本町の家（伊東豊雄）：U字形平面の閉じた住宅 ←シルバーハット（鉄骨＋テント）と混同</text>
+    <text x="22" y="194">私たちの家（林昌二・林雅子）：CB造を増改築した夫婦2人の住まい</text>
+    <text x="22" y="210">バワ自邸 No.11：4軒長屋を改造し路地を回廊に／前川國男自邸：たてもの園へ移築</text>
+  </g>
+  <rect x="15" y="218" width="470" height="66" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="218" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="230" font-weight="700" fill="#991b1b">建築書・都市</text>
+    <text x="22" y="246">ジッテ『広場の造形』：中世の自然発生的広場を再評価／ミレトス：ヒッポダモスの格子状都市</text>
+    <text x="22" y="262">ロース『装飾と犯罪』（1908）：実用に資さない装飾は不要</text>
+    <text x="22" y="278">ギーディオン『空間・時間・建築』（1941）：近代建築を歴史の流れに位置づけ</text>
+  </g>
+  <text x="250" y="292" text-anchor="middle" font-size="9.5" fill="#64748b">作品名と特徴のすり替えに注意（傘の家／シルバーハット）</text>
+</svg>

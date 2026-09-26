@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <!-- 地面・芝 -->
+  <rect x="0" y="252" width="500" height="48" fill="#dCE8d2"/>
+  <line x1="0" y1="252" x2="500" y2="252" stroke="#b7cfa9" stroke-width="2"/>
+
+  <!-- ピロティ（細い独立柱） -->
+  <g fill="#e6ebf2" stroke="#9aa6b6" stroke-width="1.5">
+    <rect x="130" y="182" width="9" height="70"/>
+    <rect x="190" y="182" width="9" height="70"/>
+    <rect x="250" y="182" width="9" height="70"/>
+    <rect x="310" y="182" width="9" height="70"/>
+    <rect x="370" y="182" width="9" height="70"/>
+  </g>
+
+  <!-- 主階の白い箱 -->
+  <rect x="108" y="120" width="285" height="64" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <!-- 水平連続窓 -->
+  <rect x="120" y="138" width="261" height="24" fill="#aacbf0" stroke="#7aa7df" stroke-width="1.5"/>
+  <g stroke="#7aa7df" stroke-width="1">
+    <line x1="165" y1="138" x2="165" y2="162"/><line x1="210" y1="138" x2="210" y2="162"/>
+    <line x1="255" y1="138" x2="255" y2="162"/><line x1="300" y1="138" x2="300" y2="162"/>
+    <line x1="345" y1="138" x2="345" y2="162"/>
+  </g>
+
+  <!-- 屋上庭園のソラリウム（曲面壁） -->
+  <path d="M300,120 L300,92 Q300,80 312,80 L360,80 Q378,80 378,98 L378,120 Z" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+
+  <text x="250" y="282" text-anchor="middle" font-size="14" fill="#334155" font-weight="700">サヴォア邸 ― ピロティ・屋上庭園・水平連続窓（近代建築の五原則）</text>
+  <text x="250" y="26" text-anchor="middle" font-size="13" fill="#94a3b8">※ イメージイラスト</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">図書館計画の要点</text>
+  <rect x="20" y="42" width="220" height="140" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="28" y="50" width="66" height="46" fill="#fde68a"/><text x="61" y="77" text-anchor="middle" font-size="10" fill="#78350f">閉架書庫</text>
+  <rect x="102" y="50" width="130" height="46" fill="#dbeafe"/><text x="167" y="77" text-anchor="middle" font-size="10" fill="#1e3a8a">開架閲覧室</text>
+  <rect x="28" y="104" width="66" height="32" fill="#dcfce7"/><text x="61" y="124" text-anchor="middle" font-size="10" fill="#166534">児童室</text>
+  <rect x="102" y="104" width="62" height="32" fill="#fee2e2"/><text x="133" y="124" text-anchor="middle" font-size="9" fill="#7f1d1d">カウンター</text>
+  <rect x="172" y="104" width="60" height="32" fill="#e2e8f0"/><text x="202" y="124" text-anchor="middle" font-size="9" fill="#334155">レファレンス</text>
+  <rect x="28" y="144" width="204" height="28" fill="#f1f5f9"/><text x="130" y="162" text-anchor="middle" font-size="9" fill="#334155">入口・ブラウジング・BDS</text>
+  <text x="130" y="200" text-anchor="middle" font-size="10" fill="#334155">カウンターは出入口を見渡せる位置</text>
+  <text x="130" y="214" text-anchor="middle" font-size="10" fill="#334155">児童室は入口近く・別動線で</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="255" y="42" width="230" height="180" fill="#fff" stroke="#94a3b8"/>
+    <text x="370" y="60" text-anchor="middle" font-weight="700" fill="#1e293b">覚える数字</text>
+    <text x="263" y="80">● 開架：<tspan font-weight="700">150〜250 冊/m²</tspan></text>
+    <text x="263" y="98">● 閉架（固定）：<tspan font-weight="700">300〜400 冊/m²</tspan></text>
+    <text x="263" y="116">● 積層式 約500、移動式は約2倍</text>
+    <text x="263" y="134">● 書架間隔：開架 <tspan font-weight="700">1.5m以上</tspan>、閉架 1.2m</text>
+    <text x="263" y="152">● 閲覧席：1席 <tspan font-weight="700">1.5〜3.0m²</tspan></text>
+    <text x="263" y="170">● 児童用書架 <tspan font-weight="700">1.2m以下</tspan>、成人 1.8m</text>
+    <text x="263" y="188">● 照度：閲覧 500lx、書庫 200〜300lx</text>
+    <text x="263" y="206">● 閉架書庫の積載荷重は大きい</text>
+  </g>
+  <text x="250" y="244" text-anchor="middle" font-size="10.5" fill="#334155">貸出重視：自習室を設けず閲覧席は少なめ、開架を広く</text>
+  <text x="250" y="262" text-anchor="middle" font-size="10.5" fill="#334155">キャレル（個人席）は書架近くの静かな位置。レファレンスは職員の近く</text>
+  <text x="250" y="284" text-anchor="middle" font-size="10" fill="#64748b">BDS＝無断持出し防止装置（出入口）。移動図書館は分館の補完</text>
+</svg>

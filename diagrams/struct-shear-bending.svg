@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">曲げ降伏先行とせん断破壊</text>
+  <!-- 曲げ降伏（◯靭性） -->
+  <text x="135" y="58" text-anchor="middle" font-size="14" fill="#15803d" font-weight="700">曲げ降伏先行 ◯</text>
+  <rect x="60" y="75" width="150" height="55" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"/>
+  <g stroke="#16a34a" stroke-width="2"><line x1="95" y1="130" x2="95" y2="160"/><line x1="125" y1="130" x2="125" y2="160"/><line x1="155" y1="130" x2="155" y2="160"/></g>
+  <text x="135" y="178" text-anchor="middle" font-size="11" fill="#15803d">下端に縦のひび割れ（じわじわ）</text>
+  <text x="135" y="195" text-anchor="middle" font-size="11.5" fill="#15803d" font-weight="700">粘り強い（靭性あり）</text>
+
+  <line x1="250" y1="50" x2="250" y2="270" stroke="#cbd5e1" stroke-width="1.5"/>
+
+  <!-- せん断破壊（×脆性） -->
+  <text x="365" y="58" text-anchor="middle" font-size="14" fill="#b91c1c" font-weight="700">せん断破壊 ✕</text>
+  <rect x="290" y="75" width="150" height="55" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"/>
+  <g stroke="#dc2626" stroke-width="3"><line x1="320" y1="125" x2="360" y2="80"/><line x1="350" y1="125" x2="390" y2="80"/></g>
+  <text x="365" y="178" text-anchor="middle" font-size="11" fill="#b91c1c">斜めのひび割れ（急激）</text>
+  <text x="365" y="195" text-anchor="middle" font-size="11.5" fill="#b91c1c" font-weight="700">脆く一気に壊れる（脆性）</text>
+
+  <text x="250" y="240" text-anchor="middle" font-size="13" fill="#334155" font-weight="700">せん断破壊（脆性）を避け、曲げ降伏（靭性）が先行するよう設計</text>
+  <text x="250" y="262" text-anchor="middle" font-size="11" fill="#475569">せん断補強筋（あばら筋・帯筋）でせん断耐力と靭性を確保</text>
+</svg>

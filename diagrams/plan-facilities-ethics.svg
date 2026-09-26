@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">施設計画の要点と建築士の職責・倫理</text>
+  <rect x="15" y="34" width="470" height="86" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="8.6" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">文化・商業・スポーツ施設</text>
+    <text x="22" y="62">博物館の4部門：展示・収蔵・研究・管理 → 研究部門は収蔵部門に近接 ／ 収蔵庫：低湿・高湿＋前室（ならし室）</text>
+    <text x="22" y="77">サッカー場のフィールド長軸は南北（太陽の影響を避ける）／ 危険物貯蔵庫：軽量屋根で天井を設けない</text>
+    <text x="22" y="92">市庁舎：市民用・職員用・議会用の出入口を分ける ／ 義務教育学校：低学年専用の運動広場</text>
+    <text x="22" y="107">復元グローブ座：客席に張り出すオープンステージ ／ 図書館：朝霞（閲覧席充実）・苅田（多様な閲覧席）</text>
+  </g>
+  <rect x="15" y="128" width="470" height="86" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="128" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="8.6" fill="#334155">
+    <text x="22" y="140" font-weight="700" fill="#991b1b">安全・働き方</text>
+    <text x="22" y="156">滑り抵抗係数 C.S.R：同一床で差を大きくするとつまずく（差を小さく）／ 金属製誘導ブロックはノンスリップ</text>
+    <text x="22" y="171">避難経路：廊下（第1次安全区画）→ 付室（第2次）→ 特別避難階段 ／ 直通階段1つなら救出可能な退避区画</text>
+    <text x="22" y="186">屋上の緊急離着陸場（H）・緊急救助用スペース（R）／ 出火しやすい部分は区画・初期消火・不燃化</text>
+    <text x="22" y="201">ABW：業務に応じて働く場所を選ぶ ／ サードプレイス：自宅・職場以外の第3の居場所</text>
+  </g>
+  <rect x="15" y="222" width="470" height="72" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="222" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="8.6" fill="#334155">
+    <text x="22" y="234" font-weight="700" fill="#92400e">職責・倫理の用語</text>
+    <text x="22" y="250">公益確保の責務：公衆の安全・健康・福利を最優先 ／ アカウンタビリティ：専門家と非専門家の知識格差を埋める</text>
+    <text x="22" y="264">コンプライアンス：法令に限らず社会規範・倫理も対象 ／ モラルハザード：保険が起源・倫理観の欠如</text>
+    <text x="22" y="278">不遵守行為：意図的に法令等に従わない ／ リスクコミュニケーション：不都合な情報も共有</text>
+    <text x="22" y="292">違反建築の指示・相談は禁止（士法21条の3）／ 施工者としての違反も懲戒（士法10条）／ 地球環境・建築憲章</text>
+  </g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">非常用の進入口（令126条の6・7）</text>
+  <!-- 立面 -->
+  <rect x="30" y="50" width="160" height="220" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <g stroke="#94a3b8" stroke-width="1">
+    <line x1="30" y1="90" x2="190" y2="90"/><line x1="30" y1="130" x2="190" y2="130"/>
+    <line x1="30" y1="170" x2="190" y2="170"/><line x1="30" y1="210" x2="190" y2="210"/>
+  </g>
+  <rect x="30" y="90" width="160" height="120" fill="#fecaca" opacity="0.5"/>
+  <text x="110" y="74" text-anchor="middle" font-size="10" fill="#334155">31m超：不要（非常用EL側）</text>
+  <text x="110" y="115" text-anchor="middle" font-size="10" fill="#7f1d1d">3階以上 31m以下の各階</text>
+  <text x="110" y="150" text-anchor="middle" font-size="12" font-weight="700" fill="#b91c1c">設置が必要</text>
+  <text x="110" y="195" text-anchor="middle" font-size="10" fill="#7f1d1d">（3階）</text>
+  <text x="110" y="235" text-anchor="middle" font-size="10" fill="#334155">2階：不要</text>
+  <text x="110" y="262" text-anchor="middle" font-size="10" fill="#334155">1階（道に面する外壁）</text>
+  <line x1="20" y1="90" x2="20" y2="210" stroke="#ef4444" stroke-width="2"/>
+  <!-- 右側 -->
+  <g font-size="11" fill="#334155">
+    <rect x="210" y="50" width="275" height="105" fill="#fff" stroke="#94a3b8"/>
+    <text x="347" y="68" text-anchor="middle" font-weight="700" fill="#1e293b">進入口の構造（令126条の7）</text>
+    <text x="220" y="88">● 道又は幅員4m以上の通路に面する各階の外壁</text>
+    <text x="220" y="104">● 間隔 40m以下、幅75cm以上・高さ1.2m以上</text>
+    <text x="220" y="120" textLength="260" lengthAdjust="spacingAndGlyphs">● 下端の床からの高さ80cm以下、奥行1m・長さ4m以上のバルコニー</text>
+    <text x="220" y="136" textLength="260" lengthAdjust="spacingAndGlyphs">● 赤色灯（非常用の照明装置）＋赤色の表示（一辺20cmの逆三角形）</text>
+    <rect x="210" y="165" width="275" height="105" fill="#fff" stroke="#94a3b8"/>
+    <text x="347" y="183" text-anchor="middle" font-weight="700" fill="#1e293b">設けなくてよい場合（令126条の6）</text>
+    <text x="220" y="203">● 非常用エレベーターを設置している</text>
+    <text x="220" y="219">● 代替進入口：直径1m以上の円が内接できる窓</text>
+    <text x="230" y="235">又は幅75cm以上・高さ1.2m以上の窓を</text>
+    <text x="230" y="251">外壁面の長さ 10m以内ごとに設ける</text>
+    <text x="220" y="267">● 不燃性物品保管等、放射性物質等で進入不適</text>
+  </g>
+  <text x="250" y="290" text-anchor="middle" font-size="11" fill="#64748b">31m：非常用ELの設置基準（法34条2項）と同じ数字</text>
+</svg>

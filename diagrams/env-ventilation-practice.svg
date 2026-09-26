@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">換気計画の実務ポイント</text>
+  <rect x="15" y="34" width="470" height="72" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">温度差換気・給気口</text>
+    <text x="22" y="62">外気が室内より高温 → 外気は中性帯より 上 の開口から流入（低温なら下から）</text>
+    <text x="22" y="78">ソーラーチムニー：日射で暖めた縦シャフトの煙突効果で温度差換気を強化</text>
+    <text x="22" y="94">住宅の自然給気口：冷気ドラフトを避け 床上1.6m以上 の高い位置（×床面から0.5m以下）</text>
+  </g>
+  <rect x="15" y="110" width="470" height="88" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="110" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="122" font-weight="700" fill="#92400e">全般換気と局所換気</text>
+    <text x="22" y="138">全般換気＝室全体の空気を入れ替え希釈・拡散・排出／局所換気＝発生源近くで捕集</text>
+    <text x="22" y="154">ドラフトチャンバーの排気風量＝作業用開口面積 × 制御風速</text>
+    <text x="22" y="170">喫煙室境界の気流：喫煙室に向かって 0.2m/s以上</text>
+    <text x="22" y="186">フィルターの捕集率は測定法で異なる：質量法＞比色法＞計数法</text>
+  </g>
+  <rect x="15" y="202" width="470" height="72" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="202" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="214" font-weight="700" fill="#991b1b">厨房・ダクト</text>
+    <text x="22" y="230">営業用厨房：排気量を給気量より やや大きく（負圧、臭気を出さない）</text>
+    <text x="22" y="246">厨房排気は会議室等の排気とメインダクト兼用 不可（油煙・火災）</text>
+    <text x="22" y="262">避難階段室をやむを得ず通過するダクト：耐火構造の壁で囲う</text>
+  </g>
+  <text x="250" y="292" text-anchor="middle" font-size="9.5" fill="#64748b">「上から流入」「1.6m以上」「0.2m/s」「排気やや大」がキーワード</text>
+</svg>

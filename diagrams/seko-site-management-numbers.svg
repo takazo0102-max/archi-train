@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">現場管理の数値（環境・安全・許可）</text>
+  <rect x="15" y="34" width="470" height="100" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">環境関係</text>
+    <text x="22" y="62">騒音規制法の特定建設作業（くい打ち・削岩機・バックホウ等）：敷地境界で 85dB以下</text>
+    <text x="22" y="77">振動規制法：敷地境界で 75dB以下 ／ 作業時間・日数（連続6日）・日曜休日の制限あり</text>
+    <text x="22" y="92">産業廃棄物の委託：種類ごと・車両ごとにマニフェスト（運搬→処分→最終処分を確認）</text>
+    <text x="22" y="107">建設発生土 1,000m³以上の搬出：再生資源利用促進計画を作成し、記録は完成から5年保存</text>
+    <text x="22" y="122">排水基準（50m³/日以上）：pH 海域 5.0〜9.0／海域以外 5.8〜8.6</text>
+  </g>
+  <rect x="15" y="142" width="470" height="72" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="142" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="10" fill="#334155">
+    <text x="22" y="154" font-weight="700" fill="#991b1b">安全・体制</text>
+    <text x="22" y="170">特定元方事業者：統括安全衛生責任者＋元方安全衛生管理者（技術的事項を管理）を選任</text>
+    <text x="22" y="185">くい打機の巻上げ用ワイヤロープ：安全係数 6以上（切断荷重／最大荷重）</text>
+    <text x="22" y="200">建設業許可の有効期間 5年／更新は満了日の30日前までに申請</text>
+  </g>
+  <rect x="15" y="222" width="470" height="70" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="222" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10" fill="#334155">
+    <text x="22" y="234" font-weight="700" fill="#92400e">墨出し・検査</text>
+    <text x="22" y="250">上階の基準墨：建築物の四隅の床に穴を開け、下げ振り等で1階の基準墨を上げる</text>
+    <text x="22" y="265">監理者の遣方・墨出し検査：施工者と「異なる方法」で確認（同じ方法では誤りを見逃す）</text>
+    <text x="22" y="280">品質計画（材料・仕上げ程度・精度・管理体制）は施工者が作成し、監理者が妥当性を確認</text>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">バリアフリー法 建築物移動等円滑化基準の数値</text>
+  <rect x="15" y="36" width="470" height="88" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="36" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="48" font-weight="700" fill="#1e3a8a">客室・駐車施設（特別特定建築物・2,000m²以上）</text>
+    <text x="22" y="64">ホテル・旅館：客室総数50以上 → 車椅子使用者用客室を 1/100（端数切上げ）以上</text>
+    <text x="22" y="80">　例：120室→2室、150室→2室、49室以下は不要（×「総数にかかわらず1以上」）</text>
+    <text x="22" y="96">駐車場を設ける場合：車椅子使用者用駐車施設を 1以上</text>
+    <text x="22" y="112">　→ 利用居室までの経路が できるだけ短くなる位置 に</text>
+  </g>
+  <rect x="15" y="130" width="470" height="72" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="130" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="142" font-weight="700" fill="#92400e">移動等円滑化経路（敷地内の通路）</text>
+    <text x="22" y="158">幅 120cm以上、50m以内ごとに車椅子の転回に支障がない場所</text>
+    <text x="22" y="174">傾斜路の幅：段に代わるもの 120cm以上、段に併設 90cm以上</text>
+    <text x="22" y="190">傾斜路の勾配 1/12以下（高さ16cm以下なら1/8以下）</text>
+  </g>
+  <rect x="15" y="208" width="470" height="52" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="208" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="220" font-weight="700" fill="#991b1b">手続き</text>
+    <text x="22" y="236">特定建築物の建築等・維持保全の計画 → 所管行政庁の認定は 任意（申請できる）</text>
+    <text x="22" y="252">×「認定を申請しなければならない」</text>
+  </g>
+  <text x="250" y="292" text-anchor="middle" font-size="9.5" fill="#64748b">客室数は「50室以上で1/100・切上げ」がキーワード</text>
+</svg>

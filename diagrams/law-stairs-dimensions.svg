@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">階段の寸法（令23〜25条）</text>
+  <!-- 階段断面 -->
+  <g stroke="#1e293b" stroke-width="2" fill="none">
+    <path d="M30 200 L80 200 L80 170 L130 170 L130 140 L180 140 L180 110 L230 110"/>
+  </g>
+  <line x1="80" y1="170" x2="130" y2="170" stroke="#0ea5e9" stroke-width="3"/>
+  <text x="105" y="186" text-anchor="middle" font-size="11" font-weight="700" fill="#0369a1">踏面</text>
+  <line x1="130" y1="170" x2="130" y2="140" stroke="#ef4444" stroke-width="3"/>
+  <text x="150" y="160" font-size="11" font-weight="700" fill="#b91c1c">蹴上げ</text>
+  <g font-size="10" fill="#334155">
+    <text x="20" y="222">・踏面は踏み板の先端から先端で測る</text>
+    <text x="20" y="236">・回り階段は狭い側から30cmの位置</text>
+    <text x="20" y="250">・手すり等の出10cm以内は幅に算入しない</text>
+  </g>
+  <!-- 表 -->
+  <g font-size="10" fill="#334155">
+    <rect x="245" y="45" width="245" height="175" fill="#fff" stroke="#94a3b8"/>
+    <text x="255" y="62" font-weight="700" fill="#1e293b">用途</text>
+    <text x="395" y="62" text-anchor="middle" font-weight="700" fill="#1e293b">幅</text>
+    <text x="435" y="62" text-anchor="middle" font-weight="700" fill="#1e293b">蹴上</text>
+    <text x="472" y="62" text-anchor="middle" font-weight="700" fill="#1e293b">踏面</text>
+    <line x1="245" y1="68" x2="490" y2="68" stroke="#94a3b8"/>
+    <text x="255" y="84">小学校の児童用</text><text x="395" y="84" text-anchor="middle">140</text><text x="435" y="84" text-anchor="middle">16</text><text x="472" y="84" text-anchor="middle">26</text>
+    <text x="255" y="100">中高校・物販1,500m²超</text><text x="395" y="100" text-anchor="middle">140</text><text x="435" y="100" text-anchor="middle">18</text><text x="472" y="100" text-anchor="middle">26</text>
+    <text x="255" y="112" fill="#64748b">・劇場等の客用</text>
+    <text x="255" y="130">直上階の床面積200m²超</text><text x="395" y="130" text-anchor="middle">120</text><text x="435" y="130" text-anchor="middle">20</text><text x="472" y="130" text-anchor="middle">24</text>
+    <text x="255" y="142" fill="#64748b">・地階の床面積100m²超</text>
+    <text x="255" y="160">住宅（共同住宅の共用除く）</text><text x="395" y="160" text-anchor="middle">75</text><text x="435" y="160" text-anchor="middle">23</text><text x="472" y="160" text-anchor="middle">15</text>
+    <text x="255" y="178">上記以外</text><text x="395" y="178" text-anchor="middle">75</text><text x="435" y="178" text-anchor="middle">22</text><text x="472" y="178" text-anchor="middle">21</text>
+    <text x="255" y="198" fill="#64748b">単位 cm。幅・踏面は「以上」、蹴上げは「以下」</text>
+    <text x="255" y="212" fill="#64748b">直階段の踊場の踏幅 120cm以上</text>
+  </g>
+  <text x="250" y="270" text-anchor="middle" font-size="11" fill="#334155">踊場：高さ4m以内ごと（小中高・物販・劇場等は3m以内ごと）</text>
+  <text x="250" y="286" text-anchor="middle" font-size="11" fill="#334155">手すり：必須（高さ1m以下は除く）。幅3m超は中間手すり。傾斜路は勾配1/8以下</text>
+</svg>

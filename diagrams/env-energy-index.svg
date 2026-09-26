@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">省エネの指標（COP・BEI・PAL*）</text>
+  <g font-size="11" fill="#334155">
+    <rect x="20" y="40" width="225" height="100" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="58" font-weight="700" fill="#1e293b">COP（成績係数）</text>
+    <text x="30" y="78">COP ＝ 冷房（暖房）能力 ÷ 消費電力</text>
+    <text x="30" y="96" textLength="210" lengthAdjust="spacingAndGlyphs">ヒートポンプ暖房の COP ＝ 冷房 COP ＋ 1</text>
+    <text x="30" y="114">外気温が低いほど暖房 COP は下がる</text>
+    <text x="30" y="132" font-size="10" fill="#64748b">APF＝年間の総合効率（期間平均）</text>
+    <rect x="255" y="40" width="230" height="100" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="265" y="58" font-weight="700" fill="#1e293b">BEI（一次エネルギー消費量）</text>
+    <text x="265" y="78">BEI ＝ 設計値 ÷ 基準値（≦1.0 で適合）</text>
+    <text x="265" y="96">対象：空調・換気・照明・給湯・昇降機</text>
+    <text x="265" y="114">太陽光発電等の創エネ分は控除できる</text>
+    <text x="265" y="132" font-size="10" fill="#64748b">ZEB Ready：BEI 0.5以下、ZEB：0 以下</text>
+  </g>
+  <g font-size="11" fill="#334155">
+    <rect x="20" y="150" width="460" height="92" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="168" font-weight="700" fill="#1e293b">PAL*（外皮性能・非住宅）と UA・ηAC（住宅）</text>
+    <text x="30" y="188">● PAL*：ペリメータの年間熱負荷 ÷ ペリメータ床面積 [MJ/m²年]。小さいほど良い</text>
+    <text x="30" y="206" textLength="445" lengthAdjust="spacingAndGlyphs">● UA（外皮平均熱貫流率）小さいほど断熱◎／ηAC（冷房期日射熱取得率）小さいほど良い</text>
+    <text x="30" y="224">● 一次エネルギー換算：電気 9,760kJ/kWh（昼間9,970・夜間9,280）</text>
+    <text x="30" y="238" font-size="10" fill="#64748b">● 建築物省エネ法：2025年〜 原則すべての新築に適合義務（住宅含む）</text>
+  </g>
+  <text x="250" y="262" text-anchor="middle" font-size="10.5" fill="#334155">CASBEE：環境品質 Q ÷ 環境負荷 L ＝ BEE（大きいほど良い、S〜C の5段階）</text>
+  <text x="250" y="280" text-anchor="middle" font-size="10" fill="#64748b">LCCO₂：建設〜運用〜解体までの CO₂ 排出量。運用段階が最も大きい</text>
+  <text x="250" y="294" text-anchor="middle" font-size="10" fill="#64748b">BEMS：ビルのエネルギー管理システム。デマンド制御でピーク電力を抑える</text>
+</svg>

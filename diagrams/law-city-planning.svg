@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">都市計画法のしくみ</text>
+  <rect x="20" y="42" width="220" height="120" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="30" y="52" width="120" height="100" fill="#fecaca"/><text x="90" y="100" text-anchor="middle" font-size="11" font-weight="700" fill="#7f1d1d">市街化区域</text><text x="90" y="116" text-anchor="middle" font-size="9" fill="#7f1d1d">用途地域を定める</text>
+  <rect x="150" y="52" width="80" height="100" fill="#dcfce7"/><text x="190" y="96" text-anchor="middle" font-size="10" font-weight="700" fill="#166534">市街化</text><text x="190" y="110" text-anchor="middle" font-size="10" font-weight="700" fill="#166534">調整区域</text><text x="190" y="126" text-anchor="middle" font-size="8" fill="#166534">原則建築不可</text>
+  <text x="130" y="176" text-anchor="middle" font-size="10" fill="#334155">都市計画区域（線引き）</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="255" y="42" width="230" height="134" fill="#fff" stroke="#94a3b8"/>
+    <text x="370" y="60" text-anchor="middle" font-weight="700" fill="#1e293b">開発許可（29条）が必要な規模</text>
+    <text x="263" y="80" textLength="217" lengthAdjust="spacingAndGlyphs">● 市街化区域：<tspan font-weight="700">1,000m²以上</tspan>（三大都市圏 500）</text>
+    <text x="263" y="98">● 市街化調整区域：規模によらず必要</text>
+    <text x="263" y="116">● 非線引き・準都市計画区域：3,000m²以上</text>
+    <text x="263" y="134">● 都市計画区域外：1ha（10,000m²）以上</text>
+    <text x="263" y="152">● 開発行為＝建築物・特定工作物のための</text>
+    <text x="263" y="168">　土地の区画形質の変更（許可は知事）</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="184" width="460" height="86" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="202">● 用途地域 13種（住居系8・商業系2・工業系3）。市街化区域には必ず定める</text>
+    <text x="30" y="220">● 地域地区：高度地区（高さ）・高度利用地区（容積の最低限）・特定街区・防火地域など</text>
+    <text x="30" y="238">● 地区計画：地区整備計画で用途・形態・敷地等を細かく定める（30日前に市町村長へ届出）</text>
+    <text x="30" y="256">● 都市施設（道路・公園）の区域内の建築 → 知事等の許可（53条）。2階以下・木造等は可</text>
+  </g>
+  <text x="250" y="290" text-anchor="middle" font-size="10" fill="#64748b">決定権者：都市計画区域の指定は知事（複数県は国）、用途地域は市町村、区域区分は知事</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">液状化が起こりやすい地盤</text>
+  <!-- 地層 -->
+  <rect x="20" y="50" width="200" height="30" fill="#e2e8f0" stroke="#94a3b8"/>
+  <text x="120" y="70" text-anchor="middle" font-size="11" fill="#334155">表土・粘性土</text>
+  <rect x="20" y="80" width="200" height="110" fill="#fde68a" stroke="#f59e0b" stroke-width="2"/>
+  <text x="120" y="120" text-anchor="middle" font-size="12" font-weight="700" fill="#b45309">緩い砂質土（N値 ≦ 15程度）</text>
+  <text x="120" y="140" text-anchor="middle" font-size="11" fill="#78350f">地下水位以下・飽和</text>
+  <text x="120" y="158" text-anchor="middle" font-size="11" fill="#78350f">粒径が揃った細砂〜中砂</text>
+  <line x1="20" y1="95" x2="220" y2="95" stroke="#0ea5e9" stroke-width="2" stroke-dasharray="6 3"/>
+  <text x="215" y="92" text-anchor="end" font-size="10" fill="#0369a1">▽ 地下水位</text>
+  <rect x="20" y="190" width="200" height="40" fill="#cbd5e1" stroke="#94a3b8"/>
+  <text x="120" y="214" text-anchor="middle" font-size="11" fill="#334155">支持層</text>
+  <!-- 条件 -->
+  <g font-size="11" fill="#334155">
+    <rect x="240" y="45" width="245" height="190" fill="#fff" stroke="#94a3b8"/>
+    <text x="362" y="64" text-anchor="middle" font-weight="700" fill="#1e293b">判定の目安</text>
+    <text x="250" y="84">● 地表から <tspan font-weight="700">20m以浅</tspan> の沖積層</text>
+    <text x="250" y="102">● 地下水位が浅い（<tspan font-weight="700">10m以浅</tspan>）</text>
+    <text x="250" y="120">● 細粒分含有率 <tspan font-weight="700">35%以下</tspan> の砂質土</text>
+    <text x="250" y="138">● N値が小さい（緩い）</text>
+    <text x="250" y="156">● 粘性土（粘土分多い）は起こりにくい</text>
+    <text x="250" y="178" font-weight="700" fill="#1e293b">対策</text>
+    <text x="250" y="196">● 締固め（サンドコンパクション）</text>
+    <text x="250" y="212">● 排水（グラベルドレーン）・地下水位低下</text>
+    <text x="250" y="228">● 固化改良・杭で支持層に支持</text>
+  </g>
+  <text x="250" y="258" text-anchor="middle" font-size="11" fill="#334155">現象：地震の繰返しせん断で間隙水圧が上昇 → 有効応力ゼロ → 噴砂・沈下・側方流動</text>
+  <text x="250" y="276" text-anchor="middle" font-size="11" fill="#334155">FL値 ＝ 液状化抵抗比 R ÷ 地震時せん断応力比 L。FL ≦ 1.0 で液状化と判定</text>
+  <text x="250" y="292" text-anchor="middle" font-size="10" fill="#64748b">杭は液状化層で水平抵抗を失う → 曲げが増大。摩擦杭は支持力低下</text>
+</svg>

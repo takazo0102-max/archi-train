@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">座屈長さ lk と弾性座屈荷重 Pe＝π²EI／lk²</text>
+  <g stroke="#1e293b" stroke-width="3" fill="none">
+    <!-- 両端ピン -->
+    <path d="M70,80 Q95,150 70,220" stroke="#0ea5e9"/>
+    <line x1="70" y1="80" x2="70" y2="220" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <!-- 両端固定 -->
+    <path d="M180,80 Q180,110 195,150 Q180,190 180,220" stroke="#0ea5e9"/>
+    <line x1="165" y1="80" x2="195" y2="80"/><line x1="165" y1="220" x2="195" y2="220"/>
+    <!-- 一端固定・他端ピン -->
+    <path d="M290,80 Q315,140 290,220" stroke="#0ea5e9"/>
+    <line x1="275" y1="220" x2="305" y2="220"/>
+    <!-- 一端固定・他端自由 -->
+    <path d="M400,220 Q400,150 435,80" stroke="#0ea5e9"/>
+    <line x1="385" y1="220" x2="415" y2="220"/>
+  </g>
+  <g fill="#1e293b">
+    <circle cx="70" cy="80" r="5"/><circle cx="70" cy="220" r="5"/><circle cx="290" cy="80" r="5"/>
+  </g>
+  <g font-size="12" text-anchor="middle" fill="#334155">
+    <text x="70" y="245">両端ピン</text><text x="70" y="262" font-weight="700" fill="#0369a1">lk＝1.0 l</text><text x="70" y="278">Pe＝1</text>
+    <text x="180" y="245">両端固定</text><text x="180" y="262" font-weight="700" fill="#0369a1">lk＝0.5 l</text><text x="180" y="278">Pe＝4倍</text>
+    <text x="290" y="245">一端固定・他端ピン</text><text x="290" y="262" font-weight="700" fill="#0369a1">lk＝0.7 l</text><text x="290" y="278">Pe≒2倍</text>
+    <text x="410" y="245">一端固定・他端自由</text><text x="410" y="262" font-weight="700" fill="#0369a1">lk＝2.0 l</text><text x="410" y="278">Pe＝1/4</text>
+  </g>
+  <text x="250" y="58" text-anchor="middle" font-size="12" fill="#334155">lk が短いほど座屈しにくい。横移動が拘束されないラーメンの柱は lk ≧ 節点間距離</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="30" text-anchor="middle" font-size="20" font-weight="700" fill="#1e293b">接道義務</text>
+
+  <!-- 道路 -->
+  <rect x="40" y="205" width="420" height="50" fill="#cbd5e1"/>
+  <line x1="40" y1="230" x2="460" y2="230" stroke="#fff" stroke-width="2" stroke-dasharray="14 10"/>
+  <text x="250" y="278" text-anchor="middle" font-size="14" fill="#475569">道路（原則 幅員 4m 以上）</text>
+
+  <!-- 幅員4mの寸法 -->
+  <g stroke="#334155" stroke-width="1.5" fill="#334155">
+    <line x1="58" y1="205" x2="58" y2="255"/>
+    <polygon points="58,205 53,216 63,216"/>
+    <polygon points="58,255 53,244 63,244"/>
+  </g>
+  <text x="70" y="234" font-size="12" fill="#334155">4m以上</text>
+
+  <!-- 敷地 -->
+  <rect x="160" y="80" width="180" height="125" fill="#ecfccb" stroke="#65a30d" stroke-width="2"/>
+  <text x="250" y="100" text-anchor="middle" font-size="14" fill="#4d7c0f" font-weight="700">敷地</text>
+  <!-- 建物 -->
+  <rect x="205" y="115" width="90" height="70" fill="#60a5fa" stroke="#2563eb" stroke-width="2"/>
+  <text x="250" y="156" text-anchor="middle" font-size="13" fill="#fff" font-weight="700">建築物</text>
+
+  <!-- 接道長さ 2m以上（敷地と道路の接する辺） -->
+  <g stroke="#dc2626" stroke-width="3" fill="#dc2626">
+    <line x1="200" y1="205" x2="300" y2="205"/>
+    <polygon points="200,205 211,200 211,210"/>
+    <polygon points="300,205 289,200 289,210"/>
+  </g>
+  <text x="250" y="198" text-anchor="middle" font-size="13" fill="#dc2626" font-weight="700">2m以上 接する</text>
+</svg>

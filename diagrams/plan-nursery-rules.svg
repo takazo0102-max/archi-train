@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">保育所・幼稚園・こども園の計画</text>
+  <rect x="15" y="36" width="470" height="88" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="36" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="48" font-weight="700" fill="#1e3a8a">幼稚園・保育所の基準</text>
+    <text x="22" y="64">園舎は原則2階建て以下、園庭は園舎と同一敷地内</text>
+    <text x="22" y="80">飲料水用設備は手洗い・足洗い用と 別 に設ける</text>
+    <text x="22" y="96">自園調理が原則 → 独立した調理室（25人でも必要）</text>
+    <text x="22" y="112">3階に保育室：屋内避難階段に隣接した付室を待避スペースに</text>
+  </g>
+  <rect x="15" y="130" width="470" height="72" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="130" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="142" font-weight="700" fill="#92400e">生活と動線</text>
+    <text x="22" y="158">食事のための空間は保育室と分ける（生活リズムを尊重）</text>
+    <text x="22" y="174">トイレは保育室ごと（または隣接）に設け移動距離を短く</text>
+    <text x="22" y="190">幼保連携型認定こども園：遊戯室・調理室・管理諸室・屋外環境は共用可</text>
+  </g>
+  <rect x="15" y="208" width="470" height="36" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="208" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="220" font-weight="700" fill="#991b1b">学校（防災）</text>
+    <text x="22" y="236">屋外プールの水：可搬式ポンプでトイレ洗浄水・消火に利用できる計画に</text>
+  </g>
+  <text x="250" y="292" text-anchor="middle" font-size="9.5" fill="#64748b">「別に設ける」「保育室ごと」「共用できる」を押さえる</text>
+</svg>

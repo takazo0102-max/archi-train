@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">居室の採光・換気・天井高・地階</text>
+  <!-- 断面 -->
+  <rect x="20" y="42" width="200" height="130" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="150" y="60" width="12" height="90" fill="#bae6fd" stroke="#0369a1"/>
+  <text x="156" y="55" text-anchor="middle" font-size="8" fill="#0369a1">窓</text>
+  <line x1="30" y1="150" x2="150" y2="150" stroke="#1e293b" stroke-width="2"/>
+  <line x1="30" y1="60" x2="150" y2="60" stroke="#1e293b" stroke-width="2"/>
+  <line x1="40" y1="60" x2="40" y2="150" stroke="#ef4444" stroke-width="1.5" stroke-dasharray="3 2"/>
+  <text x="48" y="108" font-size="9" fill="#b91c1c">天井高 2.1m以上（平均）</text>
+  <text x="120" y="165" text-anchor="middle" font-size="9" fill="#334155">床面積 A・有効開口 S</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="235" y="42" width="250" height="130" fill="#fff" stroke="#94a3b8"/>
+    <text x="360" y="60" text-anchor="middle" font-weight="700" fill="#1e293b">有効開口面積 ÷ 床面積</text>
+    <text x="243" y="80">● 採光：住宅の居室 <tspan font-weight="700">1/7</tspan>（照明併用で 1/10）</text>
+    <text x="243" y="96">　学校の教室・保育所 1/5、病室・寄宿舎 1/7</text>
+    <text x="243" y="112">　（採光補正係数 × 開口面積 ＝ 有効面積）</text>
+    <text x="243" y="130">● 換気：<tspan font-weight="700">1/20</tspan> 以上（機械換気で代替可）</text>
+    <text x="243" y="148">● 排煙上有効な開口：1/50（法35条系）</text>
+    <text x="243" y="164">● 無窓居室 → 避難規定が厳しくなる</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="180" width="460" height="90" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="198">● 天井高 2.1m以上（違うときは平均）。床の高さ：木造は直下の地面から 45cm以上</text>
+    <text x="30" y="216">● 地階の居室（住宅・学校・病院）：からぼりに面する開口／換気設備／湿度調節＋防水</text>
+    <text x="30" y="234">● 地階＝床が地盤面下、天井までの高さの 1/3以上が地盤面下</text>
+    <text x="30" y="252">● シックハウス：クロルピリホス禁止、ホルムアルデヒド F☆☆☆☆、24時間換気 0.5回/h</text>
+    <text x="30" y="266" font-size="10" fill="#64748b">● 採光補正係数：D/H × 係数 − 定数（住居系 6・1.4、工業系 8・1、商業系 10・1）</text>
+  </g>
+  <text x="250" y="290" text-anchor="middle" font-size="10" fill="#64748b">ふすま等で仕切られた2室は1室とみなして採光・換気を計算できる（法28条4項）</text>
+</svg>

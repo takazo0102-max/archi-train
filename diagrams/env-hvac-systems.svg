@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">空調方式の比較</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="40" width="460" height="152" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="58" font-weight="700" fill="#1e293b">方式</text>
+    <text x="150" y="58" font-weight="700" fill="#1e293b">熱の運び方</text>
+    <text x="300" y="58" font-weight="700" fill="#1e293b">特徴</text>
+    <line x1="20" y1="64" x2="480" y2="64" stroke="#94a3b8"/>
+    <text x="30" y="82" font-weight="700">定風量 CAV</text><text x="150" y="82">空気（風量一定）</text><text x="300" y="82">大空間向き・部分負荷に弱い</text>
+    <text x="30" y="100" font-weight="700">変風量 VAV</text><text x="150" y="100">空気（風量を変える）</text><text x="300" y="100">搬送動力を削減・低負荷で換気不足</text>
+    <text x="30" y="118" font-weight="700">ファンコイル＋外調機</text><text x="150" y="118">水＋空気（空気水方式）</text><text x="300" y="118" textLength="175" lengthAdjust="spacingAndGlyphs">ペリメータ処理・ダクト小・個別制御</text>
+    <text x="30" y="136" font-weight="700">パッケージ（ビルマル）</text><text x="150" y="136">冷媒</text><text x="300" y="136">個別運転◎・外気は別途（全熱交換）</text>
+    <text x="30" y="154" font-weight="700">放射（輻射）冷暖房</text><text x="150" y="154">水（天井・床パネル）</text><text x="300" y="154" textLength="175" lengthAdjust="spacingAndGlyphs">気流感なし・結露に注意（除湿併用）</text>
+    <text x="30" y="172" font-weight="700">床吹出し・置換換気</text><text x="150" y="172">空気（低速・低温差）</text><text x="300" y="172">居住域だけ空調・二重床・省エネ</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="200" width="460" height="72" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="218">● 冷房負荷：日射・貫流・内部発熱（人・照明・OA）・外気。外気は顕熱＋潜熱</text>
+    <text x="30" y="236">● ペリメータ（外周部）とインテリア（内部）でゾーニング。方位別にも分ける</text>
+    <text x="30" y="254">● 蓄熱槽（夜間電力）・コージェネ・全熱交換器は省エネ手法。CO₂制御で外気を絞る</text>
+    <text x="30" y="268" font-size="10" fill="#64748b">● 顕熱比 SHF＝顕熱／全熱。空気線図で状態変化（冷却減湿・加熱・混合）を追う</text>
+  </g>
+  <text x="250" y="290" text-anchor="middle" font-size="10" fill="#64748b">熱源：冷凍機（ターボ・吸収式）＋冷却塔／ヒートポンプ／地域冷暖房。吸収式は電力ピーク削減</text>
+</svg>

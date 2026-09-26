@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">温熱環境の6要素</text>
+  <!-- 人 -->
+  <circle cx="250" cy="120" r="20" fill="#64748b"/>
+  <rect x="236" y="138" width="28" height="60" rx="8" fill="#64748b"/>
+  <!-- 環境側4要素 -->
+  <g font-size="13" font-weight="700">
+    <rect x="40" y="60" width="110" height="30" rx="15" fill="#dbeafe" stroke="#60a5fa"/><text x="95" y="80" text-anchor="middle" fill="#1e40af">気温</text>
+    <rect x="350" y="60" width="110" height="30" rx="15" fill="#dbeafe" stroke="#60a5fa"/><text x="405" y="80" text-anchor="middle" fill="#1e40af">湿度</text>
+    <rect x="40" y="150" width="110" height="30" rx="15" fill="#dbeafe" stroke="#60a5fa"/><text x="95" y="170" text-anchor="middle" fill="#1e40af">気流</text>
+    <rect x="350" y="150" width="110" height="30" rx="15" fill="#dbeafe" stroke="#60a5fa"/><text x="405" y="170" text-anchor="middle" fill="#1e40af">放射（熱）</text>
+  </g>
+  <!-- 人体側2要素 -->
+  <g font-size="13" font-weight="700">
+    <rect x="120" y="220" width="120" height="30" rx="15" fill="#fef3c7" stroke="#f59e0b"/><text x="180" y="240" text-anchor="middle" fill="#92400e">代謝量(met)</text>
+    <rect x="260" y="220" width="120" height="30" rx="15" fill="#fef3c7" stroke="#f59e0b"/><text x="320" y="240" text-anchor="middle" fill="#92400e">着衣量(clo)</text>
+  </g>
+  <text x="250" y="285" text-anchor="middle" font-size="12" fill="#475569">環境側4（気温・湿度・気流・放射）＋人体側2（代謝・着衣）＝6要素</text>
+</svg>

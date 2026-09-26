@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">構造計算のルート（令81〜82条）</text>
+  <!-- 高さ軸 -->
+  <g font-size="11" fill="#334155">
+    <rect x="20" y="40" width="150" height="60" rx="8" fill="#dcfce7" stroke="#22c55e" stroke-width="2"/>
+    <text x="95" y="60" text-anchor="middle" font-weight="700" fill="#166534">ルート1（許容応力度）</text>
+    <text x="95" y="76" text-anchor="middle" font-size="10">高さ31m以下の小規模等</text>
+    <text x="95" y="90" text-anchor="middle" font-size="10">一次設計のみ</text>
+
+    <rect x="175" y="40" width="150" height="60" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+    <text x="250" y="60" text-anchor="middle" font-weight="700" fill="#b45309">ルート2（許容応力度等）</text>
+    <text x="250" y="76" text-anchor="middle" font-size="10">高さ31m以下</text>
+    <text x="250" y="90" text-anchor="middle" font-size="10">層間変形角・剛性率・偏心率</text>
+
+    <rect x="330" y="40" width="150" height="60" rx="8" fill="#fee2e2" stroke="#ef4444" stroke-width="2"/>
+    <text x="405" y="60" text-anchor="middle" font-weight="700" fill="#b91c1c">ルート3（保有水平耐力）</text>
+    <text x="405" y="76" text-anchor="middle" font-size="10">高さ31m超 60m以下</text>
+    <text x="405" y="90" text-anchor="middle" font-size="10">Qu ≧ Qun = Ds・Fes・Qud</text>
+  </g>
+  <text x="250" y="118" text-anchor="middle" font-size="10" fill="#64748b">高さ60m超 → 時刻歴応答解析（大臣認定）　／　限界耐力計算はルートによらず選択可</text>
+  <!-- 判定値 -->
+  <g font-size="11" fill="#334155">
+    <rect x="20" y="130" width="460" height="130" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="150" font-weight="700" fill="#1e293b">二次設計の判定値（令82条の2・82条の6）</text>
+    <text x="30" y="170">● 層間変形角 ≦ <tspan font-weight="700" fill="#b45309">1/200</tspan>（帳壁等に支障がなければ 1/120 まで緩和）</text>
+    <text x="30" y="190">● 剛性率 Rs ≧ <tspan font-weight="700" fill="#b45309">0.6</tspan>（各階の層間変形角の逆数 ÷ 全階平均）→ 小さい階＝柔らかい</text>
+    <text x="30" y="210">● 偏心率 Re ≦ <tspan font-weight="700" fill="#b45309">0.15</tspan>（偏心距離 ÷ 弾力半径）→ 剛心と重心のずれ</text>
+    <text x="30" y="230">● 満たさない場合 → ルート3で保有水平耐力を確認（Fes：Fe×Fs で必要耐力を割増）</text>
+    <text x="30" y="250">● Ds（構造特性係数）：靭性が高いほど小さい（RC 0.3〜0.55、S 0.25〜0.5）</text>
+  </g>
+  <text x="250" y="280" text-anchor="middle" font-size="10.5" fill="#334155">一次設計＝中地震で損傷しない（許容応力度）／二次設計＝大地震で倒壊しない（耐力・変形）</text>
+  <text x="250" y="294" text-anchor="middle" font-size="10" fill="#64748b">Qud：大地震時の地震力（C0＝1.0）　Qun：必要保有水平耐力　Qu：保有水平耐力</text>
+</svg>

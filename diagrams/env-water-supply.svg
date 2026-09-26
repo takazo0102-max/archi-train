@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">給水方式</text>
+
+  <!-- 直結増圧方式 -->
+  <text x="130" y="56" text-anchor="middle" font-size="13" fill="#1e293b" font-weight="700">直結増圧方式</text>
+  <rect x="80" y="70" width="100" height="150" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <g stroke="#3b82f6" stroke-width="3" fill="none"><line x1="60" y1="210" x2="100" y2="210"/><line x1="100" y1="210" x2="100" y2="80"/></g>
+  <circle cx="100" cy="190" r="11" fill="#3b82f6"/><text x="100" y="194" text-anchor="middle" font-size="9" fill="#fff" font-weight="700">P</text>
+  <text x="130" y="245" text-anchor="middle" font-size="11" fill="#475569">増圧ポンプで直送</text>
+  <text x="130" y="262" text-anchor="middle" font-size="11" fill="#15803d" font-weight="700">水槽なし・汚染少</text>
+
+  <!-- 高置水槽方式 -->
+  <text x="370" y="56" text-anchor="middle" font-size="13" fill="#1e293b" font-weight="700">高置水槽方式</text>
+  <rect x="320" y="70" width="100" height="150" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="335" y="58" width="70" height="22" fill="#bfdbfe" stroke="#3b82f6"/><text x="370" y="74" text-anchor="middle" font-size="9" fill="#1e40af">高置水槽</text>
+  <rect x="300" y="222" width="50" height="22" fill="#bfdbfe" stroke="#3b82f6"/><text x="325" y="238" text-anchor="middle" font-size="9" fill="#1e40af">受水槽</text>
+  <g stroke="#3b82f6" stroke-width="3" fill="none"><line x1="325" y1="222" x2="325" y2="80"/></g>
+  <circle cx="325" cy="200" r="11" fill="#3b82f6"/><text x="325" y="204" text-anchor="middle" font-size="9" fill="#fff" font-weight="700" textLength="4" lengthAdjust="spacingAndGlyphs">P</text>
+  <g stroke="#60a5fa" stroke-width="3" fill="none"><line x1="405" y1="80" x2="405" y2="210"/></g>
+  <polygon points="405,210 400,200 410,200" fill="#60a5fa"/>
+  <text x="370" y="262" text-anchor="middle" font-size="11" fill="#475569">屋上タンクから重力給水</text>
+</svg>

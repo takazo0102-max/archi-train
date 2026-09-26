@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">計画 用語と事例のポイント</text>
+  <rect x="15" y="36" width="470" height="104" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="36" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="48" font-weight="700" fill="#1e3a8a">建築計画・設備</text>
+    <text x="22" y="64">ダブルデッキ：2階建てかごで奇数・偶数階を同時輸送 ×コンベンショナルゾーニング</text>
+    <text x="22" y="80">全館避難安全検証：テナント入替が多い店舗は再認定が要る大臣個別認定（ルートC）は不向き</text>
+    <text x="22" y="96">ビル風対策：出隅の曲面化、外周に常緑高木（クスノキ・シラカシ）</text>
+    <text x="22" y="112">江戸間（田舎間）＝柱心間隔を基準寸法の整数倍にする柱割り（シングルグリッド）</text>
+    <text x="22" y="128">積算：耐火被覆は材種・工法・耐火時間・部位（柱・梁）で区分して計測</text>
+  </g>
+  <rect x="15" y="146" width="470" height="104" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="146" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10.5" fill="#334155">
+    <text x="22" y="158" font-weight="700" fill="#92400e">事例・制度</text>
+    <text x="22" y="174">検査済証のない建築物の改修：確認済証の添付図書等で図上調査・現地調査</text>
+    <text x="22" y="190">ウォーカブルシティ：歩いて暮らせる都市（まちなかウォーカブル推進事業）</text>
+    <text x="22" y="206">TIME'S（安藤忠雄）：高瀬川に面したテラス・路地で水辺と一体化 ×屋根全体が大階段</text>
+    <text x="22" y="222">金山町（山形）：木材住宅の表彰制度＋景観条例／エンクロス（延岡）：PCa柱＋RC梁</text>
+    <text x="22" y="238">群馬県農業技術センター：小断面製材の格子状屋根／屋外木造は雨がかり・滞水を避ける</text>
+  </g>
+  <text x="250" y="292" text-anchor="middle" font-size="9.5" fill="#64748b">ダブルデッキ≠コンベンショナルゾーニング</text>
+</svg>

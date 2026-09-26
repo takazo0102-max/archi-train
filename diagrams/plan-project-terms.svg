@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">建築プロジェクトの用語と業務委託契約</text>
+  <rect x="15" y="34" width="470" height="100" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="16" fill="#dbeafe"/>
+  <g font-size="9.5" fill="#334155">
+    <text x="22" y="46" font-weight="700" fill="#1e3a8a">企画・発注・費用の用語</text>
+    <text x="22" y="62">フィージビリティ・スタディ：事業として実行可能かの検討 ／ BCP：業務を止めない・早く復旧</text>
+    <text x="22" y="77">コンカレントエンジニアリング：工程を重ねて同時進行 ／ フロントローディング：検討を前倒し</text>
+    <text x="22" y="92">デザインレビュー：設計段階で各部門が審査 ／ コストオン：専門業者の工事費＋元請経費</text>
+    <text x="22" y="107">コンセッション：所有権は公共のまま運営権を民間へ ／ プロジェクトファイナンス：事業収益が返済原資</text>
+    <text x="22" y="122" textLength="458" lengthAdjust="spacingAndGlyphs">オープンブック：コストを開示し監査 ／ CRE戦略：企業不動産を経営視点で見直す ／ LCA：全周期の環境負荷</text>
+  </g>
+  <rect x="15" y="142" width="470" height="86" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="142" width="470" height="16" fill="#fee2e2"/>
+  <g font-size="10" fill="#334155">
+    <text x="22" y="154" font-weight="700" fill="#991b1b">四会連合協定 建築設計・監理等業務委託契約約款</text>
+    <text x="22" y="170">委託者はいつでも書面で契約の全部・一部を解除できる（任意解除）</text>
+    <text x="22" y="185">受託者の債務不履行 → 相当の期間を定めて催告し、履行がなければ解除</text>
+    <text x="22" y="200">履行不能・履行拒絶の意思が明確 → 催告なしに解除 ／ 反社会的勢力の関与 → 協議なしに解除</text>
+    <text x="22" y="215">受託者が著作建築物に実名・変名を表示するには委託者の承諾が必要</text>
+  </g>
+  <rect x="15" y="236" width="470" height="44" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="236" width="470" height="16" fill="#fef3c7"/>
+  <g font-size="10" fill="#334155">
+    <text x="22" y="248" font-weight="700" fill="#92400e">工事費の単価</text>
+    <text x="22" y="264">複合単価＝材料・副資材・施工手間をまとめた単価 ／ 木取り＝規格長さの製材から部材を挽き出す</text>
+  </g>
+</svg>

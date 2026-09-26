@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">消火設備の種類と使いどころ</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="40" width="460" height="160" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="58" font-weight="700" fill="#1e293b">設備</text>
+    <text x="170" y="58" font-weight="700" fill="#1e293b">消火の仕方</text>
+    <text x="310" y="58" font-weight="700" fill="#1e293b">向く場所・数字</text>
+    <line x1="20" y1="64" x2="480" y2="64" stroke="#94a3b8"/>
+    <text x="30" y="82" font-weight="700">屋内消火栓（1号）</text><text x="170" y="82">人が放水・冷却</text><text x="310" y="82">半径 <tspan font-weight="700">25m</tspan>、放水 130L/分</text>
+    <text x="30" y="100" font-weight="700">屋内消火栓（2号）</text><text x="170" y="100">1人で操作</text><text x="310" y="100">半径 <tspan font-weight="700">15m</tspan>、放水 60L/分</text>
+    <text x="30" y="118" font-weight="700">スプリンクラー（閉鎖型）</text><text x="170" y="118">ヘッドが熱で開放・自動</text><text x="310" y="118" textLength="165" lengthAdjust="spacingAndGlyphs">11階以上・大規模。半径 2.3m（標準）</text>
+    <text x="30" y="136" font-weight="700">開放型・放水型</text><text x="170" y="136">一斉開放弁で放水</text><text x="310" y="136">舞台部／高天井（10m超）</text>
+    <text x="30" y="154" font-weight="700">水噴霧・泡</text><text x="170" y="154">霧・泡で窒息＋冷却</text><text x="310" y="154">駐車場・油火災（電気室は×）</text>
+    <text x="30" y="172" font-weight="700">不活性ガス・ハロゲン化物</text><text x="170" y="172">酸素濃度低下・負触媒</text><text x="310" y="172">電気室・通信機械室・書庫</text>
+    <text x="30" y="190" font-weight="700">粉末</text><text x="170" y="190">窒息・抑制</text><text x="310" y="190">駐車場・ボイラー室</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="208" width="460" height="66" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="226">● スプリンクラー：湿式（通常）／乾式（凍結のおそれ）／予作動式（電算室など）</text>
+    <text x="30" y="244">● 連結送水管：7階以上、または5階以上で延べ6,000m²超。放水口は3階以上の各階</text>
+    <text x="30" y="262">● 連結散水（地階）・非常コンセント（11階以上）・無線通信補助（地下街）</text>
+  </g>
+  <text x="250" y="292" text-anchor="middle" font-size="10" fill="#64748b">補助散水栓はスプリンクラーの未警戒部分を補う（半径 15m）</text>
+</svg>

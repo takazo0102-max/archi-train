@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">防火地域・準防火地域の建築物（法61条）</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="40" width="460" height="110" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="58" font-weight="700" fill="#1e293b">地域</text><text x="140" y="58" font-weight="700" fill="#1e293b">規模</text><text x="330" y="58" font-weight="700" fill="#1e293b">求められる性能</text>
+    <line x1="20" y1="64" x2="480" y2="64" stroke="#94a3b8"/>
+    <text x="30" y="82" font-weight="700" fill="#b91c1c">防火地域</text><text x="140" y="82">階数3以上 or 延べ100m²超</text><text x="330" y="82"><tspan font-weight="700">耐火建築物</tspan>（同等以上）</text>
+    <text x="30" y="100"></text><text x="140" y="100">その他（2階以下かつ100m²以下）</text><text x="330" y="100">準耐火建築物（同等以上）</text>
+    <text x="30" y="118" font-weight="700" fill="#b45309">準防火地域</text><text x="140" y="118">階数4以上 or 延べ1,500m²超</text><text x="330" y="118"><tspan font-weight="700">耐火建築物</tspan></text>
+    <text x="140" y="136">3階 or 500m²超〜1,500m²以下</text><text x="330" y="136" textLength="145" lengthAdjust="spacingAndGlyphs">準耐火建築物（木造3階は技術基準）</text>
+    <text x="140" y="148" font-size="10" fill="#64748b">2階以下かつ500m²以下：外壁・軒裏を防火構造、開口部に防火設備</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="158" width="460" height="112" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="176" font-weight="700" fill="#1e293b">ポイント</text>
+    <text x="30" y="194">● 防火地域内の <tspan font-weight="700">看板・広告塔</tspan>：屋上に設けるもの、高さ3m超は主要部を不燃材料</text>
+    <text x="30" y="212">● 屋根は不燃材料等（法62条）。外壁が耐火構造なら隣地境界線に接して建てられる</text>
+    <text x="30" y="230" textLength="445" lengthAdjust="spacingAndGlyphs">● 両地域にまたがる → 厳しい方（防火地域）の規定。ただし防火壁で区画されていれば別々に</text>
+    <text x="30" y="248">● 延焼のおそれのある部分の開口部：<tspan font-weight="700">防火設備</tspan>（遮炎 20分）</text>
+    <text x="30" y="264" font-size="10" fill="#64748b">● 卸売市場の上家・機械製作工場等で不燃材料の建築物は緩和（法61条ただし書）</text>
+  </g>
+  <text x="250" y="290" text-anchor="middle" font-size="10" fill="#64748b">耐火建築物＝主要構造部が耐火構造等＋延焼のおそれのある開口部に防火設備</text>
+</svg>

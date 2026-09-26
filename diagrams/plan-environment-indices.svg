@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">外部空間・都市環境の指標</text>
+  <!-- D/H 図 -->
+  <rect x="20" y="42" width="220" height="122" fill="#fff" stroke="#94a3b8"/>
+  <rect x="30" y="60" width="40" height="90" fill="#cbd5e1"/>
+  <rect x="170" y="60" width="40" height="90" fill="#cbd5e1"/>
+  <line x1="70" y1="140" x2="170" y2="140" stroke="#ef4444" stroke-width="2"/>
+  <text x="120" y="135" text-anchor="middle" font-size="10" font-weight="700" fill="#b91c1c">D</text>
+  <line x1="215" y1="60" x2="215" y2="150" stroke="#0ea5e9" stroke-width="2"/>
+  <text x="226" y="108" font-size="10" font-weight="700" fill="#0369a1">H</text>
+  <text x="120" y="52" text-anchor="middle" font-size="10" fill="#334155">D/H＝1：囲まれ感と開放感の均衡</text>
+  <text x="120" y="158" text-anchor="middle" font-size="10" fill="#334155">D/H＜1：圧迫　D/H＞2：散漫</text>
+  <text x="120" y="100" text-anchor="middle" font-size="9" fill="#64748b">芦原義信</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="255" y="42" width="230" height="120" fill="#fff" stroke="#94a3b8"/>
+    <text x="370" y="60" text-anchor="middle" font-weight="700" fill="#1e293b">ヒートアイランド対策</text>
+    <text x="263" y="80">● 屋上・壁面緑化、高反射率塗料（屋根）</text>
+    <text x="263" y="96">● 保水性舗装・透水性舗装で蒸発冷却</text>
+    <text x="263" y="112">● 風の道（河川・街路）を確保</text>
+    <text x="263" y="128">● 排熱削減：地域冷暖房・高効率機器</text>
+    <text x="263" y="144">● 地表面被覆の改善（アスファルト→緑）</text>
+    <text x="263" y="158" font-size="9" fill="#64748b">クールスポット・ミスト散布も</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="170" width="465" height="100" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="188" font-weight="700" fill="#1e293b">その他の指標・概念</text>
+    <text x="30" y="206">● 緑被率・緑化率（緑化地域は敷地の 20%〜）　● DID：人口集中地区（4,000 人/km²）</text>
+    <text x="30" y="224">● グロス／ネット密度：道路等を含む／宅地のみ　● 容積率・建蔽率・空地率＝1−建蔽率</text>
+    <text x="30" y="242">● ゲシュタルト：図と地　● シークエンス：連続する景観　● アイストップ：視線を止める</text>
+    <text x="30" y="260">● リンチ『都市のイメージ』：パス・エッジ・ディストリクト・ノード・ランドマーク</text>
+  </g>
+  <text x="250" y="290" text-anchor="middle" font-size="10" fill="#64748b">多雪地の市街地：無落雪屋根（落雪の危険・搬出を避ける）。積雪荷重と融雪も計画で考慮</text>
+</svg>

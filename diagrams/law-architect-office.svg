@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">建築士法：建築士と建築士事務所</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="40" width="225" height="122" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="58" font-weight="700" fill="#1e293b">建築士の義務</text>
+    <text x="30" y="76">● 設計図書に記名（一級建築士は表示も）</text>
+    <text x="30" y="94" textLength="210" lengthAdjust="spacingAndGlyphs">● 工事監理：図書と照合、不適合は施工者に注意</text>
+    <text x="30" y="112">　→ 従わないときは建築主に報告</text>
+    <text x="30" y="130" textLength="210" lengthAdjust="spacingAndGlyphs">● 定期講習：<tspan font-weight="700">3年</tspan>ごと（事務所所属の建築士）</text>
+    <text x="30" y="148" textLength="210" lengthAdjust="spacingAndGlyphs">● 免許：大臣（一級）／知事（二級・木造）</text>
+    <rect x="255" y="40" width="230" height="122" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="265" y="58" font-weight="700" fill="#1e293b">建築士事務所</text>
+    <text x="265" y="76">● 報酬を得て業務を行う → 登録が必要</text>
+    <text x="265" y="94">● 登録：知事、有効期間 <tspan font-weight="700">5年</tspan></text>
+    <text x="265" y="112">● 管理建築士：専任、実務 3年以上＋講習</text>
+    <text x="265" y="130">● 帳簿・図書の保存：<tspan font-weight="700">15年</tspan></text>
+    <text x="265" y="148">● 標識の掲示・書類の閲覧（業務実績等）</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="20" y="170" width="460" height="100" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="30" y="188" font-weight="700" fill="#1e293b">契約時の手続き（24条の7・8）</text>
+    <text x="30" y="206">● 設計受託契約・監理受託契約の前に、管理建築士等が<tspan font-weight="700">重要事項を書面で説明</tspan></text>
+    <text x="30" y="224">● 契約締結時には書面（業務内容・報酬・期間・再委託の有無など）を交付</text>
+    <text x="30" y="242">● 委託者の許諾があっても、一括再委託は禁止（延べ300m²超の新築等の設計・監理）</text>
+    <text x="30" y="260">● 名義貸しの禁止。無登録での業務は罰則。開設者は管理建築士の意見を尊重</text>
+  </g>
+  <text x="250" y="290" text-anchor="middle" font-size="10" fill="#64748b">懲戒：戒告・1年以内の業務停止・免許取消。構造／設備設計一級は一級で5年の実務＋講習</text>
+</svg>

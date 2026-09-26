@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">標準貫入試験（N値）</text>
+  <!-- ロッド -->
+  <line x1="200" y1="60" x2="200" y2="240" stroke="#64748b" stroke-width="5"/>
+  <!-- ハンマー -->
+  <rect x="175" y="70" width="50" height="34" fill="#475569" stroke="#334155" stroke-width="2"/>
+  <text x="290" y="92" font-size="12.5" fill="#334155" font-weight="700">ハンマー 63.5kg</text>
+  <!-- 落下高さ -->
+  <g stroke="#dc2626" stroke-width="1.5" fill="#dc2626">
+    <line x1="150" y1="70" x2="150" y2="150"/><polygon points="150,70 145,82 155,82"/><polygon points="150,150 145,138 155,138"/>
+  </g>
+  <text x="143" y="115" text-anchor="end" font-size="12" fill="#dc2626" font-weight="700">76cm 自由落下</text>
+  <!-- 地面 -->
+  <rect x="60" y="180" width="380" height="70" fill="#e7d8c4"/>
+  <line x1="60" y1="180" x2="440" y2="180" stroke="#b08d5a" stroke-width="2"/>
+  <!-- サンプラー貫入 30cm -->
+  <rect x="190" y="180" width="20" height="55" fill="#94a3b8" stroke="#64748b"/>
+  <g stroke="#2563eb" stroke-width="1.5" fill="#2563eb">
+    <line x1="245" y1="180" x2="245" y2="235"/><polygon points="245,180 240,192 250,192"/><polygon points="245,235 240,223 250,223"/>
+  </g>
+  <text x="255" y="212" font-size="12" fill="#2563eb" font-weight="700">30cm 貫入</text>
+  <text x="250" y="278" text-anchor="middle" font-size="12.5" fill="#334155" font-weight="700">63.5kgを76cm落下→30cm貫入に要する打撃回数＝N値</text>
+</svg>

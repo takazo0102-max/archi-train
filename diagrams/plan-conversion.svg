@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">保存・再生（コンバージョン）の事例と用語</text>
+  <g font-size="10.5" fill="#334155">
+    <rect x="15" y="40" width="470" height="146" fill="#fff" stroke="#94a3b8"/>
+    <text x="25" y="58" font-weight="700" fill="#1e293b">事例</text><text x="200" y="58" font-weight="700" fill="#1e293b">元の用途 → 再生後</text>
+    <line x1="15" y1="64" x2="485" y2="64" stroke="#94a3b8"/>
+    <text x="25" y="80">犬島精錬所美術館（岡山）</text><text x="200" y="80">銅精錬所の遺構 → 美術館（自然エネルギー利用）</text>
+    <text x="25" y="96">3331 Arts Chiyoda（東京）</text><text x="200" y="96">廃校の中学校 → アートセンター</text>
+    <text x="25" y="112">千葉市美術館</text><text x="200" y="112">旧川崎銀行を鞘堂方式で覆って保存</text>
+    <text x="25" y="128">ハイライン（NY）</text><text x="200" y="128">廃線の貨物高架 → 空中公園</text>
+    <text x="25" y="144">テート・モダン（ロンドン）</text><text x="200" y="144">発電所 → 現代美術館（タービンホール）</text>
+    <text x="25" y="160">カステルヴェッキオ（ヴェローナ）</text><text x="200" y="160">14 世紀の城 → 美術館（スカルパ）</text>
+    <text x="25" y="176">リンゴット（トリノ）</text><text x="200" y="176">フィアット自動車工場 → 複合施設・美術館（ピアノ）</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <rect x="15" y="194" width="470" height="80" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="25" y="212" font-weight="700" fill="#1e293b">用語</text>
+    <text x="25" y="230">● コンバージョン：用途を変えて再生（事務所→住宅）　● リノベーション：価値を高める改修</text>
+    <text x="25" y="248">● リファイニング：構造補強＋意匠刷新　● 鞘堂：既存全体を新築で覆う　● 曳家：建物移動</text>
+    <text x="25" y="266">● ファサード保存：外壁だけ残す　● 減築：床面積を減らす　● 免震レトロフィット</text>
+  </g>
+  <text x="250" y="292" text-anchor="middle" font-size="10" fill="#64748b">用途変更で 200m² 超の特殊建築物になると確認申請。既存不適格の遡及に注意</text>
+</svg>

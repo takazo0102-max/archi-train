@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#f1f5f9"/>
+  <text x="250" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">VAV方式（変風量方式）</text>
+  <!-- 空調機 -->
+  <rect x="40" y="120" width="70" height="60" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+  <text x="75" y="148" text-anchor="middle" font-size="11" fill="#1e40af">空調機</text>
+  <text x="75" y="164" text-anchor="middle" font-size="10" fill="#1e40af">温度一定</text>
+  <!-- ダクト -->
+  <rect x="110" y="140" width="280" height="20" fill="#cbd5e1"/>
+  <!-- VAVユニット 2つ -->
+  <rect x="200" y="140" width="34" height="20" fill="#60a5fa"/><text x="217" y="135" text-anchor="middle" font-size="9" fill="#1e40af">VAV</text>
+  <rect x="320" y="140" width="34" height="20" fill="#60a5fa"/><text x="337" y="135" text-anchor="middle" font-size="9" fill="#1e40af">VAV</text>
+  <!-- 各室へ -->
+  <rect x="190" y="190" width="60" height="50" fill="#fff" stroke="#94a3b8"/><text x="220" y="219" text-anchor="middle" font-size="10" fill="#475569">室A</text>
+  <rect x="310" y="190" width="60" height="50" fill="#fff" stroke="#94a3b8"/><text x="340" y="219" text-anchor="middle" font-size="10" fill="#475569">室B</text>
+  <line x1="217" y1="160" x2="217" y2="190" stroke="#60a5fa" stroke-width="6"/>
+  <line x1="337" y1="160" x2="337" y2="190" stroke="#60a5fa" stroke-width="10"/>
+  <text x="250" y="270" text-anchor="middle" font-size="13" fill="#334155" font-weight="700">給気温度は一定のまま、各室の負荷に応じて送風量を変える（省エネ）</text>
+</svg>

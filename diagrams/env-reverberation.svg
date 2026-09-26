@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">残響時間（Sabineの式）</text>
+  <!-- 式 -->
+  <rect x="20" y="45" width="220" height="70" rx="8" fill="#fff" stroke="#94a3b8"/>
+  <text x="130" y="75" text-anchor="middle" font-size="20" font-weight="700" fill="#1e293b">T = 0.161 × V / A</text>
+  <text x="130" y="100" text-anchor="middle" font-size="11" fill="#334155">V：室容積[m³]　A：吸音力＝Σ(α×S)[m²]</text>
+  <!-- 減衰曲線 -->
+  <rect x="260" y="45" width="225" height="130" fill="#fff" stroke="#94a3b8"/>
+  <line x1="280" y1="160" x2="470" y2="160" stroke="#64748b"/>
+  <line x1="280" y1="60" x2="280" y2="160" stroke="#64748b"/>
+  <path d="M280 70 L420 150" stroke="#0ea5e9" stroke-width="3"/>
+  <line x1="280" y1="70" x2="470" y2="70" stroke="#94a3b8" stroke-dasharray="3 3"/>
+  <line x1="280" y1="150" x2="470" y2="150" stroke="#94a3b8" stroke-dasharray="3 3"/>
+  <text x="474" y="74" font-size="10" fill="#334155">0dB</text>
+  <text x="474" y="154" font-size="10" fill="#334155">−60dB</text>
+  <text x="350" y="172" text-anchor="middle" font-size="10" fill="#334155">音を止めてから</text>
+  <text x="420" y="145" text-anchor="end" font-size="11" font-weight="700" fill="#0369a1">T：60dB減衰する時間</text>
+  <!-- ポイント -->
+  <g font-size="12" fill="#334155">
+    <text x="30" y="145">● 室容積 V が大きい → 長い（ホールの最適残響も長め）</text>
+    <text x="30" y="167">● 吸音力 A が大きい（人・椅子・吸音材）→ 短い</text>
+    <text x="30" y="189">● 満席時は空席時より短い</text>
+    <text x="30" y="211">● Sabine式は平均吸音率が大きい室で実際より長め</text>
+    <text x="30" y="233">　　（Eyring式のほうが正確・短い値になる）</text>
+    <text x="30" y="255">● 最適残響：講演 &lt; オペラ &lt; コンサートホール &lt; 教会音楽</text>
+  </g>
+  <text x="250" y="286" text-anchor="middle" font-size="11" fill="#64748b">低音域は残響が長くなりやすい（吸音材は高音域に効きやすい）</text>
+</svg>

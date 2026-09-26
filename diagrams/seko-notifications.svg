@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">工事の届出・申請：誰が・いつ・誰に</text>
+  <rect x="15" y="34" width="470" height="236" fill="#fff" stroke="#94a3b8"/>
+  <rect x="15" y="34" width="470" height="17" fill="#dbeafe"/>
+  <g font-size="9.5" fill="#334155">
+    <text x="20" y="46" font-weight="700" fill="#1e293b">届出・申請</text>
+    <text x="175" y="46" font-weight="700" fill="#1e293b">提出者</text>
+    <text x="235" y="46" font-weight="700" fill="#1e293b">期限</text>
+    <text x="330" y="46" font-weight="700" fill="#1e293b">提出先</text>
+    <text x="20" y="61">建築工事届（10m²超）</text>
+    <text x="175" y="61">建築主</text>
+    <text x="235" y="61">確認申請と同時</text>
+    <text x="330" y="61">建築主事経由 → 都道府県知事</text>
+    <rect x="15" y="66" width="470" height="16" fill="#f8fafc"/>
+    <text x="20" y="77">建築物除却届（10m²超）</text>
+    <text x="175" y="77">施工者</text>
+    <text x="235" y="77">着手前</text>
+    <text x="330" y="77">建築主事等経由 → 都道府県知事</text>
+    <text x="20" y="93">中間検査申請</text>
+    <text x="175" y="93">建築主</text>
+    <text x="235" y="93">特定工程後4日以内</text>
+    <text x="330" y="93">建築主事（指定機関）</text>
+    <rect x="15" y="98" width="470" height="16" fill="#f8fafc"/>
+    <text x="20" y="109">完了検査申請</text>
+    <text x="175" y="109">建築主</text>
+    <text x="235" y="109">完了から4日以内</text>
+    <text x="330" y="109">建築主事（指定機関）</text>
+    <text x="20" y="125">仮設建築物の許可申請</text>
+    <text x="175" y="125">建築主</text>
+    <text x="235" y="125">着手前</text>
+    <text x="330" y="125">特定行政庁</text>
+    <rect x="15" y="130" width="470" height="16" fill="#f8fafc"/>
+    <text x="20" y="141">安全上の措置計画届（工事中使用）</text>
+    <text x="175" y="141">建築主</text>
+    <text x="235" y="141">使用前</text>
+    <text x="330" y="141">特定行政庁</text>
+    <text x="20" y="157">建設工事計画届（高さ31m超等）</text>
+    <text x="175" y="157">事業者</text>
+    <text x="235" y="157">開始14日前</text>
+    <text x="330" y="157">労働基準監督署長</text>
+    <rect x="15" y="162" width="470" height="16" fill="#f8fafc"/>
+    <text x="20" y="173">共同企業体代表者届</text>
+    <text x="175" y="173">JV事業者</text>
+    <text x="235" y="173">開始14日前</text>
+    <text x="330" y="173">労基署長経由 → 都道府県労働局長</text>
+    <text x="20" y="189">特定建設作業実施届（騒音・振動）</text>
+    <text x="175" y="189">施工者</text>
+    <text x="235" y="189">開始7日前</text>
+    <text x="330" y="189">市町村長</text>
+    <rect x="15" y="194" width="470" height="16" fill="#f8fafc"/>
+    <text x="20" y="205">伝搬障害防止区域内（高さ31m超）</text>
+    <text x="175" y="205">建築主</text>
+    <text x="235" y="205">着手前</text>
+    <text x="330" y="205">総務大臣</text>
+    <text x="20" y="221">消防用設備等設置届</text>
+    <text x="175" y="221">関係者</text>
+    <text x="235" y="221">完了から4日以内</text>
+    <text x="330" y="221">消防長・消防署長</text>
+    <rect x="15" y="226" width="470" height="16" fill="#f8fafc"/>
+    <text x="20" y="237">危険物貯蔵所の設置許可</text>
+    <text x="175" y="237">設置者</text>
+    <text x="235" y="237">設置前</text>
+    <text x="330" y="237">市町村長（消防本部あり）</text>
+    <text x="20" y="253">歩道切下げの承認申請</text>
+    <text x="175" y="253">建築主</text>
+    <text x="235" y="253">工事前</text>
+    <text x="330" y="253">道路管理者</text>
+  </g>
+  <text x="15" y="286" font-size="10" fill="#b91c1c" font-weight="700" textLength="480" lengthAdjust="spacingAndGlyphs">ひっかけ：除却届は「施工者」／実施届は「市町村長」／JV届は「労働局長」／仮設許可は「特定行政庁」</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">必要換気量の考え方</text>
+  <!-- 室 -->
+  <rect x="30" y="60" width="180" height="120" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <text x="120" y="112" text-anchor="middle" font-size="12" fill="#334155">室内濃度 C [ppm]</text>
+  <text x="120" y="130" text-anchor="middle" font-size="11" fill="#334155">発生量 M [m³/h]</text>
+  <line x1="10" y1="90" x2="30" y2="90" stroke="#0ea5e9" stroke-width="4"/>
+  <text x="40" y="80" font-size="10" fill="#0369a1">外気 Co →</text>
+  <line x1="210" y1="150" x2="240" y2="150" stroke="#ef4444" stroke-width="4"/>
+  <text x="225" y="170" text-anchor="middle" font-size="10" fill="#b91c1c">排気 Q</text>
+  <!-- 式 -->
+  <rect x="255" y="50" width="230" height="70" rx="8" fill="#fff" stroke="#94a3b8"/>
+  <text x="370" y="78" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">Q = M / (C − Co)</text>
+  <text x="370" y="100" text-anchor="middle" font-size="10" fill="#334155">CO₂：C＝1,000ppm、Co＝400ppm程度</text>
+  <text x="370" y="113" text-anchor="middle" font-size="10" fill="#334155">発生量 0.02m³/h/人（安静）→ 約30m³/h/人</text>
+  <g font-size="11" fill="#334155">
+    <rect x="255" y="130" width="230" height="110" rx="8" fill="#fff" stroke="#94a3b8"/>
+    <text x="265" y="150" font-weight="700" fill="#1e293b">覚えておく数字</text>
+    <text x="265" y="168">● 一人あたり 20〜30 m³/h（居室）</text>
+    <text x="265" y="184">● 換気回数 n＝Q／室容積 [回/h]</text>
+    <text x="265" y="200" textLength="215" lengthAdjust="spacingAndGlyphs">● 住宅の機械換気 0.5回/h以上（シックハウス）</text>
+    <text x="265" y="216">● 令20条の2：無窓居室 20m³/h/人</text>
+    <text x="265" y="232" textLength="215" lengthAdjust="spacingAndGlyphs">● 燃焼器具：理論廃ガス量の40倍（開放型）</text>
+  </g>
+  <text x="120" y="205" text-anchor="middle" font-size="11" fill="#334155">濃度差が小さいほど大きな換気量が必要</text>
+  <text x="120" y="222" text-anchor="middle" font-size="11" fill="#334155">（分母が小さくなる）</text>
+  <text x="250" y="262" text-anchor="middle" font-size="10.5" fill="#334155">第1種：給気機＋排気機／第2種：給気機のみ（正圧）／第3種：排気機のみ（負圧・便所・台所）</text>
+  <text x="250" y="282" text-anchor="middle" font-size="10" fill="#64748b">換気効率：空気齢が短いほど新鮮。置換換気は下から給気・上から排気で効率が良い</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">非常用の照明装置（令126条の4・5）</text>
+  <!-- 断面 -->
+  <rect x="30" y="60" width="220" height="150" fill="#1e293b"/>
+  <circle cx="90" cy="80" r="8" fill="#fde68a"/><circle cx="190" cy="80" r="8" fill="#fde68a"/>
+  <path d="M90,88 L60,205 L120,205 Z" fill="#fef3c7" opacity="0.35"/>
+  <path d="M190,88 L160,205 L220,205 Z" fill="#fef3c7" opacity="0.35"/>
+  <rect x="30" y="205" width="220" height="5" fill="#94a3b8"/>
+  <text x="140" y="228" text-anchor="middle" font-size="11" fill="#334155">床面で 1lx以上（蛍光灯・LEDは2lx以上）</text>
+  <text x="140" y="244" text-anchor="middle" font-size="11" fill="#334155">予備電源で30分間点灯 ／ 直接照明</text>
+  <g font-size="11" fill="#334155">
+    <text x="270" y="70" font-weight="700" fill="#1e293b">設置が必要（居室＋地上への通路）</text>
+    <text x="270" y="88">・別表1の特殊建築物の居室</text>
+    <text x="270" y="104">・階数3以上で延べ500m²超の建築物</text>
+    <text x="270" y="120">・延べ1,000m²超の建築物</text>
+    <text x="270" y="136">・無窓の居室</text>
+    <text x="270" y="162" font-weight="700" fill="#1e293b">不要</text>
+    <text x="270" y="180">・一戸建住宅・長屋・共同住宅の住戸</text>
+    <text x="270" y="196">・病院の病室、下宿の宿泊室、寄宿舎の寝室</text>
+    <text x="270" y="212" textLength="225" lengthAdjust="spacingAndGlyphs">・学校等（体育館・ボーリング場・スポーツ練習場…）</text>
+    <text x="270" y="228" textLength="225" lengthAdjust="spacingAndGlyphs">・避難階・直上階・直下階の居室で歩行30m以内</text>
+    <text x="270" y="244">・直接外気に開放された廊下・階段</text>
+    <text x="270" y="270" font-weight="700" fill="#b91c1c">全館・階避難安全検証でも除外されない</text>
+  </g>
+</svg>
