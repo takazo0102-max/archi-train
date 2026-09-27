@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="system-ui, sans-serif">
+  <rect width="500" height="300" fill="#eaf2fb"/>
+  <text x="250" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">工事費の構成（公共建築工事）</text>
+  <g stroke="#64748b" font-size="11" fill="#1e293b">
+    <!-- 左から大きな区分。右へ行くほど内訳 -->
+    <rect x="15" y="42" width="62" height="200" fill="#dbeafe"/>
+    <rect x="80" y="42" width="72" height="170" fill="#e0f2fe"/>
+    <rect x="155" y="42" width="72" height="140" fill="#f0f9ff"/>
+    <rect x="230" y="42" width="72" height="110" fill="#fff"/>
+    <rect x="305" y="42" width="180" height="80" fill="#fff"/>
+    <rect x="305" y="122" width="180" height="30" fill="#fef3c7"/>
+    <rect x="230" y="152" width="255" height="30" fill="#fef3c7"/>
+    <rect x="155" y="182" width="330" height="30" fill="#fef3c7"/>
+    <rect x="80" y="212" width="405" height="30" fill="#f1f5f9"/>
+  </g>
+  <g font-size="12" font-weight="700" fill="#1e293b" text-anchor="middle">
+    <text x="46" y="146">工事費</text>
+    <text x="116" y="131">工事価格</text>
+    <text x="191" y="116">工事原価</text>
+    <text x="266" y="101">純工事費</text>
+    <text x="395" y="87">直接工事費</text>
+  </g>
+  <g font-size="12" fill="#1e293b">
+    <text x="318" y="142"><tspan font-weight="700" fill="#b45309">C</tspan>　共通仮設費</text>
+    <text x="243" y="172"><tspan font-weight="700" fill="#b45309">B</tspan>　現場管理費</text>
+    <text x="168" y="202"><tspan font-weight="700" fill="#b45309">A</tspan>　一般管理費等</text>
+    <text x="93" y="232">消費税等相当額</text>
+  </g>
+  <g font-size="10" fill="#92400e">
+    <text x="480" y="142" text-anchor="end">共通費</text>
+    <text x="480" y="172" text-anchor="end">共通費</text>
+    <text x="480" y="202" text-anchor="end">共通費</text>
+  </g>
+  <g font-size="10.5" fill="#334155">
+    <text x="15" y="262">● 純工事費＝直接工事費＋共通仮設費 ／ 工事原価＝純工事費＋現場管理費</text>
+    <text x="15" y="277">● 工事価格＝工事原価＋一般管理費等 ／ 工事費＝工事価格＋消費税等相当額</text>
+    <text x="15" y="292">● 共通費＝共通仮設費＋現場管理費＋一般管理費等（福利厚生費は現場管理費の内訳）</text>
+  </g>
+</svg>
